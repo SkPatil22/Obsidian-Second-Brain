@@ -21,6 +21,6 @@ tags: [meta, hot-cache]
 - See [[index]] for counts (1 source · 6 concepts · 7 entities · 4 domain pages).
 
 ## Active Threads
-- **Phase 2 direction set:** Telegram → inbox → auto-ingest (NO triage gate, no review). Big historical dumps get on-demand multi-agent triage that Sachet starts from Claude Desktop, infrequently. Build order: Telegram bot → ingest worker (`claude -p`).
+- **Phase 2 bot BUILT** (`~/brain-infra/brain_bot.py`, systemd `brain-bot.service`): Telegram → vault `.raw/` → auto-ingest via `claude -p` (no triage, no review). **Needs only a @BotFather token** — run `~/brain-infra/activate-telegram.sh`. Big historical dumps still get on-demand multi-agent triage from Claude Desktop.
 - **Sync** still needs Sachet's GitHub steps (`~/brain-infra/README.md`).
 - Seattle trip has open action items (rental car, Port Angeles lodging, restaurant bookings) in the project note.
