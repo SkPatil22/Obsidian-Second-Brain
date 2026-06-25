@@ -11,4 +11,4 @@ tags: [meta, index, project]
 Things with an outcome and a finish line. A project closes when its goal is met. Long-running concerns belong in [[areas/_index|Areas]] instead.
 
 ## Pages
-_None yet._
+- [[Second Brain Roadmap]] — the staged build-out (Phase 1 done; sync prepped; Phase 2 scoped). ⭐ active
