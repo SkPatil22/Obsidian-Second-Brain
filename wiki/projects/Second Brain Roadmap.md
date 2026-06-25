@@ -18,10 +18,10 @@ The staged build-out of this vault into an always-on personal knowledge + automa
 - **Phase 1.5 — Sync** 🟡 prepped, awaiting GitHub auth. `~/brain-infra/sync.sh` + cron push every 15 min; Windows/phone Obsidian become git-synced clients. Activate with `~/brain-infra/activate-sync.sh`.
 
 ## Next
-- **Phase 2 — Always-on ingestion** 📋 scoped. Design in `~/brain-infra/PHASE2-DESIGN.md`.
-  - Triage (free, local **Ollama**) → keepers processed by headless **`claude -p`** (Pro plan, **no API spend**) → filed + synced.
-  - Intake: drop folder → Telegram bot → (later) real SMS. The path to *"text a phone number."*
-  - The "do I give a fuck" filter: conservative, structured, logged; uncertain → `inbox/needs-review/`.
+- **Phase 2 — Always-on ingestion** 📋 next build. Design in `~/brain-infra/PHASE2-DESIGN.md`.
+  - **Telegram bot → `inbox/` → auto-ingest** via headless **`claude -p`** (Pro plan, **no API spend**) → filed + synced. **No triage gate, no review** — everything that comes in gets distilled and sorted (the [[Ingest Query Lint|ingest]] loop).
+  - **Big historical dumps** (camera roll, old files) get **on-demand multi-agent triage** that Sachet kicks off from Claude Desktop — infrequent, not always-on.
+  - The **[[Second Brain Roadmap|/brain skill]]** is the manual front-door for the same loop (`~/.claude/skills/brain/`).
 - **Phase 3 — Scheduled routines** — morning weather / news / finance brief.
 - **Phase 4 — Retrieval** — [[qmd]] or similar once the wiki outgrows [[Index and Log|the index]].
 - **Phase 5+ — Agents** — read-only → reversible actions → (last, gated) capital allocation.

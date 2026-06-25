@@ -18,14 +18,31 @@
         "wiki/entities/qmd.md",
         "wiki/entities/Memex.md"
       ],
-      "pages_updated": [
-        "wiki/index.md",
-        "wiki/sources/_index.md",
-        "wiki/concepts/_index.md",
-        "wiki/entities/_index.md",
-        "wiki/log.md",
-        "wiki/hot.md"
-      ]
+      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
+    },
+    ".raw/raspberry-chocolate-cake-research-2026-06-25.md": {
+      "hash": "e53dd1bb273b7f9b9f9738467081388a5295929e1c151683cab309abf27464d6",
+      "hash_algo": "sha256",
+      "ingested_at": "2026-06-25",
+      "via": "brain skill",
+      "pages_created": [
+        "wiki/recipes/Raspberry Chocolate Cake.md",
+        "wiki/learning/Baking - Berries and Moisture.md"
+      ],
+      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
+    },
+    ".raw/seattle-trip-research-2026-06-25.md": {
+      "hash": "27ecf7f9d0528dff48bc54fb1f95957bb611e4db08491cd528f917fef8810980",
+      "hash_algo": "sha256",
+      "ingested_at": "2026-06-25",
+      "via": "brain skill",
+      "pages_created": [
+        "wiki/projects/Seattle Trip 2026-07.md",
+        "wiki/entities/Mount Rainier National Park.md",
+        "wiki/entities/Olympic National Park.md",
+        "wiki/entities/Pike Place Market.md"
+      ],
+      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
     }
   }
 }

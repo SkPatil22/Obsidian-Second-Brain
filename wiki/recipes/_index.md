@@ -11,4 +11,4 @@ tags: [meta, index, recipe]
 One cookable recipe per note — ingredients, steps, timing, source. Parsed from anything: a blog, a screenshot, or a reel/TikTok link distilled down to the actual method.
 
 ## Pages
-_None yet._
+- [[Raspberry Chocolate Cake]] — moist chocolate layer cake, raspberry filling, ganache drip. _untested_

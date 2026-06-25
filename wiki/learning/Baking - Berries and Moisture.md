@@ -1,0 +1,35 @@
+---
+type: learning
+title: "Baking — Berries & Moisture"
+status: active
+area: creative
+source: "[[.raw/raspberry-chocolate-cake-research-2026-06-25.md]]"
+created: 2026-06-25
+updated: 2026-06-25
+tags: [learning, baking, technique]
+---
+
+# Baking — Berries & Moisture
+
+Reusable techniques extracted from cake research. Recipes link here instead of repeating the theory (e.g. [[Raspberry Chocolate Cake]]).
+
+## Keeping a cake moist
+- **Hot liquid in the batter** (boiling water or hot coffee): dissolves sugar, blooms cocoa, kick-starts leavening → fast set, moist crumb. Coffee deepens chocolate without tasting of coffee.
+- **Oil over all-butter** for a crumb that stays tender even cold.
+- **Buttermilk** adds tang and tenderness (acid + baking soda).
+- A **thin batter is correct** for these cakes — don't add flour to "fix" it.
+
+## Stopping berries from sinking
+Sinking = berry weight beats batter body before the crumb sets. Fixes:
+1. **Scoopable, not pourable** batter holds berries up.
+2. **Dry berries** well — water adds weight + slip.
+3. **Toss in flour/starch** (~1 tbsp) for grip.
+4. **Par-bake base trick**: spread a thin plain-batter layer, bake a few min until just set, fold berries into the rest, pour over the semi-set base.
+
+## Fresh vs frozen raspberries
+- **Frozen** → cakes/muffins: hold shape, less bleeding. Add **unthawed**.
+- **Fresh** → fillings, compote, décor: best appearance + structure.
+
+## Ganache drip control
+- High-fat **heavy cream** → rich, stable, non-grainy ganache.
+- **Cold cake + cooled ganache = controlled drip.** Warm + warm = a puddle. Chill the assembled cake ~1 hr first.
