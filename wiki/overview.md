@@ -1,70 +1,31 @@
 ---
-type: overview
-title: "Wiki Overview"
-created: 2026-04-07
-updated: 2026-04-07
-tags:
-  - meta
-  - overview
-status: developing
-related:
-  - "[[index]]"
-  - "[[hot]]"
-  - "[[log]]"
-  - "[[dashboard]]"
-  - "[[LLM Wiki Pattern]]"
-sources:
+type: meta
+title: "Overview"
+created: 2026-06-24
+updated: 2026-06-24
+tags: [meta, overview]
 ---
 
-# Wiki Overview
+# Overview
 
-Navigation: [[index]] | [[hot]] | [[log]] | [[dashboard]]
+**This vault is Sachet's personal second brain** — a persistent, compounding knowledge base across all life domains: work, finance, recipes, projects, learning, and ideas.
 
----
+It follows Karpathy's *LLM Wiki* pattern: plain Markdown you own, where Claude reads sources, distills them, cross-links everything, and the knowledge compounds with every session. The wiki is the product; chat is just the interface.
 
-## Purpose
+## How it works
 
-This is the claude-obsidian demo vault. It demonstrates the [[LLM Wiki Pattern]] — a system for building persistent, compounding knowledge bases using Claude and Obsidian.
+1. **Raw in.** Sources land in `.raw/` (articles, links, transcripts, screenshots, recipes). They are immutable — read, never edited.
+2. **Distilled out.** Claude ingests a source and writes 1–N pages into `wiki/`: a source summary, plus any concepts, entities, and domain notes it touches. Everything is cross-linked with `[[wikilinks]]`.
+3. **It compounds.** Each new source links into what's already here. Contradictions get flagged. The graph gets denser.
 
-Run `/wiki` to scaffold this vault for your own domain and replace this overview.
+## The "do I give a fuck" filter
 
----
+Not everything gets ingested. A random screenshot is noise; your insurance card is signal. When in doubt, a source is filed conservatively rather than discarded, and low-confidence items are flagged for review rather than silently dropped.
 
-## Current Seed Content
+## Where things live
 
+See [[index]] for the full map. Domains hold *your* curated notes; `sources/`, `concepts/`, and `entities/` are the knowledge layer the ingestion pipeline builds automatically.
 
-**Concepts seeded:**
-- [[LLM Wiki Pattern]] — the core architecture
-- [[Hot Cache]] — session context mechanism
-- [[Compounding Knowledge]] — why the pattern works
+## Status
 
-**Entities seeded:**
-- [[Andrej Karpathy]] — originated the pattern
-
-**Sources seeded:**
-- [[claude-obsidian-ecosystem-research]] — 16+ projects, 13 cherry-picks identified (2026-04-08)
-
----
-
-## Current State
-
-- Sources ingested: 2
-- Wiki pages: 26
-- Last activity: 2026-04-08 (v1.4.1 shipped, release session filed)
-
----
-
-## Canvases
-
-- [[claude-obsidian-presentation]] — Full presentation: hero, overview, skills, architecture, Wiki vs RAG, visual demos (2026-04-07)
-- [[AI Marketing Hub Cover Images Canvas]] — Cover image library for AI Marketing Hub brand assets
-
----
-
-## Key Themes
-
-**Knowledge compounds.** Unlike RAG, the wiki pre-compiles synthesis. Cross-references are already there. Contradictions are flagged. Every ingest enriches existing pages rather than adding isolated chunks.
-
-**The hot cache is the force multiplier.** A ~500-word file captures recent context. New sessions start with full context at minimal token cost.
-
-**Obsidian is the IDE, Claude is the programmer.** The graph view shows what's connected. The human curates sources and asks questions. Claude writes and maintains everything else.
+Bootstrapped 2026-06-24 on the Raspberry Pi (canonical home). Transport: filesystem. Phase 1 of the larger plan — the always-on ingestion service, scheduled routines, and retrieval come later.

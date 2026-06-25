@@ -8,15 +8,30 @@ This folder is both a Claude Code plugin and an Obsidian vault.
 
 ## What This Vault Is For
 
-This vault demonstrates the LLM Wiki pattern — a persistent, compounding knowledge base for Claude + Obsidian. Drop any source, ask any question, and the wiki grows richer with every session.
+**Owner:** Sachet · **Created:** 2026-06-24 · **Wiki mode:** D (Personal / Second Brain) · **Methodology:** generic · **Transport:** filesystem · **Canonical home:** this Raspberry Pi (`~/claude-obsidian`)
+
+This is Sachet's personal second brain — a persistent, compounding knowledge base across all life domains: work, finance, recipes, projects, learning, and ideas. Drop any source (article, link, transcript, recipe reel, screenshot), ask any question, and the wiki grows richer every session. Follows Karpathy's LLM Wiki pattern: plain Markdown you own.
+
+Read [[wiki/overview]] for the philosophy, [[wiki/index]] for the map, [[wiki/meta/conventions]] for the rules, and [[wiki/hot]] for "where were we?". The original plugin demo wiki is preserved (hidden) in `.seed-demo/` for reference.
 
 ## Vault Structure
 
 ```
 .raw/           source documents — immutable, Claude reads but never modifies
 wiki/           Claude-generated knowledge base
+  areas/        ongoing life areas (health, finance, career, home)
+  projects/     things with an outcome and a finish line
+  recipes/      cookable recipes parsed from any source
+  learning/     concepts and skills you're mastering
+  people/       relationships, birthdays, follow-ups
+  ideas/        sparks — design, product, writing
+  resources/    books, courses, tools worth referencing
+  sources/      one summary per ingested source   (ingestion layer)
+  concepts/     extracted ideas and frameworks     (ingestion layer)
+  entities/     people, orgs, products, repos       (ingestion layer)
+  meta/         conventions, dashboards
 _templates/     Obsidian Templater templates
-_attachments/   images and PDFs referenced by wiki pages
+.seed-demo/     original plugin demo wiki, preserved for reference
 ```
 
 ## How to Use

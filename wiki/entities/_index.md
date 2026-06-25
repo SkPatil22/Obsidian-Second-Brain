@@ -1,43 +1,17 @@
 ---
 type: meta
-title: "Entities Index"
-updated: 2026-04-07
-tags:
-  - meta
-  - index
-  - entity
-status: evergreen
-related:
-  - "[[index]]"
-  - "[[Andrej Karpathy]]"
-  - "[[hot]]"
-  - "[[LLM Wiki Pattern]]"
+title: "Entities — Index"
+created: 2026-06-24
+updated: 2026-06-24
+tags: [meta, index, entity]
 ---
 
-# Entities Index
+# Entities
 
-Navigation: [[index]] | [[concepts/_index|Concepts]] | [[sources/_index|Sources]]
+People, organizations, products, repos, and places referenced across the vault. One page per entity, accreting facts from every source that mentions it.
 
-All entity pages — people, organizations, products, and tools.
-
----
-
-## People
-
-- [[Andrej Karpathy]] — AI researcher, educator; originated the LLM Wiki pattern
-
----
-
-## Organizations
-
-<!-- Add organization pages here -->
-
----
-
-## Products & Tools
-
-<!-- Add tool and product pages here -->
-
----
-
-## Add new entities here as they are identified during ingests.
+## Pages
+- [[Andrej Karpathy]] — author of the foundational essay (person)
+- [[Obsidian]] — the Markdown front-end (tool)
+- [[qmd]] — local Markdown search engine, for later scale (tool)
+- [[Memex]] — Vannevar Bush's 1945 ancestor of the idea (history)

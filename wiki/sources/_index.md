@@ -1,42 +1,14 @@
 ---
 type: meta
-title: "Sources Index"
-updated: 2026-04-07
-tags:
-  - meta
-  - index
-  - source
-status: evergreen
-related:
-  - "[[index]]"
-  - "[[log]]"
-  - "[[entities/_index]]"
-  - "[[Andrej Karpathy]]"
+title: "Sources — Index"
+created: 2026-06-24
+updated: 2026-06-24
+tags: [meta, index, source]
 ---
 
-# Sources Index
+# Sources
 
-Navigation: [[index]] | [[concepts/_index|Concepts]] | [[entities/_index|Entities]]
+One summary page per ingested raw source. Each links out to the concepts, entities, and domain notes it produced. Built automatically by ingestion — the audit trail from raw input to distilled knowledge.
 
-All source pages — summaries of ingested documents, transcripts, articles, and data.
-
----
-
-## Transcripts
-
-
----
-
-## Articles
-
-<!-- Add article source pages here -->
-
----
-
-## Papers
-
-<!-- Add paper source pages here -->
-
----
-
-## Add new sources here after each ingest.
+## Pages
+- [[Karpathy - LLM Wiki]] — the LLM Wiki pattern (foundational). Ingested 2026-06-24.

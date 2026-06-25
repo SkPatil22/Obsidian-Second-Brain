@@ -1,9 +1,31 @@
 {
-  "version": 1,
-  "created": "2026-04-23",
-  "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
-  "sources": {},
-  "address_map": {
-    "wiki/concepts/DragonScale Memory.md": "c-000001"
+  "sources": {
+    ".raw/karpathy-llm-wiki-2026-06-24.md": {
+      "hash": "dc3efe98ae62f23dd08acad13aba2e95287beb20b6bec2f4af0423557fe37401",
+      "hash_algo": "sha256",
+      "ingested_at": "2026-06-24",
+      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "pages_created": [
+        "wiki/sources/Karpathy - LLM Wiki.md",
+        "wiki/concepts/LLM Wiki Pattern.md",
+        "wiki/concepts/Wiki vs RAG.md",
+        "wiki/concepts/Compounding Knowledge Artifact.md",
+        "wiki/concepts/Three-Layer Architecture.md",
+        "wiki/concepts/Ingest Query Lint.md",
+        "wiki/concepts/Index and Log.md",
+        "wiki/entities/Andrej Karpathy.md",
+        "wiki/entities/Obsidian.md",
+        "wiki/entities/qmd.md",
+        "wiki/entities/Memex.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/_index.md",
+        "wiki/entities/_index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    }
   }
 }
