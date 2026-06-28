@@ -15,7 +15,7 @@ Reusable techniques extracted from cake research. Recipes link here instead of r
 
 ## Keeping a cake moist
 - **Hot liquid in the batter** (boiling water or hot coffee): dissolves sugar, blooms cocoa, kick-starts leavening → fast set, moist crumb. Coffee deepens chocolate without tasting of coffee.
-- **Oil over all-butter** for a crumb that stays tender even cold.
+- **Oil over all-butter** for a crumb that stays tender even cold. Butter is only ~80% fat — the rest is milk solids and water, which tighten the crumb structure and cause it to firm up when chilled. Pure oil = pure fat → softer texture at any temperature.
 - **Buttermilk** adds tang and tenderness (acid + baking soda).
 - A **thin batter is correct** for these cakes — don't add flour to "fix" it.
 
