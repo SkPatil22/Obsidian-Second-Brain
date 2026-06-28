@@ -43,8 +43,7 @@
         "wiki/entities/Pike Place Market.md"
       ],
       "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
-    }
-  },
+    },
     ".raw/tg-20260628-201312-655215-note.md": {
       "ingested_at": "2026-06-28",
       "via": "telegram bot",
