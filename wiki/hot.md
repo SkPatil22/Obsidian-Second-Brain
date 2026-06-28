@@ -17,7 +17,7 @@ tags: [meta, hot-cache]
 - Vault on the Pi at `~/claude-obsidian`, transport `filesystem`. Standing rule: **full automation, never review, never touch Obsidian manually.**
 
 ## Recent Changes
-- 2026-06-28: Librarian pass — graph densified (15 files), Phase 2 status corrected to ✅, self-link bug fixed, sister parks cross-linked. See [[log]] and [[meta/maintenance/2026-06-28]].
+- 2026-06-28: Librarian pass — graph densified (15 files), Phase 2 status corrected to ✅, self-link bug fixed, sister parks cross-linked. See [[log]] and [[meta/maintenance/maintenance-2026-06-28]].
 - 2026-06-28: Extended [[Baking - Berries and Moisture]] with the oil-vs-butter WHY (milk solids + 80% fat). Via Telegram.
 - 2026-06-28: Reorg — created `travel/`, moved [[Seattle Trip 2026-07]] there; moved [[Baking - Berries and Moisture]] into `recipes/`.
 - See [[index]] for counts (1 source · 6 concepts · 7 entities · 4 domain pages).
