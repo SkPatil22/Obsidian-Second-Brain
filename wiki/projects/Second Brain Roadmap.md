@@ -22,7 +22,8 @@ The staged build-out of this vault into an always-on personal knowledge + automa
   - **Telegram bot → vault `.raw/` → auto-ingest** via headless **`claude -p`** (Pro plan, **no API spend**) → filed + synced. **No triage gate, no review** — everything that comes in gets distilled and sorted (the [[Ingest Query Lint|ingest]] loop).
   - **Big historical dumps** (camera roll, old files) get **on-demand multi-agent triage** that Sachet kicks off from Claude Desktop — infrequent, not always-on.
   - The `/brain` skill is the manual front-door for the same loop (`~/.claude/skills/brain/`).
-- **Phase 3 — Scheduled routines** — morning weather / news / finance brief.
+- **Phase 3 — Scheduled routines** ✅ **live 2026-06-28**. Morning brief (Raleigh weather + markets + sports for all six teams + politics) at 7am → daily note + Telegram. **Reminders** ("remind me to X tomorrow at 3pm") via the bot, fired by a 5-min cron, reflected into the calendar. **Email → action items** built (needs a Gmail app password to switch on).
+- **Media parsing** ✅ **live** — TikTok / Reddit / X / Instagram / YouTube links you send get auto-extracted to text (`~/brain-infra/routines/fetch_media.py`) before filing. Reddit via RSS, others via yt-dlp + captions.
 - **Phase 4 — Retrieval** — [[qmd]] or similar once the wiki outgrows [[Index and Log|the index]].
 - **Phase 5+ — Agents** — read-only → reversible actions → (last, gated) capital allocation.
 
