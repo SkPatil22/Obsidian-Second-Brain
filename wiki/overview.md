@@ -2,7 +2,7 @@
 type: meta
 title: "Overview"
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-06-28
 tags: [meta, overview]
 ---
 
@@ -10,7 +10,7 @@ tags: [meta, overview]
 
 **This vault is Sachet's personal second brain** — a persistent, compounding knowledge base across all life domains: work, finance, recipes, projects, learning, and ideas.
 
-It follows Karpathy's *LLM Wiki* pattern: plain Markdown you own, where Claude reads sources, distills them, cross-links everything, and the knowledge compounds with every session. The wiki is the product; chat is just the interface.
+It follows [[Andrej Karpathy|Karpathy's]] *[[LLM Wiki Pattern|LLM Wiki]]* pattern: plain Markdown you own, where Claude reads sources, distills them, cross-links everything, and the knowledge compounds with every session. The wiki is the product; chat is just the interface.
 
 ## How it works
 
@@ -28,4 +28,4 @@ See [[index]] for the full map. Domains hold *your* curated notes; `sources/`, `
 
 ## Status
 
-Bootstrapped 2026-06-24 on the Raspberry Pi (canonical home). Transport: filesystem. Phase 1 of the larger plan — the always-on ingestion service, scheduled routines, and retrieval come later.
+Bootstrapped 2026-06-24 on the Raspberry Pi (canonical home). Transport: filesystem. See [[Second Brain Roadmap]] for the full build-out. Phase 2 (always-on Telegram ingestion) is live as of 2026-06-28. Scheduled routines and retrieval ([[qmd]]) come next.

@@ -21,3 +21,7 @@ The structural backbone of the [[LLM Wiki Pattern]]. Three layers, strict owners
 The **schema is the key file** — it's what makes the LLM a disciplined wiki maintainer rather than a generic chatbot. You and the LLM refine it over time as you learn what works for your domains.
 
 See [[Ingest Query Lint]] for the operations that move data between layers, and [[Karpathy - LLM Wiki]] for the original framing.
+
+## In this vault
+- **Front-end:** [[Obsidian]] on the Pi (or Windows/phone via sync) — graph view, search, Dataview queries
+- **Optional search layer:** [[qmd]] — adds hybrid BM25+vector retrieval on top without changing the substrate, when the wiki outgrows the index

@@ -1,5 +1,5 @@
 ---
-type: learning
+type: technique
 title: "Baking — Berries & Moisture"
 status: active
 area: creative

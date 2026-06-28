@@ -19,5 +19,9 @@ Author of [[Karpathy - LLM Wiki]] — the "idea file" that defines the [[LLM Wik
 ## Facts
 - Publishes ideas as copy-pasteable agent prompts meant to be co-developed with your LLM.
 - Positions the pattern as a successor to the [[Memex]].
+- Recommends [[Obsidian]] as the front-end ("the IDE") and [[qmd]] as the retrieval layer at scale.
+
+## In this vault
+This vault — see [[Second Brain Roadmap]] — is Sachet's implementation of his pattern, built phase by phase on the Pi.
 
 _Stub — extend as more Karpathy sources are ingested._

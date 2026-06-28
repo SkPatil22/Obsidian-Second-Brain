@@ -25,13 +25,14 @@ When a new source arrives, the LLM doesn't just index it for later ([[Wiki vs RA
 | Direct the analysis | Maintain consistency, update links |
 | Decide what it means | All the bookkeeping |
 
-> "Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase."
+> "[[Obsidian]] is the IDE; the LLM is the programmer; the wiki is the codebase."
 
 ## Implemented here via
 
 - [[Three-Layer Architecture]] — raw / wiki / schema
 - [[Ingest Query Lint]] — the operations
 - [[Index and Log]] — navigation as it scales
+- [[qmd]] — optional retrieval layer for when the wiki outgrows the index
 - Conventions in [[meta/conventions]]
 
 ## Lineage

@@ -25,6 +25,6 @@ The core distinction that motivates the [[LLM Wiki Pattern]].
 
 **The wiki answer:** the synthesis is a durable artifact — a [[Compounding Knowledge Artifact]]. You read it; the LLM writes it.
 
-> Note: RAG isn't wrong, just different. Karpathy notes the index-file approach scales to ~100 sources before embedding-based retrieval becomes worth adding — at which point a search layer ([[qmd]]) can sit *on top of* the wiki, not replace it.
+> Note: RAG isn't wrong, just different. [[Andrej Karpathy|Karpathy]] notes the index-file approach scales to ~100 sources before embedding-based retrieval becomes worth adding — at which point a search layer ([[qmd]]) can sit *on top of* the wiki, not replace it.
 
 See [[Karpathy - LLM Wiki]].

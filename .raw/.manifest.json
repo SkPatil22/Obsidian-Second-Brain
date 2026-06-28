@@ -27,7 +27,7 @@
       "via": "brain skill",
       "pages_created": [
         "wiki/recipes/Raspberry Chocolate Cake.md",
-        "wiki/learning/Baking - Berries and Moisture.md"
+        "wiki/recipes/Baking - Berries and Moisture.md"
       ],
       "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
     },
@@ -37,7 +37,7 @@
       "ingested_at": "2026-06-25",
       "via": "brain skill",
       "pages_created": [
-        "wiki/projects/Seattle Trip 2026-07.md",
+        "wiki/travel/Seattle Trip 2026-07.md",
         "wiki/entities/Mount Rainier National Park.md",
         "wiki/entities/Olympic National Park.md",
         "wiki/entities/Pike Place Market.md"
@@ -50,7 +50,7 @@
       "content": "oil is better for moist cakes than butter (milk solids + 80% fat)",
       "pages_created": [],
       "pages_updated": [
-        "wiki/learning/Baking - Berries and Moisture.md",
+        "wiki/recipes/Baking - Berries and Moisture.md",
         "wiki/log.md",
         "wiki/hot.md"
       ]

@@ -27,4 +27,7 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 ## Used in
 - [[Seattle Trip 2026-07]]
 
+## See also
+- [[Olympic National Park]] — sister park visited on the same trip (Olympic Peninsula, NW of Seattle)
+
 _Stub — extend with specific trails/photos after visiting._

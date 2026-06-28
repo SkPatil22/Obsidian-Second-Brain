@@ -14,6 +14,6 @@ tags: [entity, history, pkm]
 Vannevar Bush's 1945 vision (from "As We May Think") of a personal, curated knowledge store with **associative trails** between documents — where the connections between documents are as valuable as the documents themselves.
 
 ## Relevance
-[[Karpathy - LLM Wiki]] frames the [[LLM Wiki Pattern]] as the spiritual successor to the Memex. Bush's vision was closer to a private, actively-curated wiki than to what the web became. **The part Bush couldn't solve: who does the maintenance.** The LLM is the missing piece — it maintains the trails so they don't rot.
+[[Andrej Karpathy]] (via [[Karpathy - LLM Wiki]]) frames the [[LLM Wiki Pattern]] as the spiritual successor to the Memex. Bush's vision was closer to a private, actively-curated wiki than to what the web became. **The part Bush couldn't solve: who does the maintenance.** The LLM is the missing piece — it maintains the trails so they don't rot, producing a [[Compounding Knowledge Artifact]] that actually stays alive.
 
 _Stub._
