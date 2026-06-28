@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-06-28
 tags: [meta, log]
 ---
 
@@ -10,6 +10,15 @@ tags: [meta, log]
 
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
+
+## [2026-06-28] librarian | Nightly maintenance pass
+- **LINK (15 files):** densified the graph — added [[Obsidian]] to LLM Wiki Pattern quote; [[Andrej Karpathy]] to Wiki vs RAG, Compounding Knowledge Artifact, Memex, Index and Log; [[Memex]]+[[Andrej Karpathy]] to Compounding Knowledge Artifact; [[Three-Layer Architecture]]+[[LLM Wiki Pattern]] to Obsidian, qmd; [[Obsidian]]+[[qmd]] to Three-Layer Architecture; [[Compounding Knowledge Artifact]]+[[Three-Layer Architecture]] to Ingest Query Lint; [[Second Brain Roadmap]] to overview, Andrej Karpathy, Karpathy source; [[qmd]] to LLM Wiki Pattern list; [[Olympic National Park]] ↔ [[Mount Rainier National Park]] (sister parks, both directions).
+- **STRUCTURE:** no moves needed — reorg was done 2026-06-28 already.
+- **DEDUP:** no duplicates found.
+- **ORPHANS:** no true orphans (every page had at least one inbound link). Semantic density improved across PKM cluster.
+- **FLAG — stale status:** [[Second Brain Roadmap]] Phase 2 was marked 🟡 "needs token"; updated to ✅ live (Telegram bot active per hot.md and log). [[overview]] status section updated to match. [[Obsidian]] entity had "Phase 2" for sync — corrected to "Phase 1.5".
+- **FLAG — self-link bug:** `[[Second Brain Roadmap|/brain skill]]` in Roadmap page linked to itself; replaced with plain text reference.
+- Report: [[meta/maintenance/2026-06-28]]
 
 ## [2026-06-28] reorg | New `travel/` category + cooking consolidation
 - Created top-level **`travel/`**; moved [[Seattle Trip 2026-07]] there (was `projects/`). Type → `trip`.
