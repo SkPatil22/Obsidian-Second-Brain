@@ -23,6 +23,6 @@ The **front-end** for this second brain — "the IDE" in [[Andrej Karpathy|Karpa
 - **Marp** — Markdown slide decks generated from wiki content.
 
 ## In *this* setup
-The canonical vault lives on the Raspberry Pi; Obsidian on Windows/phone will be a git-synced client (Phase 2). This Pi also has a desktop, so Obsidian can open the vault locally too.
+The canonical vault lives on the Raspberry Pi; Obsidian on Windows/phone will be a git-synced client (Phase 1.5 — sync, see [[Second Brain Roadmap]]). This Pi also has a desktop, so Obsidian can open the vault locally too.
 
 _Stub._
