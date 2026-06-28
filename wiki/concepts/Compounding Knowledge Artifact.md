@@ -22,3 +22,5 @@ The defining property of the [[LLM Wiki Pattern]]: the wiki is **persistent and 
 The bookkeeping cost is near zero because the LLM does it (see [[concepts/LLM Wiki Pattern|division of labor]]). Humans abandon wikis when maintenance grows faster than value; here it doesn't.
 
 Substrate: plain Markdown in a git repo → free version history. See [[Three-Layer Architecture]] and [[Karpathy - LLM Wiki]].
+
+The concept echoes [[Memex]] (Vannevar Bush, 1945) — a private store where connections between documents are as valuable as the documents themselves. Bush's unsolved problem was who does the maintenance. [[Andrej Karpathy]] frames the LLM as the answer: the compounding artifact is the Memex, finally realizable.
