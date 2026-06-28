@@ -5,7 +5,7 @@ status: active
 area: creative
 source: "[[.raw/raspberry-chocolate-cake-research-2026-06-25.md]]"
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-06-28
 tags: [learning, baking, technique]
 ---
 
