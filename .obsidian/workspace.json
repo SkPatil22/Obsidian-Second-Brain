@@ -16,6 +16,20 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "7c2b950341882e10",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
         ]
       }
@@ -167,13 +181,23 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "707186df37810d6e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,9 +207,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a31de1b302cdc5cf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "WIKI.md",
+    "SECURITY.md",
+    "README.md",
+    "PRIVACY.md",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
+    "AGENTS.md",
+    "wiki/hot.md",
+    "wiki/recipes/_index.md",
+    "wiki/people/_index.md",
+    "wiki/recipes/Raspberry Chocolate Cake.md"
+  ]
 }
