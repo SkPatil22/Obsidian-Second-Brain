@@ -31,4 +31,7 @@ Three ecosystems in one park on the Olympic Peninsula NW of Seattle: **alpine mo
 ## Used in
 - [[Seattle Trip 2026-07]]
 
+## See also
+- [[Mount Rainier National Park]] — sister park visited on the same trip (~2.5h SE of Seattle)
+
 _Stub — extend with specific trails after visiting._
