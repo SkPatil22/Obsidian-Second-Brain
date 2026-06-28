@@ -8,7 +8,10 @@ tags: [meta, index, recipe]
 
 # Recipes
 
-One cookable recipe per note — ingredients, steps, timing, source. Parsed from anything: a blog, a screenshot, or a reel/TikTok link distilled down to the actual method.
+All things cooking. One cookable recipe per note — ingredients, steps, timing, source — parsed from anything (a blog, a screenshot, a reel/TikTok link). Reusable **techniques** that multiple recipes share live here too.
 
-## Pages
+## Recipes
 - [[Raspberry Chocolate Cake]] — moist chocolate layer cake, raspberry filling, ganache drip. _untested_
+
+## Techniques
+- [[Baking - Berries and Moisture]] — moist crumb (oil vs butter), stopping berries sinking, fresh vs frozen, ganache drips

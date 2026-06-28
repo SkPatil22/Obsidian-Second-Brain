@@ -11,4 +11,4 @@ tags: [meta, index, learning]
 Concepts and skills *you* are actively mastering, with your own notes and progress. Distinct from [[concepts/_index|Concepts]], which is extracted automatically from sources.
 
 ## Pages
-- [[Baking - Berries and Moisture]] — moist crumb, stopping berries sinking, fresh vs frozen, ganache drips
+_None yet._ _(Cooking techniques live with [[recipes/_index|Recipes]].)_

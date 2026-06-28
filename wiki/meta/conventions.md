@@ -30,14 +30,25 @@ Type-specific fields are added on top (e.g. recipes get `servings`, `time`, `sou
 
 - **areas/** — ongoing, no end state (health, finance, career, home). Review periodically.
 - **projects/** — has an outcome and a finish line. Closes when done.
-- **recipes/** — one cookable recipe per note, parsed from any source (incl. reel/TikTok links).
-- **learning/** — concepts and skills *you* are mastering (distinct from `concepts/` which is extracted from sources).
+- **travel/** — trips and travel planning. The places visited become reusable `entities/` pages.
+- **recipes/** — **all cooking**: recipes *and* shared cooking techniques. Parsed from any source (incl. reel/TikTok links).
+- **learning/** — non-cooking concepts and skills *you* are mastering (distinct from `concepts/`, which is extracted from sources).
 - **people/** — relationships, shared context, birthdays, follow-ups.
 - **ideas/** — sparks and half-thoughts (graphic design, product, writing).
 - **resources/** — books, courses, tools worth referencing.
 - **sources/** — one summary page per ingested raw source. Built by ingestion.
 - **concepts/** — ideas, patterns, frameworks extracted from sources. Built by ingestion.
 - **entities/** — people, orgs, products, repos, places. Built by ingestion.
+
+## Creating new categories
+
+The folder list above is a starting point, **not a cage.** When a source clearly belongs to a coherent, recurring life domain that has no folder yet, **create a new top-level `wiki/<domain>/` folder + an `_index.md`** and file it there — then add a row to [[index]] and link the `_index` from it. (Travel started this way.)
+
+Use judgment to avoid sprawl:
+- Create a category for a **domain** that will plausibly hold several notes over time (travel, fitness, finance, woodworking…).
+- Do **not** create a folder for a one-off — file those in the closest existing domain.
+- Prefer extending an existing note over making a near-duplicate (knowledge should compound).
+- Keep related things together the way the owner thinks: all cooking → `recipes/`; all trips → `travel/`.
 
 ## Linking
 

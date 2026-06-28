@@ -12,4 +12,5 @@ Things with an outcome and a finish line. A project closes when its goal is met.
 
 ## Pages
 - [[Second Brain Roadmap]] — the staged build-out (Phase 1 done; sync prepped; Phase 2 scoped). ⭐ active
-- [[Seattle Trip 2026-07]] — Jul 21–25: downtown Seattle + Olympic + Rainier. _planning_
+
+_(Trips live under [[travel/_index|Travel]].)_

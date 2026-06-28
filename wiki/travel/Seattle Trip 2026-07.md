@@ -1,5 +1,5 @@
 ---
-type: project
+type: trip
 title: "Seattle Trip — Jul 2026"
 status: planning
 area: travel

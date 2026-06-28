@@ -11,6 +11,11 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-06-28] reorg | New `travel/` category + cooking consolidation
+- Created top-level **`travel/`**; moved [[Seattle Trip 2026-07]] there (was `projects/`). Type → `trip`.
+- Moved [[Baking - Berries and Moisture]] into **`recipes/`** (was `learning/`) — all cooking lives together. Type → `technique`.
+- Encoded the policy in [[meta/conventions]] + the `/brain` skill: **new top-level categories are created on demand** for coherent recurring domains (with anti-sprawl judgment). So this kind of sorting happens automatically from now on.
+
 ## [2026-06-28] telegram | Baking tip — oil vs butter
 - Source: `.raw/tg-20260628-201312-655215-note.md` (Telegram capture).
 - Updated: [[Baking - Berries and Moisture]] — added the WHY behind oil-over-butter (milk solids + ~80% fat content → firmer crumb when cold).
