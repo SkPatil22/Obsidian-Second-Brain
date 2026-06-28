@@ -28,4 +28,4 @@ See [[index]] for the full map. Domains hold *your* curated notes; `sources/`, `
 
 ## Status
 
-Bootstrapped 2026-06-24 on the Raspberry Pi (canonical home). Transport: filesystem. Phase 1 of the larger plan — the always-on ingestion service, scheduled routines, and retrieval come later.
+Bootstrapped 2026-06-24 on the Raspberry Pi (canonical home). Transport: filesystem. See [[Second Brain Roadmap]] for the full build-out. Phase 2 (always-on Telegram ingestion) is live as of 2026-06-28. Scheduled routines and retrieval ([[qmd]]) come next.
