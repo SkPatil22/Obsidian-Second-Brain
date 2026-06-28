@@ -14,7 +14,7 @@ tags: [entity, tool]
 A local-first Markdown knowledge app. Files are plain `.md` on disk, so the vault stays yours (and is a git repo — free version history).
 
 ## Role in this vault
-The **front-end** for this second brain — "the IDE" in [[Andrej Karpathy|Karpathy's]] analogy (see [[Karpathy - LLM Wiki]]). Claude writes the `wiki/`; you browse it in Obsidian — following `[[wikilinks]]`, reading updated pages, and using the **graph view** to see hubs and orphans.
+The **front-end** for this second brain — "the IDE" in [[Andrej Karpathy|Karpathy's]] analogy (see [[Karpathy - LLM Wiki]]). Sits at the top of the [[Three-Layer Architecture]] as the browsing layer; the [[LLM Wiki Pattern]] defines what the LLM writes into it. Claude writes the `wiki/`; you browse it in Obsidian — following `[[wikilinks]]`, reading updated pages, and using the **graph view** to see hubs and orphans.
 
 ## Useful features (per the source)
 - **Graph view** — best way to see the shape of the wiki.
