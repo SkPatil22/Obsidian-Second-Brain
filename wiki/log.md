@@ -18,7 +18,7 @@ Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 - **ORPHANS:** no true orphans (every page had at least one inbound link). Semantic density improved across PKM cluster.
 - **FLAG — stale status:** [[Second Brain Roadmap]] Phase 2 was marked 🟡 "needs token"; updated to ✅ live (Telegram bot active per hot.md and log). [[overview]] status section updated to match. [[Obsidian]] entity had "Phase 2" for sync — corrected to "Phase 1.5".
 - **FLAG — self-link bug:** `[[Second Brain Roadmap|/brain skill]]` in Roadmap page linked to itself; replaced with plain text reference.
-- Report: [[meta/maintenance/2026-06-28]]
+- Report: [[meta/maintenance/maintenance-2026-06-28]]
 
 ## [2026-06-28] reorg | New `travel/` category + cooking consolidation
 - Created top-level **`travel/`**; moved [[Seattle Trip 2026-07]] there (was `projects/`). Type → `trip`.
