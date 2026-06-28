@@ -139,3 +139,6 @@ _attachments/
 .obsidian/cache
 .obsidian/plugins/obsidian-git/data.json
 .obsidian/plugins/*/data.json.bak
+
+# keep routine-generated daily notes (override the ????-??-??.md ignore)
+!daily/*.md
