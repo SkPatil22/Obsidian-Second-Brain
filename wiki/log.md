@@ -11,6 +11,11 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-06-28] telegram | Baking tip — oil vs butter
+- Source: `.raw/tg-20260628-201312-655215-note.md` (Telegram capture).
+- Updated: [[Baking - Berries and Moisture]] — added the WHY behind oil-over-butter (milk solids + ~80% fat content → firmer crumb when cold).
+- No new pages created.
+
 ## [2026-06-25] brain | Seattle trip Jul 21–25
 - Source: [[.raw/seattle-trip-research-2026-06-25.md]] (web research, sha256 27ecf7f9…).
 - Created: [[Seattle Trip 2026-07]] (project) + entities [[Mount Rainier National Park]], [[Olympic National Park]], [[Pike Place Market]].
