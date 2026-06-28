@@ -44,5 +44,17 @@
       ],
       "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
     }
+  },
+    ".raw/tg-20260628-201312-655215-note.md": {
+      "ingested_at": "2026-06-28",
+      "via": "telegram bot",
+      "content": "oil is better for moist cakes than butter (milk solids + 80% fat)",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/learning/Baking - Berries and Moisture.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    }
   }
 }
