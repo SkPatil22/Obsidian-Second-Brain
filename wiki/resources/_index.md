@@ -11,4 +11,5 @@ tags: [meta, index, resource]
 Books, courses, tools, and references worth keeping a pointer to — with a line on *why* it matters to you and where it's relevant.
 
 ## Pages
-_None yet._
+
+- [[Running Shoes - Flat Feet]] — flat-feet buying guide; jogging + boxing combo, under $200, 2026 picks
