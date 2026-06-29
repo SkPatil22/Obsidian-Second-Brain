@@ -11,6 +11,13 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-06-29] telegram | Running shoes research — flat feet
+
+- Source: `.raw/tg-20260629-024833-076953-note.md` (Telegram capture).
+- Request: best running/training shoes for super flat feet, under $200, for jogging + boxing (stability priority).
+- Created: [[Running Shoes - Flat Feet]] (resources) — top picks: Nike Free Metcon 6, Reebok Nano X5 Edge, NOBULL Outwork Edge; dedicated-runner picks: Brooks Adrenaline GTS 25, Saucony Arahi 7.
+- Reminder scheduled: Tuesday 2026-06-30 at 5:30 PM — push summary to Sachet via Telegram.
+
 ## [2026-06-28] librarian | Nightly maintenance pass
 - **LINK (15 files):** densified the graph — added [[Obsidian]] to LLM Wiki Pattern quote; [[Andrej Karpathy]] to Wiki vs RAG, Compounding Knowledge Artifact, Memex, Index and Log; [[Memex]]+[[Andrej Karpathy]] to Compounding Knowledge Artifact; [[Three-Layer Architecture]]+[[LLM Wiki Pattern]] to Obsidian, qmd; [[Obsidian]]+[[qmd]] to Three-Layer Architecture; [[Compounding Knowledge Artifact]]+[[Three-Layer Architecture]] to Ingest Query Lint; [[Second Brain Roadmap]] to overview, Andrej Karpathy, Karpathy source; [[qmd]] to LLM Wiki Pattern list; [[Olympic National Park]] ↔ [[Mount Rainier National Park]] (sister parks, both directions).
 - **STRUCTURE:** no moves needed — reorg was done 2026-06-28 already.
