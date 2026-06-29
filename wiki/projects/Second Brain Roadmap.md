@@ -11,7 +11,7 @@ tags: [project, meta, infrastructure]
 
 # Second Brain Roadmap
 
-The staged build-out of this vault into an always-on personal knowledge + automation system. Implements the [[LLM Wiki Pattern]] as its foundation.
+The staged build-out of this vault into an always-on personal knowledge + automation system. Implements the [[LLM Wiki Pattern]] (coined by [[Andrej Karpathy]]) as its foundation.
 
 ## Where we are
 - **Phase 1 — Vault + plugin** ✅ done 2026-06-24. Clean Personal-mode vault on the Pi; `claude-obsidian` plugin installed; first ingest ([[Karpathy - LLM Wiki]]).
