@@ -60,6 +60,9 @@ The Metcon 6 wins on boxing feel (forefoot flex, lower price). The Nano X5 Edge 
 
 ---
 
+## See also
+- [[Seattle Trip 2026-07]] — extensive walking across downtown Seattle, national park trails (Rainier + Olympic); these shoes are relevant packing context
+
 ## Sources
 - RunRepeat: Best Flat Feet Running Shoes 2026
 - Garage Gym Reviews: Best Cross-Training Shoes 2026
