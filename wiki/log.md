@@ -11,6 +11,13 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-06-29] telegram | Thin ribeye recipes — healthy & portable
+
+- Source: `.raw/tg-20260629-161204-022142-note.md` (Telegram capture).
+- Request: healthy thin ribeye recipes that pack well; summary requested for Tuesday 2026-07-01 at 7pm.
+- Created: [[Thin Ribeye Recipes]] (recipes) — 4 recipes: Korean bulgogi bowl, chimichurri farro bowl, Thai steak salad bowl, steak stir-fry. Includes universal technique section (pat dry, cast iron, rest + slice against the grain) and "what not to pack" guide.
+- Reminder scheduled: Tuesday 2026-07-01 at 7:00 PM.
+
 ## [2026-06-29] librarian | Nightly maintenance pass
 
 - **DATE FIXES (17 files):** corrected stale `updated` frontmatter dates the 2026-06-28 pass edited but did not stamp. Files: concepts/ (LLM Wiki Pattern, Compounding Knowledge Artifact, Wiki vs RAG, Three-Layer Architecture, Ingest Query Lint), entities/ (Andrej Karpathy, Obsidian, qmd, Memex, Mount Rainier, Olympic, `_index`), sources/ (Karpathy - LLM Wiki — also added missing `updated:` field), projects/ (Second Brain Roadmap, `_index`), resources/ (`_index`), travel/ (Seattle Trip).
