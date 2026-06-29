@@ -19,7 +19,7 @@ Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 - **DEDUP:** no duplicates found.
 - **STRUCTURE:** no moves needed.
 - **FLAG — stale claim corrected:** hot.md had "Phase 3 — Scheduled routines is next" but [[Second Brain Roadmap]] shows Phase 3 ✅ live 2026-06-28. Corrected in hot.md rewrite; Phase 4 ([[qmd]] retrieval) is the actual next phase.
-- Report: [[meta/maintenance/2026-06-29]]
+- Report: [[meta/maintenance/maintenance-2026-06-29]]
 
 ## [2026-06-29] telegram | Running shoes research — flat feet
 
