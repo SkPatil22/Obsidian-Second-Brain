@@ -54,6 +54,20 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/tg-20260629-024833-076953-note.md": {
+      "ingested_at": "2026-06-29",
+      "via": "telegram bot",
+      "content": "research best running/training shoes for super flat feet, under $200, jogging + boxing, stable",
+      "pages_created": [
+        "wiki/resources/Running Shoes - Flat Feet.md"
+      ],
+      "pages_updated": [
+        "wiki/resources/_index.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   }
 }
