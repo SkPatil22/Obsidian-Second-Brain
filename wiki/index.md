@@ -48,7 +48,7 @@ _Updated on each ingest._
 - Sources: 1
 - Concepts: 6
 - Entities: 7
-- Domain pages: 4 (recipes 2 · travel 1 · projects 1)
+- Domain pages: 5 (recipes 2 · travel 1 · projects 1 · resources 1)
 
 ## Recently ingested
 
