@@ -48,10 +48,11 @@ _Updated on each ingest._
 - Sources: 1
 - Concepts: 6
 - Entities: 7
-- Domain pages: 5 (recipes 2 · travel 1 · projects 1 · resources 1)
+- Domain pages: 6 (recipes 3 · travel 1 · projects 1 · resources 1)
 
 ## Recently ingested
 
+- 2026-06-29 — Thin ribeye recipes (healthy + portable) → [[Thin Ribeye Recipes]] (recipes). _via Telegram_
 - 2026-06-29 — Running shoes for flat feet → [[Running Shoes - Flat Feet]] (resources). _via Telegram_
 - 2026-06-25 — Seattle trip (Jul 21–25) → [[Seattle Trip 2026-07]] + 3 destination entities ([[Mount Rainier National Park]], [[Olympic National Park]], [[Pike Place Market]]). _via /brain_
 - 2026-06-25 — Raspberry chocolate cake → [[Raspberry Chocolate Cake]] + [[Baking - Berries and Moisture]]. _via /brain_
