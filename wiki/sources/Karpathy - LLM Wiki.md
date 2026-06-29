@@ -5,6 +5,7 @@ author: "Andrej Karpathy"
 source_url: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
 raw: "[[.raw/karpathy-llm-wiki-2026-06-24.md]]"
 ingested: 2026-06-24
+updated: 2026-06-28
 status: summarized
 tags: [source, pkm, llm, foundational]
 ---
