@@ -68,6 +68,20 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/tg-20260629-161204-022142-note.md": {
+      "ingested_at": "2026-06-29",
+      "via": "telegram bot",
+      "content": "research healthy thin ribeye recipes that pack well; summary requested for Tuesday 2026-07-01 at 7pm",
+      "pages_created": [
+        "wiki/recipes/Thin Ribeye Recipes.md"
+      ],
+      "pages_updated": [
+        "wiki/recipes/_index.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   }
 }
