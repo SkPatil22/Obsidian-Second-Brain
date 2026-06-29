@@ -46,6 +46,7 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 - **Park pass:** one **America the Beautiful** pass ($80) covers both parks and pays off vs. $30/park.
 - **Weather (late July):** Seattle warm/dry (~75°F); mountains cooler; Olympic coast can be foggy/wet — pack layers + a rain shell + sun protection for Rainier snowfields.
 - **Cell service is poor** in both parks — download offline maps.
+- **Footwear:** cross-training shoes suit both park terrain and city walking — see [[Running Shoes - Flat Feet]].
 
 ## Action items
 - [ ] Book rental car
