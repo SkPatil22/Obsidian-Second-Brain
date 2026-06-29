@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-06-29] librarian | Nightly maintenance pass
+
+- **DATE FIXES (17 files):** corrected stale `updated` frontmatter dates the 2026-06-28 pass edited but did not stamp. Files: concepts/ (LLM Wiki Pattern, Compounding Knowledge Artifact, Wiki vs RAG, Three-Layer Architecture, Ingest Query Lint), entities/ (Andrej Karpathy, Obsidian, qmd, Memex, Mount Rainier, Olympic, `_index`), sources/ (Karpathy - LLM Wiki — also added missing `updated:` field), projects/ (Second Brain Roadmap, `_index`), resources/ (`_index`), travel/ (Seattle Trip).
+- **LINK (3 files):** [[Running Shoes - Flat Feet]] ↔ [[Seattle Trip 2026-07]] cross-linked (logistics/footwear); [[Second Brain Roadmap]] → [[Andrej Karpathy]] added to intro sentence.
+- **ORPHANS:** Running Shoes was reachable only via meta pages; now linked from Seattle Trip content.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves needed.
+- **FLAG — stale claim corrected:** hot.md had "Phase 3 — Scheduled routines is next" but [[Second Brain Roadmap]] shows Phase 3 ✅ live 2026-06-28. Corrected in hot.md rewrite; Phase 4 ([[qmd]] retrieval) is the actual next phase.
+- Report: [[meta/maintenance/2026-06-29]]
+
 ## [2026-06-29] telegram | Running shoes research — flat feet
 
 - Source: `.raw/tg-20260629-024833-076953-note.md` (Telegram capture).
