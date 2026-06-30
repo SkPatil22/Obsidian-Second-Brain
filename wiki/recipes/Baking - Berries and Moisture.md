@@ -33,3 +33,7 @@ Sinking = berry weight beats batter body before the crumb sets. Fixes:
 ## Ganache drip control
 - High-fat **heavy cream** → rich, stable, non-grainy ganache.
 - **Cold cake + cooled ganache = controlled drip.** Warm + warm = a puddle. Chill the assembled cake ~1 hr first.
+
+## See also
+- [[Raspberry Chocolate Cake]] — the recipe that spawned these techniques; references this page for the theory
+- [[Thin Ribeye Recipes]] — moisture management (resting before packing to prevent soggy containers) echoes the principles here
