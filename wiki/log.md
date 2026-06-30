@@ -11,6 +11,17 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-06-30] librarian | Nightly maintenance pass
+
+- **LINK (3 files, 5 new wikilinks):** triangulated the recipes cluster — added [[Thin Ribeye Recipes]] to `Raspberry Chocolate Cake` and `Baking - Berries and Moisture` See Also sections; added [[Andrej Karpathy]] to `concepts/Index and Log.md` (ghost link from 2026-06-28 pass).
+- **ORPHANS:** [[Thin Ribeye Recipes]] had no content-page inbound links; now linked from both sibling recipe pages.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves. Anti-sprawl check: 4 empty domain folders retained (areas, people, ideas, learning) — no category warranted yet.
+- **FLAG — stale claims corrected (2 files):** `overview.md` said "scheduled routines come next" but Phase 3 is live since 2026-06-28 — corrected to Phase 4 next; `projects/_index.md` description two phases behind reality — updated to reflect Phases 2+3 live.
+- **DATE FIXES (3 files):** `concepts/Index and Log.md` 2026-06-24→2026-06-30; `concepts/_index.md` 2026-06-24→2026-06-28; `recipes/_index.md` 2026-06-24→2026-06-30.
+- **GHOST LINK:** 2026-06-28 log claimed [[Andrej Karpathy]] added to Index and Log concept, but link was absent from file. Added now.
+- Report: [[meta/maintenance/maintenance-2026-06-30]]
+
 ## [2026-06-29] telegram | Thin ribeye recipes — healthy & portable
 
 - Source: `.raw/tg-20260629-161204-022142-note.md` (Telegram capture).
