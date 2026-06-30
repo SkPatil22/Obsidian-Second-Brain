@@ -23,4 +23,4 @@ Append-only record of what happened and when (ingests, queries, lints). Tip: con
 ```
 → `grep "^## \[" log.md | tail -5` gives the last 5 operations. → [[log]]
 
-Together they substitute for search infrastructure at small/medium scale; a dedicated engine ([[qmd]]) is added only when the wiki outgrows them. See [[Karpathy - LLM Wiki]].
+Together they substitute for search infrastructure at small/medium scale; a dedicated engine ([[qmd]]) is added only when the wiki outgrows them. See [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]].
