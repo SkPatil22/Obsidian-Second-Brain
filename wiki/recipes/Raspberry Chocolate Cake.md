@@ -54,3 +54,7 @@ A deep, moist from-scratch chocolate layer cake with a fresh raspberry filling a
 - **Raspberries in the sponge** (not just filling): use **frozen, unthawed**, tossed in 1 tbsp flour, folded in last — see [[Baking - Berries and Moisture]].
 - Make-ahead: layers freeze well wrapped; filling keeps 3 days chilled.
 - _Status: `untested` — update to `tested` with notes after first bake._
+
+## See also
+- [[Baking - Berries and Moisture]] — the technique page behind this recipe (moist crumb, berry sinking, ganache drip)
+- [[Thin Ribeye Recipes]] — if packing a full meal, pair a slice of this for dessert
