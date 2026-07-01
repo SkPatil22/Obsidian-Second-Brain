@@ -10,7 +10,7 @@ tags: [concept, pkm, architecture]
 
 # Three-Layer Architecture
 
-The structural backbone of the [[LLM Wiki Pattern]]. Three layers, strict ownership.
+The structural backbone of the [[LLM Wiki Pattern]], as framed by [[Andrej Karpathy]]. Three layers, strict ownership.
 
 | Layer | This vault | Who owns it | Rule |
 |-------|-----------|-------------|------|
