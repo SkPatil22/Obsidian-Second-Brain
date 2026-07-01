@@ -65,6 +65,8 @@ The Metcon 6 wins on boxing feel (forefoot flex, lower price). The Nano X5 Edge 
 
 ## See also
 - [[Seattle Trip 2026-07]] — extensive walking across downtown Seattle, national park trails (Rainier + Olympic); these shoes are relevant packing context
+- [[Mount Rainier National Park]] — Skyline Trail (~5.5 mi alpine loop); Metcon 6 borderline — see buying decision note above
+- [[Olympic National Park]] — Hurricane Ridge, Hall of Mosses, Ruby Beach; varied terrain (gravel, packed dirt, rocky coast)
 
 ## Sources
 - RunRepeat: Best Flat Feet Running Shoes 2026
