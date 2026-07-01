@@ -58,6 +58,9 @@ The Metcon 6 wins on boxing feel (forefoot flex, lower price). The Nano X5 Edge 
 
 **Buy two pairs (one per activity) → Nano X5 Edge for boxing/gym + Brooks Adrenaline GTS 25 for runs.** The GTS 25 is the best pure running shoe for flat feet in this budget by a wide margin.
 
+> [!warning] Seattle Trip note (Jul 21–25)
+> The Skyline Trail at [[Mount Rainier National Park]] is ~5.5 miles — at the Metcon 6's stated upper limit ("not ideal for long runs 5+ miles"). For the trip, the Nano X5 Edge's wider platform and firmer lateral walls likely serve better on rough alpine terrain. If the Metcon 6 is already purchased, consider a shorter Rainier route (Skyline out-and-back to the snowfield, ~3.5 mi) rather than the full loop.
+
 ---
 
 ## See also
