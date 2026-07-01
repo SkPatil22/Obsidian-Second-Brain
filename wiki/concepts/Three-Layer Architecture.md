@@ -25,3 +25,4 @@ See [[Ingest Query Lint]] for the operations that move data between layers, and 
 ## In this vault
 - **Front-end:** [[Obsidian]] on the Pi (or Windows/phone via sync) — graph view, search, Dataview queries
 - **Optional search layer:** [[qmd]] — adds hybrid BM25+vector retrieval on top without changing the substrate, when the wiki outgrows the index
+- **Implementation:** [[Second Brain Roadmap]] — the staged build-out of this vault, phase by phase
