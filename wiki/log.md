@@ -11,6 +11,17 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-01] librarian | Nightly maintenance pass
+
+- **LINK (8 files, 12 new wikilinks):** densified travel + fitness cluster — added `[[Running Shoes - Flat Feet]]` to both national park entities (and reverse); added `[[Olympic National Park]]` + `[[Mount Rainier National Park]]` to Pike Place Market See also; densified PKM cluster — `Three-Layer Architecture` → `[[Andrej Karpathy]]` + `[[Second Brain Roadmap]]`; `qmd` → `[[Second Brain Roadmap]]`; `overview` → `[[Three-Layer Architecture]]` + `[[Ingest Query Lint]]`; `Second Brain Roadmap` → `[[Obsidian]]`.
+- **ORPHANS:** no new orphans — all content pages have ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; fitness/Running Shoes stays in resources/ (anti-sprawl: single note).
+- **FLAG — Skyline Trail footwear:** Skyline Trail at Rainier is ~5.5 mi (Metcon 6's stated upper limit). Added `[!warning]` callout in [[Running Shoes - Flat Feet]] Buying Decision section with specific route advice.
+- **FLAG — Seattle trip urgency:** 20 days to Jul 21 departure. Added `[!warning]` callout to [[Seattle Trip 2026-07]] action items flagging rental car + Port Angeles as critical path.
+- **DATE FIXES (10 files):** qmd, Mount Rainier, Olympic, Pike Place Market, Three-Layer Architecture, overview, Second Brain Roadmap, Running Shoes, Seattle Trip, travel/_index — all stamped 2026-07-01.
+- **Report:** [[meta/maintenance/maintenance-2026-07-01]]
+
 ## [2026-06-30] librarian | Nightly maintenance pass
 
 - **LINK (3 files, 5 new wikilinks):** triangulated the recipes cluster — added [[Thin Ribeye Recipes]] to `Raspberry Chocolate Cake` and `Baking - Berries and Moisture` See Also sections; added [[Andrej Karpathy]] to `concepts/Index and Log.md` (ghost link from 2026-06-28 pass).
