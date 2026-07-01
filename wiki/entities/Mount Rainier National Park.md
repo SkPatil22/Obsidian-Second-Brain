@@ -6,7 +6,7 @@ status: stub
 location: "Washington, USA (~2.5h SE of Seattle)"
 source: "[[.raw/seattle-trip-research-2026-06-25.md]]"
 created: 2026-06-25
-updated: 2026-06-28
+updated: 2026-07-01
 tags: [entity, place, national-park, washington]
 ---
 
