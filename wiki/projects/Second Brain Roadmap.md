@@ -15,7 +15,7 @@ The staged build-out of this vault into an always-on personal knowledge + automa
 
 ## Where we are
 - **Phase 1 — Vault + plugin** ✅ done 2026-06-24. Clean Personal-mode vault on the Pi; `claude-obsidian` plugin installed; first ingest ([[Karpathy - LLM Wiki]]).
-- **Phase 1.5 — Sync** 🟡 prepped, awaiting GitHub auth. `~/brain-infra/sync.sh` + cron push every 15 min; Windows/phone Obsidian become git-synced clients. Activate with `~/brain-infra/activate-sync.sh`.
+- **Phase 1.5 — Sync** 🟡 prepped, awaiting GitHub auth. `~/brain-infra/sync.sh` + cron push every 15 min; Windows/phone [[Obsidian]] become git-synced clients. Activate with `~/brain-infra/activate-sync.sh`.
 
 ## Next
 - **Phase 2 — Always-on ingestion** ✅ **live as of 2026-06-28**. `~/brain-infra/brain_bot.py` + systemd `brain-bot.service` running; Telegram token active.
