@@ -25,4 +25,8 @@ Seattle's landmark public market downtown — 75+ food stalls, fishmongers, flow
 ## Used in
 - [[Seattle Trip 2026-07]]
 
+## See also
+- [[Mount Rainier National Park]] — day trip from Seattle during the same trip (Wed Jul 22)
+- [[Olympic National Park]] — multi-day detour from Seattle during the same trip (Thu–Fri Jul 23–24)
+
 _Stub._
