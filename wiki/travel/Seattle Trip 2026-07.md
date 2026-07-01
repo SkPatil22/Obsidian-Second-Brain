@@ -49,6 +49,10 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 - **Footwear:** cross-training shoes suit both park terrain and city walking — see [[Running Shoes - Flat Feet]].
 
 ## Action items
+
+> [!warning] 20 days to departure (Jul 21)
+> Rental car and Port Angeles lodging book up fast in late July — prioritize those two now. Restaurant reservations (Kashiba, Pink Door) also fill weeks out.
+
 - [ ] Book rental car
 - [ ] Reserve 1 night in **Port Angeles** for Jul 23 (late-July lodging books up)
 - [ ] Reserve **Sushi Kashiba** and/or **The Pink Door**
