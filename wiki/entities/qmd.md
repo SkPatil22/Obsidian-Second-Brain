@@ -15,7 +15,7 @@ tags: [entity, tool, search]
 A local search engine for Markdown files — hybrid **BM25 + vector search with LLM re-ranking**, all on-device. By Tobi (tobi/qmd).
 
 ## Why it matters here
-[[Karpathy - LLM Wiki]] names it as the obvious tool to add **once the wiki outgrows [[Index and Log|the index file]]** (~100+ sources). It exposes both a **CLI** (the LLM can shell out to it) and an **MCP server** (native tool use) — so it slots on top of [[Three-Layer Architecture]] without changing the substrate. It's the scale-out retrieval layer of the [[LLM Wiki Pattern]].
+[[Andrej Karpathy]] (via [[Karpathy - LLM Wiki]]) names it as the obvious tool to add **once the wiki outgrows [[Index and Log|the index file]]** (~100+ sources). It exposes both a **CLI** (the LLM can shell out to it) and an **MCP server** (native tool use) — so it slots on top of [[Three-Layer Architecture]] alongside [[Obsidian]] (the browsing layer) without changing the substrate. It's the scale-out retrieval layer of the [[LLM Wiki Pattern]].
 
 ## Status for this vault
 **Not needed yet.** The index-first approach covers small/medium scale. Revisit when search latency or recall degrades. A simpler home-grown search script is also a valid first step. Tracked as Phase 4 in [[Second Brain Roadmap]].
