@@ -20,7 +20,7 @@ The structural backbone of the [[LLM Wiki Pattern]], as framed by [[Andrej Karpa
 
 The **schema is the key file** — it's what makes the LLM a disciplined wiki maintainer rather than a generic chatbot. You and the LLM refine it over time as you learn what works for your domains.
 
-See [[Ingest Query Lint]] for the operations that move data between layers, and [[Karpathy - LLM Wiki]] for the original framing.
+See [[Ingest Query Lint]] for the operations that move data between layers — each ingest adds to the [[Compounding Knowledge Artifact]] — and [[Karpathy - LLM Wiki]] for the original framing.
 
 ## In this vault
 - **Front-end:** [[Obsidian]] on the Pi (or Windows/phone via sync) — graph view, search, Dataview queries
