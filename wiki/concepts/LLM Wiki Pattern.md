@@ -33,6 +33,7 @@ When a new source arrives, the LLM doesn't just index it for later ([[Wiki vs RA
 - [[Ingest Query Lint]] — the operations
 - [[Index and Log]] — navigation as it scales
 - [[qmd]] — optional retrieval layer for when the wiki outgrows the index
+- [[Second Brain Roadmap]] — the staged build-out of this vault, phase by phase
 - Conventions in [[meta/conventions]]
 
 ## Lineage
