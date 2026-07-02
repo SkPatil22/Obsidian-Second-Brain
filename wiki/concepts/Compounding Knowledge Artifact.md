@@ -19,7 +19,7 @@ The defining property of the [[LLM Wiki Pattern]]: the wiki is **persistent and 
 - A good query answer can be **filed back** as a new page, so exploration compounds too — not just ingestion.
 
 ## What makes it possible
-The bookkeeping cost is near zero because the LLM does it (see [[concepts/LLM Wiki Pattern|division of labor]]). Humans abandon wikis when maintenance grows faster than value; here it doesn't.
+The bookkeeping cost is near zero because the LLM does it via the [[Ingest Query Lint]] loop (see [[concepts/LLM Wiki Pattern|division of labor]]). Humans abandon wikis when maintenance grows faster than value; here it doesn't.
 
 Substrate: plain Markdown in a git repo → free version history. See [[Three-Layer Architecture]] and [[Karpathy - LLM Wiki]].
 
