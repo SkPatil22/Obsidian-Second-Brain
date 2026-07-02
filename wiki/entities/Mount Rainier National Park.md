@@ -29,6 +29,7 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 
 ## See also
 - [[Olympic National Park]] — sister park visited on the same trip (Olympic Peninsula, NW of Seattle)
+- [[Pike Place Market]] — downtown Seattle anchor (Tue Jul 21 city day) same trip
 - [[Running Shoes - Flat Feet]] — trail footwear for Skyline Trail and alpine hikes (note: Skyline is ~5.5 mi, at the Metcon 6's stated upper limit)
 
 _Stub — extend with specific trails/photos after visiting._
