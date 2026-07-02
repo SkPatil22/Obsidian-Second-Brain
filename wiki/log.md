@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-02] librarian | Nightly maintenance pass
+
+- **LINK (14 files, 19 new wikilinks):** PKM cluster — closed the last remaining gaps: `Three-Layer Architecture` → `[[Compounding Knowledge Artifact]]`; `Index and Log` → `[[LLM Wiki Pattern]]` + `[[Three-Layer Architecture]]`; `Compounding Knowledge Artifact` → `[[Ingest Query Lint]]`; `Wiki vs RAG` → `[[Index and Log]]`; `LLM Wiki Pattern` → `[[Second Brain Roadmap]]`; `Second Brain Roadmap` → `[[Three-Layer Architecture]]` + `[[Compounding Knowledge Artifact]]`; `overview` → `[[Compounding Knowledge Artifact]]`. Entity enrichment: `Andrej Karpathy` → `[[Three-Layer Architecture]]` + `[[Compounding Knowledge Artifact]]` + `[[Wiki vs RAG]]`; `Memex` → `[[Wiki vs RAG]]`; `qmd` → `[[Andrej Karpathy]]` + `[[Obsidian]]`; `Obsidian` → `[[Compounding Knowledge Artifact]]`. Travel+city triangulation: both national parks → `[[Pike Place Market]]`; `Running Shoes` → `[[Pike Place Market]]`.
+- **ORPHANS:** no new orphans; `[[Pike Place Market]]` strengthened (was weakest node, only 1 inbound content link; now 4).
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all folders correctly filed.
+- **FLAG — date counter:** Seattle Trip warning updated 20→19 days (2026-07-02 departure count).
+- **DATE FIXES (16 files):** all edited files stamped 2026-07-02; plus `index.md` and 5 concept entities carrying stale 2026-06-28 dates.
+- **Report:** [[meta/maintenance/2026-07-02]]
+
 ## [2026-07-01] librarian | Nightly maintenance pass
 
 - **LINK (8 files, 12 new wikilinks):** densified travel + fitness cluster — added `[[Running Shoes - Flat Feet]]` to both national park entities (and reverse); added `[[Olympic National Park]]` + `[[Mount Rainier National Park]]` to Pike Place Market See also; densified PKM cluster — `Three-Layer Architecture` → `[[Andrej Karpathy]]` + `[[Second Brain Roadmap]]`; `qmd` → `[[Second Brain Roadmap]]`; `overview` → `[[Three-Layer Architecture]]` + `[[Ingest Query Lint]]`; `Second Brain Roadmap` → `[[Obsidian]]`.
