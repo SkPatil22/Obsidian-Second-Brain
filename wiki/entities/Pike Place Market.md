@@ -6,7 +6,7 @@ status: stub
 location: "Downtown Seattle, Washington"
 source: "[[.raw/seattle-trip-research-2026-06-25.md]]"
 created: 2026-06-25
-updated: 2026-07-01
+updated: 2026-07-03
 tags: [entity, place, seattle, food]
 ---
 
