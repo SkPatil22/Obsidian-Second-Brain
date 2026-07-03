@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-03] librarian | Nightly maintenance pass
+
+- **LINK (4 files, 5 new wikilinks):** attribution gap closed — `Ingest Query Lint` → `[[Andrej Karpathy]]` (2 places: intro + closing citation); `Andrej Karpathy` → `[[Ingest Query Lint]]` (Facts list now covers all 4 concepts he originated); bidirectional gaps restored — `Pike Place Market` → `[[Running Shoes - Flat Feet]]` (Running Shoes→Pike Place was added 2026-07-02 but reverse was absent); `Obsidian` → `[[qmd]]` (qmd→Obsidian existed since 2026-07-02 but Obsidian→qmd was absent).
+- **ORPHANS:** no new orphans; all 4 affected nodes were already reachable.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all folders correctly filed.
+- **FLAG — date counter:** Seattle Trip warning updated 19→18 days (2026-07-03 departure count).
+- **DATE FIXES (5 files):** `concepts/Ingest Query Lint` 2026-06-28→2026-07-03 (oldest stale file in the vault; untouched since initial ingest); `entities/Pike Place Market` 2026-07-01→2026-07-03; `entities/Obsidian` 2026-07-02→2026-07-03; `entities/Andrej Karpathy` 2026-07-02→2026-07-03; `travel/Seattle Trip 2026-07` 2026-07-02→2026-07-03.
+- **Report:** [[meta/maintenance/2026-07-03]]
+
 ## [2026-07-02] librarian | Nightly maintenance pass
 
 - **LINK (14 files, 19 new wikilinks):** PKM cluster — closed the last remaining gaps: `Three-Layer Architecture` → `[[Compounding Knowledge Artifact]]`; `Index and Log` → `[[LLM Wiki Pattern]]` + `[[Three-Layer Architecture]]`; `Compounding Knowledge Artifact` → `[[Ingest Query Lint]]`; `Wiki vs RAG` → `[[Index and Log]]`; `LLM Wiki Pattern` → `[[Second Brain Roadmap]]`; `Second Brain Roadmap` → `[[Three-Layer Architecture]]` + `[[Compounding Knowledge Artifact]]`; `overview` → `[[Compounding Knowledge Artifact]]`. Entity enrichment: `Andrej Karpathy` → `[[Three-Layer Architecture]]` + `[[Compounding Knowledge Artifact]]` + `[[Wiki vs RAG]]`; `Memex` → `[[Wiki vs RAG]]`; `qmd` → `[[Andrej Karpathy]]` + `[[Obsidian]]`; `Obsidian` → `[[Compounding Knowledge Artifact]]`. Travel+city triangulation: both national parks → `[[Pike Place Market]]`; `Running Shoes` → `[[Pike Place Market]]`.
