@@ -10,7 +10,7 @@ tags: [concept, pkm, workflow]
 
 # Ingest · Query · Lint
 
-The three core operations of the [[LLM Wiki Pattern]].
+The three core operations of the [[LLM Wiki Pattern]], as defined by [[Andrej Karpathy]].
 
 ## Ingest
 Drop a source into `.raw/`, tell the LLM to process it. It reads, discusses takeaways, writes a summary page, updates the index, updates relevant entity/concept pages, and appends to the log. **A single source touches ~10–15 pages.** Default workflow (Karpathy's preference): one source at a time, stay involved, read the summaries. Batch ingest is possible with less supervision. Data moves from the raw layer upward through [[Three-Layer Architecture]], building the [[Compounding Knowledge Artifact]] with each pass.
