@@ -25,4 +25,6 @@ The **front-end** for this second brain — "the IDE" in [[Andrej Karpathy|Karpa
 ## In *this* setup
 The canonical vault lives on the Raspberry Pi; Obsidian on Windows/phone will be a git-synced client (Phase 1.5 — sync, see [[Second Brain Roadmap]]). This Pi also has a desktop, so Obsidian can open the vault locally too.
 
+When the wiki scales past ~100 sources, [[qmd]] adds hybrid BM25+vector search on top — Obsidian for browsing, qmd for retrieval. The two are complementary, not competing.
+
 _Stub._
