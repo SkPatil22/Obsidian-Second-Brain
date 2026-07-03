@@ -28,5 +28,6 @@ Seattle's landmark public market downtown — 75+ food stalls, fishmongers, flow
 ## See also
 - [[Mount Rainier National Park]] — day trip from Seattle during the same trip (Wed Jul 22)
 - [[Olympic National Park]] — multi-day detour from Seattle during the same trip (Thu–Fri Jul 23–24)
+- [[Running Shoes - Flat Feet]] — extensive city walking on the Tue Jul 21 market + waterfront + Pioneer Square day
 
 _Stub._
