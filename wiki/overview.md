@@ -28,4 +28,4 @@ See [[index]] for the full map. Domains hold *your* curated notes; `sources/`, `
 
 ## Status
 
-Bootstrapped 2026-06-24 on the Raspberry Pi (canonical home). Transport: filesystem. See [[Second Brain Roadmap]] for the full build-out. Phases 2 (always-on Telegram ingestion) and 3 (scheduled morning briefs + reminders) are live as of 2026-06-28. Phase 4 — retrieval ([[qmd]]) — is next, once the wiki grows past ~100 sources.
+Bootstrapped 2026-06-24 on the Raspberry Pi (canonical home). Transport: filesystem. Browse it in [[Obsidian]] on the Pi (or any git-synced client). See [[Second Brain Roadmap]] for the full build-out. Phases 2 (always-on Telegram ingestion) and 3 (scheduled morning briefs + reminders) are live as of 2026-06-28. Phase 4 — retrieval ([[qmd]]) — is next, once the wiki grows past ~100 sources.
