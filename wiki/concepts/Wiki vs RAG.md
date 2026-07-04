@@ -27,4 +27,6 @@ The core distinction that motivates the [[LLM Wiki Pattern]].
 
 > Note: RAG isn't wrong, just different. [[Andrej Karpathy|Karpathy]] notes the [[Index and Log|index-file approach]] scales to ~100 sources before embedding-based retrieval becomes worth adding — at which point a search layer ([[qmd]]) can sit *on top of* the wiki, not replace it.
 
+The wiki-compile-once approach has historical precedent in the [[Memex]] (Vannevar Bush, 1945) — squarely on the wiki side of this spectrum; see [[LLM Wiki Pattern]] for the lineage.
+
 See [[Karpathy - LLM Wiki]].
