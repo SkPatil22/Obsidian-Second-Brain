@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-04] librarian | Nightly maintenance pass
+
+- **LINK (5 files, 7 new wikilinks):** author-linking gap closed — `Karpathy - LLM Wiki` source body had 3 bare "Karpathy" references with no `[[Andrej Karpathy]]` link (intro, "Why it works," "Contradictions" section); bidirectional gap closed — `Wiki vs RAG` → `[[Memex]]` (Memex page already linked to Wiki vs RAG; reverse was absent since initial ingest); overview densified — `overview` → `[[Wiki vs RAG]]` (inline "unlike RAG" was unlinked) + `[[Obsidian]]` (browsing layer never named on the vault front page); scale-out gap — `Compounding Knowledge Artifact` → `[[qmd]]` (retrieval layer that extends the artifact was unmentioned on the concept page); modern-realization gap — `Memex` → `[[Obsidian]]` (concrete closing sentence naming the tool that realizes Bush's vision).
+- **ORPHANS:** no new orphans; all 5 affected nodes were already reachable.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all folders correctly filed.
+- **FLAG — date counter:** Seattle Trip warning updated 18→17 days (2026-07-04 departure count).
+- **DATE FIXES (6 files):** `sources/Karpathy - LLM Wiki` 2026-06-28→2026-07-04 (longest-stale source page, stuck since initial librarian pass); `concepts/Wiki vs RAG` 2026-07-02→2026-07-04; `wiki/overview` 2026-07-02→2026-07-04; `concepts/Compounding Knowledge Artifact` 2026-07-02→2026-07-04; `entities/Memex` 2026-07-02→2026-07-04; `travel/Seattle Trip 2026-07` 2026-07-03→2026-07-04.
+- **Report:** [[meta/maintenance/2026-07-04]]
+
 ## [2026-07-03] librarian | Nightly maintenance pass
 
 - **LINK (4 files, 5 new wikilinks):** attribution gap closed — `Ingest Query Lint` → `[[Andrej Karpathy]]` (2 places: intro + closing citation); `Andrej Karpathy` → `[[Ingest Query Lint]]` (Facts list now covers all 4 concepts he originated); bidirectional gaps restored — `Pike Place Market` → `[[Running Shoes - Flat Feet]]` (Running Shoes→Pike Place was added 2026-07-02 but reverse was absent); `Obsidian` → `[[qmd]]` (qmd→Obsidian existed since 2026-07-02 but Obsidian→qmd was absent).
