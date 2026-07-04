@@ -15,7 +15,7 @@ tags: [source, pkm, llm, foundational]
 > [!quote] The thesis
 > "The wiki is a persistent, compounding artifact. The cross-references are already there. The contradictions have already been flagged. The synthesis already reflects everything you've read."
 
-The foundational essay for **this vault**. Karpathy publishes it as an "idea file" meant to be pasted into an LLM agent (Claude Code, Codex, etc.) so the agent and user can instantiate their own version. This page is the source-of-record summary; the ideas are broken out into linked concept pages.
+The foundational essay for **this vault**. [[Andrej Karpathy|Karpathy]] publishes it as an "idea file" meant to be pasted into an LLM agent (Claude Code, Codex, etc.) so the agent and user can instantiate their own version. This page is the source-of-record summary; the ideas are broken out into linked concept pages.
 
 ## What it argues
 
