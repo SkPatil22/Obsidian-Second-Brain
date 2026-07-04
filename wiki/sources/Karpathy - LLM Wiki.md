@@ -32,7 +32,7 @@ The division of labor: **you** curate sources, explore, and ask good questions; 
 
 ## Why it works
 
-Maintenance — not reading or thinking — is the tedious part of a knowledge base, and it's why humans abandon wikis. LLMs don't get bored and can touch 15 files in one pass, so maintenance cost approaches zero. Karpathy ties the idea to [[Memex]] (Vannevar Bush, 1945): a private, actively-curated store where the *connections* between documents are as valuable as the documents — Bush's unsolved problem was who does the maintenance. The LLM is the answer.
+Maintenance — not reading or thinking — is the tedious part of a knowledge base, and it's why humans abandon wikis. LLMs don't get bored and can touch 15 files in one pass, so maintenance cost approaches zero. [[Andrej Karpathy|Karpathy]] ties the idea to [[Memex]] (Vannevar Bush, 1945): a private, actively-curated store where the *connections* between documents are as valuable as the documents — Bush's unsolved problem was who does the maintenance. The LLM is the answer.
 
 ## Relevance to this vault
 
