@@ -21,7 +21,7 @@ The defining property of the [[LLM Wiki Pattern]]: the wiki is **persistent and 
 ## What makes it possible
 The bookkeeping cost is near zero because the LLM does it via the [[Ingest Query Lint]] loop (see [[concepts/LLM Wiki Pattern|division of labor]]). Humans abandon wikis when maintenance grows faster than value; here it doesn't.
 
-Substrate: plain Markdown in a git repo → free version history. See [[Three-Layer Architecture]] and [[Karpathy - LLM Wiki]].
+Substrate: plain Markdown in a git repo → free version history. See [[Three-Layer Architecture]] and [[Karpathy - LLM Wiki]]. You read the artifact in [[Obsidian]] — graph view shows its topology; you follow wikilinks as associative trails. Navigate it via [[Index and Log]] as it grows.
 
 When the wiki scales past ~100 sources, [[qmd]] adds a retrieval layer on top — without breaking the compounding nature of the artifact. Search becomes fast; the synthesis is still there.
 
