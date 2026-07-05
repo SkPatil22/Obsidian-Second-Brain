@@ -4,7 +4,7 @@ title: "Compounding Knowledge Artifact"
 status: synthesized
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-07-04
+updated: 2026-07-05
 tags: [concept, pkm]
 ---
 
