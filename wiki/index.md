@@ -2,7 +2,7 @@
 type: meta
 title: "Index"
 created: 2026-06-24
-updated: 2026-07-03
+updated: 2026-07-05
 tags: [meta, index]
 ---
 
