@@ -27,4 +27,6 @@ The canonical vault lives on the Raspberry Pi; Obsidian on Windows/phone will be
 
 When the wiki scales past ~100 sources, [[qmd]] adds hybrid BM25+vector search on top — Obsidian for browsing, qmd for retrieval. The two are complementary, not competing.
 
+Obsidian's graph view and wikilink trails are the modern realization of what the [[Memex]] called "associative trails" — the connective tissue between documents that Bush argued was as valuable as the documents themselves.
+
 _Stub._
