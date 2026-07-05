@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-05] librarian | Nightly maintenance pass
+
+- **LINK (10 files, 12 new wikilinks):** bidirectional gap — `Obsidian` → `[[Memex]]` (Memex→Obsidian added 2026-07-04 but reverse absent; added paragraph connecting Obsidian graph view to Bush's "associative trails"); bidirectional gap — `qmd` → `[[Compounding Knowledge Artifact]]` (CKA→qmd added 2026-07-04 but reverse absent) + `[[Wiki vs RAG]]` (qmd keeps the system on the wiki side at scale); `Andrej Karpathy` → `[[Index and Log]]` (he originated all 5 core patterns; Facts list had only 4); `Three-Layer Architecture` → `[[Index and Log]]` (index+log live in the wiki layer; omitted from the layer description); `Compounding Knowledge Artifact` → `[[Obsidian]]` (how you read the artifact) + `[[Index and Log]]` (how you navigate it); `Index and Log` → `[[Compounding Knowledge Artifact]]` (the index is the navigation layer of the CKA); `Ingest Query Lint` → `[[qmd]]` (Query step at scale); `Second Brain Roadmap` → `[[Wiki vs RAG]]` + `[[Memex]]` (the roadmap *is* a wiki-not-RAG Memex realization — both missing from the intro); `Seattle Trip 2026-07` → `[[Thin Ribeye Recipes]]` (meal prep for national park days — 4-day shelf life, portable); `Thin Ribeye Recipes` → `[[Seattle Trip 2026-07]]` (bidirectional close for the portability cluster).
+- **ORPHANS:** no new orphans; Thin Ribeye Recipes strengthened (already reachable via sibling recipes; now also from Seattle Trip).
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all folders correctly filed.
+- **FLAG — date counter:** Seattle Trip warning updated 17→16 days (2026-07-05 departure count).
+- **DATE FIXES (10 files):** `entities/Andrej Karpathy` 2026-07-03→2026-07-05; `entities/Obsidian` 2026-07-03→2026-07-05; `entities/qmd` 2026-07-02→2026-07-05; `concepts/Three-Layer Architecture` 2026-07-02→2026-07-05; `concepts/Compounding Knowledge Artifact` 2026-07-04→2026-07-05; `concepts/Index and Log` 2026-07-02→2026-07-05; `concepts/Ingest Query Lint` 2026-07-03→2026-07-05; `projects/Second Brain Roadmap` 2026-07-02→2026-07-05; `travel/Seattle Trip 2026-07` 2026-07-04→2026-07-05; `recipes/Thin Ribeye Recipes` 2026-06-29→2026-07-05.
+- **Report:** [[meta/maintenance/2026-07-05]]
+
 ## [2026-07-04] librarian | Nightly maintenance pass
 
 - **LINK (5 files, 7 new wikilinks):** author-linking gap closed — `Karpathy - LLM Wiki` source body had 3 bare "Karpathy" references with no `[[Andrej Karpathy]]` link (intro, "Why it works," "Contradictions" section); bidirectional gap closed — `Wiki vs RAG` → `[[Memex]]` (Memex page already linked to Wiki vs RAG; reverse was absent since initial ingest); overview densified — `overview` → `[[Wiki vs RAG]]` (inline "unlike RAG" was unlinked) + `[[Obsidian]]` (browsing layer never named on the vault front page); scale-out gap — `Compounding Knowledge Artifact` → `[[qmd]]` (retrieval layer that extends the artifact was unmentioned on the concept page); modern-realization gap — `Memex` → `[[Obsidian]]` (concrete closing sentence naming the tool that realizes Bush's vision).
