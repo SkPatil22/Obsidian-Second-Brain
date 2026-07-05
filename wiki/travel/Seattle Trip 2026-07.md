@@ -47,6 +47,7 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 - **Weather (late July):** Seattle warm/dry (~75°F); mountains cooler; Olympic coast can be foggy/wet — pack layers + a rain shell + sun protection for Rainier snowfields.
 - **Cell service is poor** in both parks — download offline maps.
 - **Footwear:** cross-training shoes suit both park terrain and city walking — see [[Running Shoes - Flat Feet]].
+- **Meal prep:** the portable ribeye bowls in [[Thin Ribeye Recipes]] pack well for national park days (Rainier, Olympic) — high protein, 4-day shelf life, reheat in a hotel or skip reheating for the bulgogi and chimichurri variants.
 
 ## Action items
 
