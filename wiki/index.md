@@ -40,6 +40,7 @@ _New top-level categories are created on demand when a clear new life domain app
 - [[log]] — chronological record of every operation
 - [[hot]] — ~500-word cache of recent context
 - [[overview]] — executive summary of the whole vault
+- [[Second Brain Roadmap]] — staged build-out of the vault, phase by phase
 
 ## Counts
 
