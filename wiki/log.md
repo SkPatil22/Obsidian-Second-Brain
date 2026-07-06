@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-06] librarian | Nightly maintenance pass
+
+- **LINK (4 files, 4 new wikilinks):** source-gap closed — `overview` → `[[Karpathy - LLM Wiki]]` (the vault front page linked to the concept and the author but never to the foundational source document itself; added inline at first mention of the pattern); system-nav gap — `index` → `[[Second Brain Roadmap]]` (System section listed Conventions/Log/Hot/Overview but not the build-out roadmap, which is equally foundational); concept-compounding gap — `Ingest Query Lint` → `[[Compounding Knowledge Artifact]]` in Query section (the Ingest section already linked it; the Query section says "explorations **compound**" without linking the concept that names that property); RAG contrast unlinked — `Index and Log` → `[[Wiki vs RAG]]` ("no embedding RAG needed at that scale" names the exact contrast the Wiki vs RAG concept documents; the word RAG was bare).
+- **ORPHANS:** no new orphans; all 42 pages have ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all folders correctly filed.
+- **FLAG — date counter:** Seattle Trip warning updated 16→15 days (2026-07-06 departure count).
+- **DATE FIXES (5 files):** `wiki/overview` 2026-07-04→2026-07-06; `wiki/index` 2026-07-05→2026-07-06; `concepts/Ingest Query Lint` 2026-07-05→2026-07-06; `concepts/Index and Log` 2026-07-05→2026-07-06; `travel/Seattle Trip 2026-07` 2026-07-05→2026-07-06.
+- **Report:** [[meta/maintenance/2026-07-06]]
+
 ## [2026-07-05] librarian | Nightly maintenance pass
 
 - **LINK (10 files, 12 new wikilinks):** bidirectional gap — `Obsidian` → `[[Memex]]` (Memex→Obsidian added 2026-07-04 but reverse absent; added paragraph connecting Obsidian graph view to Bush's "associative trails"); bidirectional gap — `qmd` → `[[Compounding Knowledge Artifact]]` (CKA→qmd added 2026-07-04 but reverse absent) + `[[Wiki vs RAG]]` (qmd keeps the system on the wiki side at scale); `Andrej Karpathy` → `[[Index and Log]]` (he originated all 5 core patterns; Facts list had only 4); `Three-Layer Architecture` → `[[Index and Log]]` (index+log live in the wiki layer; omitted from the layer description); `Compounding Knowledge Artifact` → `[[Obsidian]]` (how you read the artifact) + `[[Index and Log]]` (how you navigate it); `Index and Log` → `[[Compounding Knowledge Artifact]]` (the index is the navigation layer of the CKA); `Ingest Query Lint` → `[[qmd]]` (Query step at scale); `Second Brain Roadmap` → `[[Wiki vs RAG]]` + `[[Memex]]` (the roadmap *is* a wiki-not-RAG Memex realization — both missing from the intro); `Seattle Trip 2026-07` → `[[Thin Ribeye Recipes]]` (meal prep for national park days — 4-day shelf life, portable); `Thin Ribeye Recipes` → `[[Seattle Trip 2026-07]]` (bidirectional close for the portability cluster).
