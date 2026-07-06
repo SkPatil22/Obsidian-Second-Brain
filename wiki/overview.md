@@ -10,7 +10,7 @@ tags: [meta, overview]
 
 **This vault is Sachet's personal second brain** — a persistent, compounding knowledge base across all life domains: work, finance, recipes, projects, learning, and ideas.
 
-It follows [[Andrej Karpathy|Karpathy's]] *[[LLM Wiki Pattern|LLM Wiki]]* pattern: plain Markdown you own, where Claude reads sources, distills them, cross-links everything, and the knowledge compounds with every session. The wiki is the product; chat is just the interface.
+It follows [[Andrej Karpathy|Karpathy's]] *[[LLM Wiki Pattern|LLM Wiki]]* pattern ([[Karpathy - LLM Wiki|source essay]]): plain Markdown you own, where Claude reads sources, distills them, cross-links everything, and the knowledge compounds with every session. The wiki is the product; chat is just the interface.
 
 ## How it works
 
