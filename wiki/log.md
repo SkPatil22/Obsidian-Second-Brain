@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-07] librarian | Nightly maintenance pass
+
+- **LINK (7 files, 7 new wikilinks):** bidirectional gap closed — `Memex` → `[[Second Brain Roadmap]]` (SBR already links to Memex as "modern realization"; Memex's closing sentence described the realization without linking to the roadmap); bidirectional gap closed — `qmd` → `[[Ingest Query Lint]]` (IQL→qmd existed for the Query-at-scale note; qmd never linked back to the specific operation it extends); PKM cluster tightened — `Ingest Query Lint` → `[[Wiki vs RAG]]` (Ingest = compile-once = the wiki-not-RAG operation; contrast was described but unlinked in the Ingest section); `Three-Layer Architecture` → `[[Wiki vs RAG]]` (architecture makes wiki-not-RAG structurally possible; unlinked in the opening description); `Wiki vs RAG` → `[[Three-Layer Architecture]]` (the wiki answer is "built by the Three-Layer Architecture"; CKA was named without its producing architecture); travel cluster — `Mount Rainier National Park` → `[[Thin Ribeye Recipes]]` (park days = meal prep days; Thin Ribeye→Seattle Trip→Rainier existed but Rainier→Thin Ribeye missing); `Olympic National Park` → `[[Thin Ribeye Recipes]]` (same; multi-day Olympic leg makes portable meal prep even more relevant).
+- **ORPHANS:** no new orphans; all pages have ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all folders correctly filed.
+- **FLAG — date counter:** Seattle Trip warning updated 15→14 days (2026-07-07 departure count).
+- **DATE FIXES (8 files):** `entities/Memex` 2026-07-04→2026-07-07; `entities/qmd` 2026-07-05→2026-07-07; `concepts/Ingest Query Lint` 2026-07-06→2026-07-07; `concepts/Three-Layer Architecture` 2026-07-05→2026-07-07; `concepts/Wiki vs RAG` 2026-07-04→2026-07-07; `entities/Mount Rainier` 2026-07-02→2026-07-07; `entities/Olympic` 2026-07-02→2026-07-07; `travel/Seattle Trip 2026-07` 2026-07-06→2026-07-07.
+- **Report:** [[meta/maintenance/2026-07-07]]
+
 ## [2026-07-06] librarian | Nightly maintenance pass
 
 - **LINK (4 files, 4 new wikilinks):** source-gap closed — `overview` → `[[Karpathy - LLM Wiki]]` (the vault front page linked to the concept and the author but never to the foundational source document itself; added inline at first mention of the pattern); system-nav gap — `index` → `[[Second Brain Roadmap]]` (System section listed Conventions/Log/Hot/Overview but not the build-out roadmap, which is equally foundational); concept-compounding gap — `Ingest Query Lint` → `[[Compounding Knowledge Artifact]]` in Query section (the Ingest section already linked it; the Query section says "explorations **compound**" without linking the concept that names that property); RAG contrast unlinked — `Index and Log` → `[[Wiki vs RAG]]` ("no embedding RAG needed at that scale" names the exact contrast the Wiki vs RAG concept documents; the word RAG was bare).
