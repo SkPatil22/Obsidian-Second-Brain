@@ -10,7 +10,7 @@ tags: [concept, pkm, architecture]
 
 # Three-Layer Architecture
 
-The structural backbone of the [[LLM Wiki Pattern]], as framed by [[Andrej Karpathy]]. Three layers, strict ownership.
+The structural backbone of the [[LLM Wiki Pattern]], as framed by [[Andrej Karpathy]]. Three layers, strict ownership. This architecture is what puts the pattern firmly on the wiki side of [[Wiki vs RAG]]: the ingest step compiles knowledge into the wiki layer rather than leaving sources as raw embeddings to be re-derived at query time.
 
 | Layer | This vault | Who owns it | Rule |
 |-------|-----------|-------------|------|
