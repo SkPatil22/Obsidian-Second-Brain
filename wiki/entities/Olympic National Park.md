@@ -35,5 +35,6 @@ Three ecosystems in one park on the Olympic Peninsula NW of Seattle: **alpine mo
 - [[Mount Rainier National Park]] — sister park visited on the same trip (~2.5h SE of Seattle)
 - [[Pike Place Market]] — downtown Seattle anchor (Tue Jul 21 city day) same trip
 - [[Running Shoes - Flat Feet]] — trail footwear for Hurricane Ridge, Hall of Mosses, and Ruby Beach walks
+- [[Thin Ribeye Recipes]] — portable meal prep for multi-day park days (Thai steak salad, bulgogi bowl — 3–4 day shelf life)
 
 _Stub — extend with specific trails after visiting._
