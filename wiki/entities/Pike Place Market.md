@@ -29,5 +29,6 @@ Seattle's landmark public market downtown — 75+ food stalls, fishmongers, flow
 - [[Mount Rainier National Park]] — day trip from Seattle during the same trip (Wed Jul 22)
 - [[Olympic National Park]] — multi-day detour from Seattle during the same trip (Thu–Fri Jul 23–24)
 - [[Running Shoes - Flat Feet]] — extensive city walking on the Tue Jul 21 market + waterfront + Pioneer Square day
+- [[Thin Ribeye Recipes]] — source fresh ribeye and herbs here on day 1 (Tue Jul 21) to prep park-day portable bowls for Rainier (Wed) and Olympic (Thu–Fri)
 
 _Stub._
