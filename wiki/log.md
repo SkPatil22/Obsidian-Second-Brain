@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-08] librarian | Nightly maintenance pass
+
+- **LINK (4 files, 6 new wikilinks):** travel food-prep cluster completed — `Thin Ribeye Recipes` → `[[Mount Rainier National Park]]` + `[[Olympic National Park]]` (parks→Thin Ribeye was added 2026-07-07; reverse used only bare text "Rainier/Olympic" without wikilinks — bidirectional triangle now fully navigable); `Thin Ribeye Recipes` → `[[Pike Place Market]]` (day-1 food market as source of ingredients for park-day meal prep; closing the market→recipe→parks planning chain); `Pike Place Market` → `[[Thin Ribeye Recipes]]` (bidirectional close — day-1 market day is when you shop for the park-day bowls); PKM cluster tightened — `Ingest Query Lint` → `[[meta/conventions]]` (conventions file has the explicit Ingestion contract; concept page had no pointer to the vault-specific implementation); `Memex` → `[[Three-Layer Architecture]]` (the Three-Layer Architecture is the structural realization of Bush's vision; Memex linked to Obsidian and LLM Wiki Pattern without naming the organizing architecture).
+- **ORPHANS:** no new orphans; all pages have ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all folders correctly filed.
+- **FLAG — date counter:** Seattle Trip warning updated 14→13 days (2026-07-08 departure count).
+- **DATE FIXES (5 files):** `recipes/Thin Ribeye Recipes` 2026-07-05→2026-07-08; `entities/Pike Place Market` 2026-07-03→2026-07-08; `concepts/Ingest Query Lint` 2026-07-07→2026-07-08; `entities/Memex` 2026-07-07→2026-07-08; `travel/Seattle Trip 2026-07` 2026-07-07→2026-07-08.
+- **Report:** [[meta/maintenance/2026-07-08]]
+
 ## [2026-07-07] librarian | Nightly maintenance pass
 
 - **LINK (7 files, 7 new wikilinks):** bidirectional gap closed — `Memex` → `[[Second Brain Roadmap]]` (SBR already links to Memex as "modern realization"; Memex's closing sentence described the realization without linking to the roadmap); bidirectional gap closed — `qmd` → `[[Ingest Query Lint]]` (IQL→qmd existed for the Query-at-scale note; qmd never linked back to the specific operation it extends); PKM cluster tightened — `Ingest Query Lint` → `[[Wiki vs RAG]]` (Ingest = compile-once = the wiki-not-RAG operation; contrast was described but unlinked in the Ingest section); `Three-Layer Architecture` → `[[Wiki vs RAG]]` (architecture makes wiki-not-RAG structurally possible; unlinked in the opening description); `Wiki vs RAG` → `[[Three-Layer Architecture]]` (the wiki answer is "built by the Three-Layer Architecture"; CKA was named without its producing architecture); travel cluster — `Mount Rainier National Park` → `[[Thin Ribeye Recipes]]` (park days = meal prep days; Thin Ribeye→Seattle Trip→Rainier existed but Rainier→Thin Ribeye missing); `Olympic National Park` → `[[Thin Ribeye Recipes]]` (same; multi-day Olympic leg makes portable meal prep even more relevant).
