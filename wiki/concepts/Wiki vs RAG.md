@@ -19,7 +19,7 @@ The core distinction that motivates the [[LLM Wiki Pattern]].
 | Cross-references | Found ad hoc, per question | Already present in the pages |
 | Contradictions | Re-encountered each query | Flagged once, recorded |
 | Synthesis | Re-pieced every time | Reflects everything already read |
-| Examples | NotebookLM, ChatGPT uploads, most RAG | This vault |
+| Examples | NotebookLM, ChatGPT uploads, most RAG | [[overview\|This vault]] |
 
 **The failure mode of RAG:** ask a subtle question that needs five documents synthesized, and the LLM must find and piece together the fragments *every single time*. Nothing is built up.
 
