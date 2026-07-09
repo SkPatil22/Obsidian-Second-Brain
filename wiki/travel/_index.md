@@ -2,7 +2,7 @@
 type: meta
 title: "Travel — Index"
 created: 2026-06-28
-updated: 2026-07-01
+updated: 2026-07-09
 tags: [meta, index, travel]
 ---
 
@@ -12,3 +12,8 @@ Trips and travel planning — itineraries, logistics, and recs. Each trip is a n
 
 ## Pages
 - [[Seattle Trip 2026-07]] — Jul 21–25: downtown Seattle + Olympic + Rainier. _planning_
+
+## Destination entities (active trips)
+- [[Mount Rainier National Park]] — WA, ~2.5h SE of Seattle (national park, Wed Jul 22)
+- [[Olympic National Park]] — WA Olympic Peninsula (national park, Thu–Fri Jul 23–24)
+- [[Pike Place Market]] — downtown Seattle landmark market (Tue Jul 21 city day)
