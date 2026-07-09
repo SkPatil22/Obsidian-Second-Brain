@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-09] librarian | Nightly maintenance pass
+
+- **LINK (6 files, 8 new wikilinks):** schema-layer gap closed — `meta/conventions` → `[[LLM Wiki Pattern]]` + `[[Three-Layer Architecture]]` (preamble now identifies conventions as the schema layer that encodes these patterns; largest single gap in the vault — the schema file never linked to what it implements) + `[[Ingest Query Lint]]` (Ingestion contract heading now names the Ingest operation); travel hub gap — `travel/_index` → `[[Mount Rainier National Park]]` + `[[Olympic National Park]]` + `[[Pike Place Market]]` (travel index said "places become entity pages" but listed none; added Destination entities subsection); bidirectional gap closed — `Index and Log` → `[[Obsidian]]` (Dataview extends the index layer at scale; Obsidian→IaL added same pass); `Obsidian` → `[[Index and Log]]` (Dataview bullet now names the concept it extends); `Wiki vs RAG` → `[[overview]]` ("This vault" in examples column was bare text; now links to the vault front page); `overview` → `[[Index and Log]]` (added concept pointer alongside the [[index]] file link).
+- **ORPHANS:** no orphans; all content pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all folders correctly filed.
+- **FLAG — date counter:** Seattle Trip warning updated 13→12 days (2026-07-09 departure count).
+- **DATE FIXES (7 files):** `meta/conventions` 2026-06-24→2026-07-09; `travel/_index` 2026-07-01→2026-07-09; `concepts/Index and Log` 2026-07-06→2026-07-09; `entities/Obsidian` 2026-07-05→2026-07-09; `concepts/Wiki vs RAG` 2026-07-07→2026-07-09; `overview` 2026-07-06→2026-07-09; `travel/Seattle Trip 2026-07` 2026-07-08→2026-07-09.
+- **Report:** [[meta/maintenance/2026-07-09]]
+
 ## [2026-07-08] librarian | Nightly maintenance pass
 
 - **LINK (4 files, 6 new wikilinks):** travel food-prep cluster completed — `Thin Ribeye Recipes` → `[[Mount Rainier National Park]]` + `[[Olympic National Park]]` (parks→Thin Ribeye was added 2026-07-07; reverse used only bare text "Rainier/Olympic" without wikilinks — bidirectional triangle now fully navigable); `Thin Ribeye Recipes` → `[[Pike Place Market]]` (day-1 food market as source of ingredients for park-day meal prep; closing the market→recipe→parks planning chain); `Pike Place Market` → `[[Thin Ribeye Recipes]]` (bidirectional close — day-1 market day is when you shop for the park-day bowls); PKM cluster tightened — `Ingest Query Lint` → `[[meta/conventions]]` (conventions file has the explicit Ingestion contract; concept page had no pointer to the vault-specific implementation); `Memex` → `[[Three-Layer Architecture]]` (the Three-Layer Architecture is the structural realization of Bush's vision; Memex linked to Obsidian and LLM Wiki Pattern without naming the organizing architecture).
