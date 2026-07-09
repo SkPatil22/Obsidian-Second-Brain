@@ -56,7 +56,7 @@ Use judgment to avoid sprawl:
 - Link liberally. A link to a page that doesn't exist yet is a *todo*, not an error.
 - When a source introduces a concept or entity, create/extend its page and link both ways.
 
-## Ingestion contract
+## Ingestion contract ([[Ingest Query Lint|Ingest]] step)
 
 1. Read the source from `.raw/`. Never modify it.
 2. Check `.raw/.manifest.json` — skip if the hash is unchanged (unless "force").
