@@ -4,7 +4,7 @@ title: "Wiki vs RAG"
 status: synthesized
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-07-07
+updated: 2026-07-09
 tags: [concept, pkm, comparison]
 ---
 
