@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-10] librarian | Nightly maintenance pass
+
+- **LINK (4 files, 4 new wikilinks):** knowledge-layer ingest gaps — `sources/_index` → `[[Ingest Query Lint]]` (description said "built automatically by ingestion" without linking the concept that names the Ingest operation; the most direct gap remaining in the knowledge-layer folder descriptions); `concepts/_index` → `[[Ingest Query Lint]]` (same — "extracted from sources" is precisely the Ingest step; all 3 knowledge-layer folders now link to Ingest Query Lint); `entities/_index` → `[[Ingest Query Lint]]` (same — "accreting facts from every source via ingestion" completes the triangle); schema-link gap — `Second Brain Roadmap` Phase 1 bullet → `[[meta/conventions]]` (meta/conventions is the schema artifact created in Phase 1; already reachable via SBR→Three-Layer Architecture→meta/conventions but now 1 hop direct; Phase 1 "plugin installed" step produced conventions).
+- **ORPHANS:** no orphans; all content pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all folders correctly filed. Empty domain folders (areas, people, ideas, learning) retained — anti-sprawl.
+- **FLAG — date counter:** Seattle Trip warning updated 12→11 days (2026-07-10 departure count).
+- **DATE FIXES (6 files):** `sources/_index` 2026-06-24→2026-07-10 (stale since setup — first edit); `concepts/_index` 2026-06-28→2026-07-10; `entities/_index` 2026-06-28→2026-07-10; `projects/Second Brain Roadmap` 2026-07-05→2026-07-10; `travel/Seattle Trip 2026-07` 2026-07-09→2026-07-10; `index` 2026-07-08→2026-07-10.
+- **Report:** [[meta/maintenance/2026-07-10]]
+
 ## [2026-07-09] librarian | Nightly maintenance pass
 
 - **LINK (6 files, 8 new wikilinks):** schema-layer gap closed — `meta/conventions` → `[[LLM Wiki Pattern]]` + `[[Three-Layer Architecture]]` (preamble now identifies conventions as the schema layer that encodes these patterns; largest single gap in the vault — the schema file never linked to what it implements) + `[[Ingest Query Lint]]` (Ingestion contract heading now names the Ingest operation); travel hub gap — `travel/_index` → `[[Mount Rainier National Park]]` + `[[Olympic National Park]]` + `[[Pike Place Market]]` (travel index said "places become entity pages" but listed none; added Destination entities subsection); bidirectional gap closed — `Index and Log` → `[[Obsidian]]` (Dataview extends the index layer at scale; Obsidian→IaL added same pass); `Obsidian` → `[[Index and Log]]` (Dataview bullet now names the concept it extends); `Wiki vs RAG` → `[[overview]]` ("This vault" in examples column was bare text; now links to the vault front page); `overview` → `[[Index and Log]]` (added concept pointer alongside the [[index]] file link).
