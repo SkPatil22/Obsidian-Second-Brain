@@ -8,7 +8,7 @@ tags: [meta, index, entity]
 
 # Entities
 
-People, organizations, products, repos, and places referenced across the vault. One page per entity, accreting facts from every source that mentions it.
+People, organizations, products, repos, and places referenced across the vault. One page per entity, accreting facts from every source that mentions it via [[Ingest Query Lint|ingestion]].
 
 ## Pages
 - [[Andrej Karpathy]] — author of the foundational essay (person)
