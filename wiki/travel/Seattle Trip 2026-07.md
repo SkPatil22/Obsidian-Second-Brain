@@ -51,7 +51,7 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 
 ## Action items
 
-> [!warning] 12 days to departure (Jul 21)
+> [!warning] 11 days to departure (Jul 21)
 > Rental car and Port Angeles lodging book up fast in late July — prioritize those two now. Restaurant reservations (Kashiba, Pink Door) also fill weeks out.
 
 - [ ] Book rental car
