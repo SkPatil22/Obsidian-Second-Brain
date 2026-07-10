@@ -14,7 +14,7 @@ tags: [project, meta, infrastructure]
 The staged build-out of this vault into an always-on personal knowledge + automation system. Implements the [[LLM Wiki Pattern]] (coined by [[Andrej Karpathy]]) as its foundation, following the [[Three-Layer Architecture]] to build a true [[Compounding Knowledge Artifact]]. This vault is a wiki — not a [[Wiki vs RAG|RAG system]] — knowledge compiles once and grows with every session; the modern realization of the [[Memex]] vision, with Claude as the maintenance engine.
 
 ## Where we are
-- **Phase 1 — Vault + plugin** ✅ done 2026-06-24. Clean Personal-mode vault on the Pi; `claude-obsidian` plugin installed; first ingest ([[Karpathy - LLM Wiki]]).
+- **Phase 1 — Vault + plugin** ✅ done 2026-06-24. Clean Personal-mode vault on the Pi; `claude-obsidian` plugin installed; schema written to [[meta/conventions]]; first ingest ([[Karpathy - LLM Wiki]]).
 - **Phase 1.5 — Sync** 🟡 prepped, awaiting GitHub auth. `~/brain-infra/sync.sh` + cron push every 15 min; Windows/phone [[Obsidian]] become git-synced clients. Activate with `~/brain-infra/activate-sync.sh`.
 
 ## Next
