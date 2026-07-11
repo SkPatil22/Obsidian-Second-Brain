@@ -11,6 +11,17 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-11] librarian | Nightly maintenance pass
+
+- **LINK (1 file, 1 new wikilink):** front-page gap — `overview` → `[[meta/conventions]]` (the vault front page described how the vault works and pointed to `[[index]]` but never linked to the schema/rules document; `meta/conventions` is the operational contract every note follows — reachable from `index` in 1 hop but not from `overview` directly; now 1-hop from the front page).
+- **STRUCTURE — frontmatter fix (1 file):** `Baking - Berries and Moisture` — `type: technique` → `type: recipe` (`technique` is not a valid type per [[meta/conventions]]); removed vestigial `area: creative` field (leftover from when the page lived in `learning/` before the 2026-06-28 move to `recipes/`); `tags: [learning, baking, technique]` → `tags: [recipe, baking, technique]`.
+- **ORPHANS:** no orphans; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE (folders):** no moves; all correctly filed.
+- **FLAG — date counter:** Seattle Trip warning updated 11→10 days (2026-07-11 departure count).
+- **DATE FIXES (6 files):** `overview` 2026-07-09→2026-07-11; `Baking - Berries and Moisture` 2026-06-30→2026-07-11; `Seattle Trip 2026-07` 2026-07-10→2026-07-11; `index` 2026-07-10→2026-07-11; `hot` 2026-07-10→2026-07-11; `log` 2026-07-10→2026-07-11.
+- **Report:** [[meta/maintenance/2026-07-11]]
+
 ## [2026-07-10] librarian | Nightly maintenance pass
 
 - **LINK (4 files, 4 new wikilinks):** knowledge-layer ingest gaps — `sources/_index` → `[[Ingest Query Lint]]` (description said "built automatically by ingestion" without linking the concept that names the Ingest operation; the most direct gap remaining in the knowledge-layer folder descriptions); `concepts/_index` → `[[Ingest Query Lint]]` (same — "extracted from sources" is precisely the Ingest step; all 3 knowledge-layer folders now link to Ingest Query Lint); `entities/_index` → `[[Ingest Query Lint]]` (same — "accreting facts from every source via ingestion" completes the triangle); schema-link gap — `Second Brain Roadmap` Phase 1 bullet → `[[meta/conventions]]` (meta/conventions is the schema artifact created in Phase 1; already reachable via SBR→Three-Layer Architecture→meta/conventions but now 1 hop direct; Phase 1 "plugin installed" step produced conventions).
