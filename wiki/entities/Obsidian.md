@@ -18,7 +18,7 @@ The **front-end** for this second brain — "the IDE" in [[Andrej Karpathy|Karpa
 
 ## Useful features (per the source)
 - **Graph view** — best way to see the shape of the wiki.
-- **Web Clipper** — browser extension to convert articles to Markdown into `.raw/`.
+- **Web Clipper** — browser extension to convert articles to Markdown into `.raw/`, feeding the [[Ingest Query Lint|ingest]] loop.
 - **Dataview** — queries over YAML frontmatter → dynamic tables; extends the [[Index and Log]] navigation layer at scale.
 - **Marp** — Markdown slide decks generated from wiki content.
 
