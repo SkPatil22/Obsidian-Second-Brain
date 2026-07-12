@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-12] librarian | Nightly maintenance pass
+
+- **LINK (5 files, 5 new wikilinks):** PKM cluster last gaps — `Wiki vs RAG` → `[[Ingest Query Lint]]` (the "compile-once, at ingest" body text described the Ingest operation without naming it; IQL was the only core concept not linked from Wiki vs RAG — all 5 others now complete); `Obsidian` → `[[Ingest Query Lint]]` (Web Clipper feeds the ingest loop — the first step of Ingest is getting sources into `.raw/`; Obsidian's feature that does exactly that had no pointer to the concept); `Memex` → `[[Ingest Query Lint]]` (Bush's "who does the maintenance" open problem is answered specifically by the Ingest/Lint loops; the maintenance sentence now names the workflow). Travel cluster last gap — `Running Shoes - Flat Feet` → `[[Thin Ribeye Recipes]]` + `Thin Ribeye Recipes` → `[[Running Shoes - Flat Feet]]` (bidirectional close; every other pair in the 5-node travel cluster was already connected; Running Shoes ↔ Thin Ribeye was the sole remaining missing edge — both are primary logistics prep for the same Seattle trip park days).
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. Empty domain folders retained.
+- **FLAG — date counter:** Seattle Trip warning updated 10→9 days (2026-07-12 departure count).
+- **DATE FIXES (6 files):** `Wiki vs RAG` 2026-07-09→2026-07-12; `Obsidian` 2026-07-09→2026-07-12; `Memex` 2026-07-08→2026-07-12; `Running Shoes - Flat Feet` 2026-07-02→2026-07-12; `Thin Ribeye Recipes` 2026-07-08→2026-07-12; `Seattle Trip 2026-07` 2026-07-11→2026-07-12.
+- **Report:** [[meta/maintenance/2026-07-12]]
+
 ## [2026-07-11] librarian | Nightly maintenance pass
 
 - **LINK (1 file, 1 new wikilink):** front-page gap — `overview` → `[[meta/conventions]]` (the vault front page described how the vault works and pointed to `[[index]]` but never linked to the schema/rules document; `meta/conventions` is the operational contract every note follows — reachable from `index` in 1 hop but not from `overview` directly; now 1-hop from the front page).
