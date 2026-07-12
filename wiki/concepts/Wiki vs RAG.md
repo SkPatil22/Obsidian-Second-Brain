@@ -23,7 +23,7 @@ The core distinction that motivates the [[LLM Wiki Pattern]].
 
 **The failure mode of RAG:** ask a subtle question that needs five documents synthesized, and the LLM must find and piece together the fragments *every single time*. Nothing is built up.
 
-**The wiki answer:** the synthesis is a durable artifact — a [[Compounding Knowledge Artifact]], built and maintained via the [[Three-Layer Architecture]] (raw sources → wiki layer → schema). You read it; the LLM writes it.
+**The wiki answer:** the synthesis is a durable artifact — a [[Compounding Knowledge Artifact]], built and maintained via the [[Three-Layer Architecture]] (raw sources → wiki layer → schema) through the [[Ingest Query Lint|Ingest]] step — compiled once, not re-derived per query. You read it; the LLM writes it.
 
 > Note: RAG isn't wrong, just different. [[Andrej Karpathy|Karpathy]] notes the [[Index and Log|index-file approach]] scales to ~100 sources before embedding-based retrieval becomes worth adding — at which point a search layer ([[qmd]]) can sit *on top of* the wiki, not replace it.
 
