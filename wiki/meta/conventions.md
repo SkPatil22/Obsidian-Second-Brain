@@ -8,7 +8,7 @@ tags: [meta, conventions]
 
 # Conventions
 
-The rules every note in this vault follows. Claude reads this before writing. These conventions form the **schema layer** of the [[Three-Layer Architecture]] — the file that makes Claude a disciplined wiki maintainer instead of a generic chatbot. The vault implements the [[LLM Wiki Pattern]] throughout.
+The rules every note in this vault follows. Claude reads this before writing. These conventions form the **schema layer** of the [[Three-Layer Architecture]] — the file that makes Claude a disciplined wiki maintainer instead of a generic chatbot. The vault implements the [[LLM Wiki Pattern]] throughout (source: [[Karpathy - LLM Wiki]]).
 
 ## Frontmatter (minimum)
 
