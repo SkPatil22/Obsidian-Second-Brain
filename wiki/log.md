@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-13] librarian | Nightly maintenance pass
+
+- **LINK (2 files, 2 new wikilinks):** PKM source-link gaps closed — `meta/conventions` → `[[Karpathy - LLM Wiki]]` (conventions is the schema layer built from the source essay; Karpathy-LLM-Wiki already linked back to conventions, but conventions never linked to the source — last outbound gap from the schema file); `Second Brain Roadmap` → `[[Karpathy - LLM Wiki]]` (SBR is the staged implementation of the source essay; source already linked to SBR via "see [[Second Brain Roadmap]] for how the implementation is staged"; SBR linked to [[LLM Wiki Pattern]] and [[Andrej Karpathy]] but not the source document — last reverse link gap in the PKM cluster).
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. Empty domain folders retained.
+- **FLAG — date counter:** Seattle Trip warning updated 9→8 days (2026-07-13 departure count, Jul 21).
+- **DATE FIXES (6 files):** `meta/conventions` 2026-07-09→2026-07-13; `Second Brain Roadmap` 2026-07-10→2026-07-13; `Seattle Trip 2026-07` 2026-07-12→2026-07-13; `index` 2026-07-12→2026-07-13; `log` 2026-07-12→2026-07-13; `hot` 2026-07-12→2026-07-13.
+- **Report:** [[meta/maintenance/2026-07-13]]
+
 ## [2026-07-12] librarian | Nightly maintenance pass
 
 - **LINK (5 files, 5 new wikilinks):** PKM cluster last gaps — `Wiki vs RAG` → `[[Ingest Query Lint]]` (the "compile-once, at ingest" body text described the Ingest operation without naming it; IQL was the only core concept not linked from Wiki vs RAG — all 5 others now complete); `Obsidian` → `[[Ingest Query Lint]]` (Web Clipper feeds the ingest loop — the first step of Ingest is getting sources into `.raw/`; Obsidian's feature that does exactly that had no pointer to the concept); `Memex` → `[[Ingest Query Lint]]` (Bush's "who does the maintenance" open problem is answered specifically by the Ingest/Lint loops; the maintenance sentence now names the workflow). Travel cluster last gap — `Running Shoes - Flat Feet` → `[[Thin Ribeye Recipes]]` + `Thin Ribeye Recipes` → `[[Running Shoes - Flat Feet]]` (bidirectional close; every other pair in the 5-node travel cluster was already connected; Running Shoes ↔ Thin Ribeye was the sole remaining missing edge — both are primary logistics prep for the same Seattle trip park days).
