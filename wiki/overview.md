@@ -24,7 +24,7 @@ Not everything gets ingested. A random screenshot is noise; your insurance card 
 
 ## Where things live
 
-See [[index]] for the full map (the [[Index and Log]] navigation pattern). Domains hold *your* curated notes; `sources/`, `concepts/`, and `entities/` are the knowledge layer the ingestion pipeline builds automatically. The rules every note follows — types, frontmatter schema, linking policy, ingestion contract — are in [[meta/conventions]].
+See [[index]] for the full map (the [[Index and Log]] navigation pattern), [[hot]] for recent context, and [[log]] for the chronological record. Domains hold *your* curated notes; `sources/`, `concepts/`, and `entities/` are the knowledge layer the ingestion pipeline builds automatically. The rules every note follows — types, frontmatter schema, linking policy, ingestion contract — are in [[meta/conventions]].
 
 ## Status
 
