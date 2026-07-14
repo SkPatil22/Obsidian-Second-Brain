@@ -8,7 +8,7 @@ tags: [meta, index, concept]
 
 # Concepts
 
-Ideas, patterns, and frameworks extracted from sources via [[Ingest Query Lint|ingestion]]. Each concept page synthesizes everything the vault knows about it across all sources — not a per-source copy.
+Ideas, patterns, and frameworks extracted from sources via [[Ingest Query Lint|ingestion]]. Each concept page synthesizes everything the vault knows about it across all sources — not a per-source copy. For skills you're actively mastering (not extracted from sources), see [[learning/_index|Learning]].
 
 ## Pages
 - [[LLM Wiki Pattern]] — the operating model of this vault
