@@ -16,3 +16,5 @@ All things cooking. One cookable recipe per note — ingredients, steps, timing,
 
 ## Techniques
 - [[Baking - Berries and Moisture]] — moist crumb (oil vs butter), stopping berries sinking, fresh vs frozen, ganache drips
+
+_Cooking techniques live here. Non-cooking skills being actively mastered live in [[learning/_index|Learning]]._
