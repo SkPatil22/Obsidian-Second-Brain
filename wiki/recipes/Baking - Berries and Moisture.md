@@ -36,3 +36,4 @@ Sinking = berry weight beats batter body before the crumb sets. Fixes:
 ## See also
 - [[Raspberry Chocolate Cake]] — the recipe that spawned these techniques; references this page for the theory
 - [[Thin Ribeye Recipes]] — moisture management (resting before packing to prevent soggy containers) echoes the principles here
+- [[Pike Place Market]] — premier source for fresh Washington raspberries; the fresh-vs-frozen section above applies directly to market-stall produce
