@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-14] librarian | Nightly maintenance pass
+
+- **LINK (7 files, 8 new wikilinks):** Recipe ↔ travel cluster densified — `Raspberry Chocolate Cake` → `[[Pike Place Market]]` (Pike Place produce stalls are the natural source for fresh Washington raspberries — the cake filling calls for 12 oz fresh; closes the last unlinked pair between the recipe cluster and the travel cluster); `Pike Place Market` → `[[Raspberry Chocolate Cake]]` (bidirectional close); `Baking - Berries and Moisture` → `[[Pike Place Market]]` (the fresh-vs-frozen berry section maps directly to Pike Place produce sourcing — "fresh → fillings, décor: best appearance" aligns with market-stall raspberries); `Pike Place Market` → `[[Baking - Berries and Moisture]]` (bidirectional close — completes the recipe ↔ travel triangle for all three recipe pages). Front-page navigation — `overview` → `[[hot]]` + `[[log]]` (CLAUDE.md defines 4 entry-point files: overview, index, conventions, hot — overview linked to index and conventions but never to hot or log; now all 4 cross-referenced from the front page). Disambiguating cross-links — `recipes/_index` → `[[learning/_index]]` (cooking techniques live in recipes/, non-cooking skills live in learning/; learning said so but recipes never reciprocated — now bidirectional); `concepts/_index` → `[[learning/_index]]` (concepts are extracted automatically; learning is what you're actively mastering — important distinction; no prior pointer from concepts to learning).
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. Empty domain folders retained.
+- **FLAG — date counter:** Seattle Trip warning updated 8→7 days (2026-07-14 departure count, Jul 21).
+- **DATE FIXES (10 files):** `Raspberry Chocolate Cake` 2026-06-30→2026-07-14; `Baking - Berries and Moisture` 2026-07-11→2026-07-14; `Pike Place Market` 2026-07-08→2026-07-14; `overview` 2026-07-11→2026-07-14; `recipes/_index` 2026-06-30→2026-07-14; `concepts/_index` 2026-07-10→2026-07-14; `Seattle Trip 2026-07` 2026-07-13→2026-07-14; `index` 2026-07-13→2026-07-14; `log` 2026-07-13→2026-07-14; `hot` 2026-07-13→2026-07-14.
+- **Report:** [[meta/maintenance/2026-07-14]]
+
 ## [2026-07-13] librarian | Nightly maintenance pass
 
 - **LINK (2 files, 2 new wikilinks):** PKM source-link gaps closed — `meta/conventions` → `[[Karpathy - LLM Wiki]]` (conventions is the schema layer built from the source essay; Karpathy-LLM-Wiki already linked back to conventions, but conventions never linked to the source — last outbound gap from the schema file); `Second Brain Roadmap` → `[[Karpathy - LLM Wiki]]` (SBR is the staged implementation of the source essay; source already linked to SBR via "see [[Second Brain Roadmap]] for how the implementation is staged"; SBR linked to [[LLM Wiki Pattern]] and [[Andrej Karpathy]] but not the source document — last reverse link gap in the PKM cluster).
