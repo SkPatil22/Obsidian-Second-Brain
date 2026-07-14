@@ -2,7 +2,7 @@
 type: meta
 title: "Recipes — Index"
 created: 2026-06-24
-updated: 2026-06-30
+updated: 2026-07-14
 tags: [meta, index, recipe]
 ---
 
