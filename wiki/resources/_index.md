@@ -13,3 +13,5 @@ Books, courses, tools, and references worth keeping a pointer to — with a line
 ## Pages
 
 - [[Running Shoes - Flat Feet]] — flat-feet buying guide; jogging + boxing combo, under $200, 2026 picks
+
+_Reference material and gear guides live here. For skills you're actively mastering, see [[learning/_index|Learning]]._
