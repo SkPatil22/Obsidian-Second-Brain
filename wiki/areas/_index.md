@@ -12,3 +12,5 @@ Ongoing life areas with no finish line — maintained, reviewed periodically. He
 
 ## Pages
 _None yet._
+
+_Ongoing life domains with no end state live here. For skills being actively mastered, see [[learning/_index|Learning]]. For things with a finish line, see [[projects/_index|Projects]]._
