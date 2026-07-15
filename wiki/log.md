@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-15] librarian | Nightly maintenance pass
+
+- **LINK (4 files, 4 new wikilinks):** trip↔recipe bidirectional close — `Seattle Trip 2026-07` → `[[Raspberry Chocolate Cake]]` (Logistics section: Tue Jul 21 city day at Pike Place is the natural window to source fresh Washington raspberries for the cake filling — closes the last missing edge between the trip cluster and the recipe cluster); `Raspberry Chocolate Cake` → `[[Seattle Trip 2026-07]]` (bidirectional close — the cake's Pike Place note already implied the trip context; making the trip directly navigable from the cake page). Disambiguation triad completed — `resources/_index` → `[[learning/_index]]` (reference material/gear vs. skills being mastered — the last domain-adjacent index that didn't point to learning; `concepts/_index` and `recipes/_index` already did); `areas/_index` → `[[learning/_index]]` (life domains vs. active skills mastery; areas already pointed to projects, now also to learning).
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. Empty domain folders retained.
+- **FLAG — date counter:** Seattle Trip warning updated 7→6 days (2026-07-15 departure count, Jul 21).
+- **DATE FIXES (7 files):** `Seattle Trip 2026-07` 2026-07-14→2026-07-15; `Raspberry Chocolate Cake` 2026-07-14→2026-07-15; `resources/_index` 2026-06-29→2026-07-15; `areas/_index` 2026-06-24→2026-07-15; `index` 2026-07-14→2026-07-15; `log` 2026-07-14→2026-07-15; `hot` 2026-07-14→2026-07-15.
+- **Report:** [[meta/maintenance/2026-07-15]]
+
 ## [2026-07-14] librarian | Nightly maintenance pass
 
 - **LINK (7 files, 8 new wikilinks):** Recipe ↔ travel cluster densified — `Raspberry Chocolate Cake` → `[[Pike Place Market]]` (Pike Place produce stalls are the natural source for fresh Washington raspberries — the cake filling calls for 12 oz fresh; closes the last unlinked pair between the recipe cluster and the travel cluster); `Pike Place Market` → `[[Raspberry Chocolate Cake]]` (bidirectional close); `Baking - Berries and Moisture` → `[[Pike Place Market]]` (the fresh-vs-frozen berry section maps directly to Pike Place produce sourcing — "fresh → fillings, décor: best appearance" aligns with market-stall raspberries); `Pike Place Market` → `[[Baking - Berries and Moisture]]` (bidirectional close — completes the recipe ↔ travel triangle for all three recipe pages). Front-page navigation — `overview` → `[[hot]]` + `[[log]]` (CLAUDE.md defines 4 entry-point files: overview, index, conventions, hot — overview linked to index and conventions but never to hot or log; now all 4 cross-referenced from the front page). Disambiguating cross-links — `recipes/_index` → `[[learning/_index]]` (cooking techniques live in recipes/, non-cooking skills live in learning/; learning said so but recipes never reciprocated — now bidirectional); `concepts/_index` → `[[learning/_index]]` (concepts are extracted automatically; learning is what you're actively mastering — important distinction; no prior pointer from concepts to learning).
