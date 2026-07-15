@@ -7,7 +7,7 @@ time: "1h45m (35m active + 35m bake + chill/assembly)"
 difficulty: medium
 source: "[[.raw/raspberry-chocolate-cake-research-2026-06-25.md]]"
 created: 2026-06-25
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [recipe, dessert, cake, chocolate, raspberry]
 ---
 
