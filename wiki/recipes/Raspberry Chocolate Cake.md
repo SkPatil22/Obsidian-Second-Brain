@@ -59,3 +59,4 @@ A deep, moist from-scratch chocolate layer cake with a fresh raspberry filling a
 - [[Baking - Berries and Moisture]] — the technique page behind this recipe (moist crumb, berry sinking, ganache drip)
 - [[Thin Ribeye Recipes]] — if packing a full meal, pair a slice of this for dessert
 - [[Pike Place Market]] — source fresh Washington raspberries from the produce stalls; the city day (Tue Jul 21) is the natural shopping window before the trip's park legs
+- [[Seattle Trip 2026-07]] — Tue Jul 21 city day at Pike Place is when to source the fresh raspberries for the filling; natural post-trip test bake on return
