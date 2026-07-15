@@ -48,6 +48,7 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 - **Cell service is poor** in both parks — download offline maps.
 - **Footwear:** cross-training shoes suit both park terrain and city walking — see [[Running Shoes - Flat Feet]].
 - **Meal prep:** the portable ribeye bowls in [[Thin Ribeye Recipes]] pack well for national park days (Rainier, Olympic) — high protein, 4-day shelf life, reheat in a hotel or skip reheating for the bulgogi and chimichurri variants.
+- **Post-trip bake:** source fresh Washington raspberries at Pike Place (Tue Jul 21) for the [[Raspberry Chocolate Cake]] after returning — day 1 is the natural shopping window before the produce quality drops.
 
 ## Action items
 
