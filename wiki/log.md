@@ -8,7 +8,7 @@ tags: [meta, log]
 
 # Log — Operations Record
 
-Chronological record of every operation against this vault. Newest first.
+Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
 ## [2026-07-15] librarian | Nightly maintenance pass
