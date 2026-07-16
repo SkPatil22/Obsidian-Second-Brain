@@ -69,6 +69,7 @@ The Metcon 6 wins on boxing feel (forefoot flex, lower price). The Nano X5 Edge 
 - [[Mount Rainier National Park]] — Skyline Trail (~5.5 mi alpine loop); Metcon 6 borderline — see buying decision note above
 - [[Olympic National Park]] — Hurricane Ridge, Hall of Mosses, Ruby Beach; varied terrain (gravel, packed dirt, rocky coast)
 - [[Thin Ribeye Recipes]] — the other key trip-prep logistics item; portable bowls for the same park days these shoes are worn
+- [[Raspberry Chocolate Cake]] — third trip-prep cluster item; source fresh raspberries at Pike Place on the same Tue Jul 21 city day (the cake's natural shopping window)
 
 ## Sources
 - RunRepeat: Best Flat Feet Running Shoes 2026
