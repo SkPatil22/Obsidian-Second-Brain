@@ -38,6 +38,7 @@ _New top-level categories are created on demand when a clear new life domain app
 
 - [[meta/conventions|Conventions]] — note schema, folder meanings, linking rules
 - [[log]] — chronological record of every operation
+- [[Index and Log]] — the two-file navigation pattern (why this file + [[log]] exist)
 - [[hot]] — ~500-word cache of recent context
 - [[overview]] — executive summary of the whole vault
 - [[Second Brain Roadmap]] — staged build-out of the vault, phase by phase
