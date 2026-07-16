@@ -60,3 +60,4 @@ A deep, moist from-scratch chocolate layer cake with a fresh raspberry filling a
 - [[Thin Ribeye Recipes]] — if packing a full meal, pair a slice of this for dessert
 - [[Pike Place Market]] — source fresh Washington raspberries from the produce stalls; the city day (Tue Jul 21) is the natural shopping window before the trip's park legs
 - [[Seattle Trip 2026-07]] — Tue Jul 21 city day at Pike Place is when to source the fresh raspberries for the filling; natural post-trip test bake on return
+- [[Running Shoes - Flat Feet]] — footwear for the same Seattle trip (Jul 21–25); both are Tue Jul 21 Pike Place day-1 logistics items
