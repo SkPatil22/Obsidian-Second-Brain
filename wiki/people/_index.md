@@ -12,3 +12,5 @@ Relationships and shared context — who they are, how you know them, birthdays,
 
 ## Pages
 _None yet._
+
+_For ingestion-derived pages about real people (extracted from sources), see [[entities/_index|Entities]]. People here are curated relationships; Entities pages accrete facts from ingestion._
