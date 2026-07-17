@@ -12,3 +12,5 @@ Sparks and half-thoughts — graphic design, product, writing, anything. Low bar
 
 ## Pages
 _None yet._
+
+_Ideas that grow into ongoing life domains (no clear finish line) belong in [[areas/_index|Areas]] instead._
