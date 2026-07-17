@@ -38,7 +38,7 @@ Type-specific fields are added on top (e.g. recipes get `servings`, `time`, `sou
 - **resources/** — books, courses, tools worth referencing.
 - **sources/** — one summary page per ingested raw source. Built by [[Ingest Query Lint|ingestion]].
 - **concepts/** — ideas, patterns, frameworks extracted from sources. Built by [[Ingest Query Lint|ingestion]].
-- **entities/** — people, orgs, products, repos, places. Built by ingestion.
+- **entities/** — people, orgs, products, repos, places. Built by [[Ingest Query Lint|ingestion]].
 
 ## Creating new categories
 
