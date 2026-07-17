@@ -36,7 +36,7 @@ Type-specific fields are added on top (e.g. recipes get `servings`, `time`, `sou
 - **people/** — relationships, shared context, birthdays, follow-ups.
 - **ideas/** — sparks and half-thoughts (graphic design, product, writing).
 - **resources/** — books, courses, tools worth referencing.
-- **sources/** — one summary page per ingested raw source. Built by ingestion.
+- **sources/** — one summary page per ingested raw source. Built by [[Ingest Query Lint|ingestion]].
 - **concepts/** — ideas, patterns, frameworks extracted from sources. Built by ingestion.
 - **entities/** — people, orgs, products, repos, places. Built by ingestion.
 
