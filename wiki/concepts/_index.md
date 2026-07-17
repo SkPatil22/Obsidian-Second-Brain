@@ -17,3 +17,5 @@ Ideas, patterns, and frameworks extracted from sources via [[Ingest Query Lint|i
 - [[Three-Layer Architecture]] — raw / wiki / schema
 - [[Ingest Query Lint]] — the three core operations
 - [[Index and Log]] — navigation at scale
+
+_Concepts are synthesized across all sources — see [[sources/_index|Sources]] for the raw documents they were extracted from._
