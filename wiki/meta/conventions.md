@@ -60,7 +60,7 @@ Use judgment to avoid sprawl:
 
 1. Read the source from `.raw/`. Never modify it.
 2. Check `.raw/.manifest.json` — skip if the hash is unchanged (unless "force").
-3. Write a `sources/` summary + any `concepts/`, `entities/`, and domain pages it touches (typically 8–15 pages for a rich source, fewer for a thin one).
+3. Write a [[sources/_index|sources/]] summary + any [[concepts/_index|concepts/]], [[entities/_index|entities/]], and domain pages it touches (typically 8–15 pages for a rich source, fewer for a thin one).
 4. Cross-reference everything. Flag contradictions in the relevant page and in [[log]].
 5. Update [[index]] counts, append to [[log]], overwrite [[hot]], and record the source in `.raw/.manifest.json`. ([[Index and Log]] is the navigation pattern this step implements.)
 
