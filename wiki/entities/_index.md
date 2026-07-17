@@ -18,3 +18,5 @@ People, organizations, products, repos, and places referenced across the vault. 
 - [[Mount Rainier National Park]] — WA, ~2.5h SE of Seattle (place)
 - [[Olympic National Park]] — WA Olympic Peninsula (place)
 - [[Pike Place Market]] — downtown Seattle landmark market (place)
+
+_Entities are extracted from sources — see [[sources/_index|Sources]] for the raw documents that produced these pages. For curated personal relationships (not extracted from sources), see [[people/_index|People]]._
