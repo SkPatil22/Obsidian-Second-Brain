@@ -42,7 +42,7 @@ Type-specific fields are added on top (e.g. recipes get `servings`, `time`, `sou
 
 ## Creating new categories
 
-The folder list above is a starting point, **not a cage.** When a source clearly belongs to a coherent, recurring life domain that has no folder yet, **create a new top-level `wiki/<domain>/` folder + an `_index.md`** and file it there — then add a row to [[index]] and link the `_index` from it. (Travel started this way.)
+The folder list above is a starting point, **not a cage.** When a source clearly belongs to a coherent, recurring life domain that has no folder yet, **create a new top-level `wiki/<domain>/` folder + an `_index.md`** and file it there — then add a row to [[index]] and link the `_index` from it. ([[travel/_index|Travel]] started this way.)
 
 Use judgment to avoid sprawl:
 - Create a category for a **domain** that will plausibly hold several notes over time (travel, fitness, finance, woodworking…).
