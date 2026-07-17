@@ -30,7 +30,7 @@ Type-specific fields are added on top (e.g. recipes get `servings`, `time`, `sou
 
 - **areas/** — ongoing, no end state (health, finance, career, home). Review periodically.
 - **projects/** — has an outcome and a finish line. Closes when done.
-- **travel/** — trips and travel planning. The places visited become reusable `entities/` pages.
+- **travel/** — trips and travel planning. The places visited become reusable [[entities/_index|entities/]] pages.
 - **recipes/** — **all cooking**: recipes *and* shared cooking techniques. Parsed from any source (incl. reel/TikTok links).
 - **learning/** — non-cooking concepts and skills *you* are mastering (distinct from `concepts/`, which is extracted from sources).
 - **people/** — relationships, shared context, birthdays, follow-ups.
