@@ -18,4 +18,4 @@ Ideas, patterns, and frameworks extracted from sources via [[Ingest Query Lint|i
 - [[Ingest Query Lint]] — the three core operations
 - [[Index and Log]] — navigation at scale
 
-_Concepts are synthesized across all sources — see [[sources/_index|Sources]] for the raw documents they were extracted from._
+_Concepts are synthesized across all sources — see [[sources/_index|Sources]] for the raw documents they were extracted from. Co-produced with [[entities/_index|Entities]] in the same ingestion pass._
