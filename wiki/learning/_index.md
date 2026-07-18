@@ -2,7 +2,7 @@
 type: meta
 title: "Learning — Index"
 created: 2026-06-24
-updated: 2026-07-16
+updated: 2026-07-18
 tags: [meta, index, learning]
 ---
 
