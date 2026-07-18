@@ -11,4 +11,4 @@ tags: [meta, index, learning]
 Concepts and skills *you* are actively mastering, with your own notes and progress. Distinct from [[concepts/_index|Concepts]], which is extracted automatically from sources.
 
 ## Pages
-_None yet._ _(Cooking techniques live with [[recipes/_index|Recipes]].) For books, gear guides, and reference material (not active mastery), see [[resources/_index|Resources]]._
+_None yet._ _(Cooking techniques live with [[recipes/_index|Recipes]].) For books, gear guides, and reference material (not active mastery), see [[resources/_index|Resources]]. Skills you master often serve ongoing [[areas/_index|areas]] of life; half-formed ideas worth developing live in [[ideas/_index|ideas]] first._
