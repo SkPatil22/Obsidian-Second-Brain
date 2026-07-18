@@ -19,4 +19,4 @@ People, organizations, products, repos, and places referenced across the vault. 
 - [[Olympic National Park]] — WA Olympic Peninsula (place)
 - [[Pike Place Market]] — downtown Seattle landmark market (place)
 
-_Entities are extracted from sources — see [[sources/_index|Sources]] for the raw documents that produced these pages. For curated personal relationships (not extracted from sources), see [[people/_index|People]]._
+_Entities are extracted from sources — see [[sources/_index|Sources]] for the raw documents that produced these pages. Co-produced with [[concepts/_index|Concepts]] in the same ingestion pass. For curated personal relationships (not extracted from sources), see [[people/_index|People]]._
