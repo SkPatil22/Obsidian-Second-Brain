@@ -8,7 +8,7 @@ tags: [meta, overview]
 
 # Overview
 
-**This vault is Sachet's personal second brain** — a persistent, compounding knowledge base across all life domains: work, finance, [[recipes/_index|recipes]], [[travel/_index|travel]], [[projects/_index|projects]], [[learning/_index|learning]], and [[ideas/_index|ideas]].
+**This vault is Sachet's personal second brain** — a persistent, compounding knowledge base across all life domains: [[areas/_index|areas]] (work, finance, health, home), [[recipes/_index|recipes]], [[travel/_index|travel]], [[projects/_index|projects]], [[people/_index|people]], [[resources/_index|resources]], [[learning/_index|learning]], and [[ideas/_index|ideas]].
 
 It follows [[Andrej Karpathy|Karpathy's]] *[[LLM Wiki Pattern|LLM Wiki]]* pattern ([[Karpathy - LLM Wiki|source essay]]): plain Markdown you own, where Claude reads sources, distills them, cross-links everything, and the knowledge compounds with every session. The wiki is the product; chat is just the interface.
 
