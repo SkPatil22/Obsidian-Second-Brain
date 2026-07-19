@@ -6,7 +6,7 @@ status: stub
 location: "Olympic Peninsula, Washington (3–5h from Seattle by area)"
 source: "[[.raw/seattle-trip-research-2026-06-25.md]]"
 created: 2026-06-25
-updated: 2026-07-07
+updated: 2026-07-19
 tags: [entity, place, national-park, washington]
 ---
 
