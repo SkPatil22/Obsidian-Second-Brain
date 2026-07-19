@@ -17,3 +17,5 @@ Trips and travel planning — itineraries, logistics, and recs. Each trip is a n
 - [[Mount Rainier National Park]] — WA, ~2.5h SE of Seattle (national park, Wed Jul 22)
 - [[Olympic National Park]] — WA Olympic Peninsula (national park, Thu–Fri Jul 23–24)
 - [[Pike Place Market]] — downtown Seattle landmark market (Tue Jul 21 city day)
+
+_Trip food prep (portable meals, post-trip bakes) lives in [[recipes/_index|Recipes]]. Trip gear and reference material (footwear, passes) lives in [[resources/_index|Resources]]._
