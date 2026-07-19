@@ -36,5 +36,6 @@ Three ecosystems in one park on the Olympic Peninsula NW of Seattle: **alpine mo
 - [[Pike Place Market]] — downtown Seattle anchor (Tue Jul 21 city day) same trip
 - [[Running Shoes - Flat Feet]] — trail footwear for Hurricane Ridge, Hall of Mosses, and Ruby Beach walks
 - [[Thin Ribeye Recipes]] — portable meal prep for multi-day park days (Thai steak salad, bulgogi bowl — 3–4 day shelf life)
+- [[Raspberry Chocolate Cake]] — post-trip bake using Washington raspberries sourced at Pike Place (Tue Jul 21) before the Olympic leg; bake after returning from the full trip
 
 _Stub — extend with specific trails after visiting._
