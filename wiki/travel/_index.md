@@ -2,7 +2,7 @@
 type: meta
 title: "Travel — Index"
 created: 2026-06-28
-updated: 2026-07-09
+updated: 2026-07-19
 tags: [meta, index, travel]
 ---
 
