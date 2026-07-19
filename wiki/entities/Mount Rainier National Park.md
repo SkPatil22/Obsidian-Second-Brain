@@ -32,5 +32,6 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 - [[Pike Place Market]] — downtown Seattle anchor (Tue Jul 21 city day) same trip
 - [[Running Shoes - Flat Feet]] — trail footwear for Skyline Trail and alpine hikes (note: Skyline is ~5.5 mi, at the Metcon 6's stated upper limit)
 - [[Thin Ribeye Recipes]] — portable bulgogi and chimichurri bowls pack well for park days (4-day shelf life; no reheat needed)
+- [[Raspberry Chocolate Cake]] — post-trip bake using fresh Washington raspberries sourced at Pike Place (Tue Jul 21, the day before this visit); bake on return from the full trip
 
 _Stub — extend with specific trails/photos after visiting._
