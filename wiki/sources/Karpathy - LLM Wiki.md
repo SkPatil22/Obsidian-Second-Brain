@@ -36,7 +36,7 @@ Maintenance — not reading or thinking — is the tedious part of a knowledge b
 
 ## Relevance to this vault
 
-This is the blueprint Sachet's second brain is built on. Every convention in [[meta/conventions]] traces back here. Karpathy's own usage — ingest one source at a time, stay involved, read the summaries — is the recommended default workflow. See [[Second Brain Roadmap]] for how the implementation is staged across phases.
+This is the blueprint Sachet's second brain is built on. Every convention in [[meta/conventions]] traces back here. Karpathy's own usage — ingest one source at a time, stay involved, read the summaries — is the recommended default workflow. See [[Second Brain Roadmap]] for how the implementation is staged across phases, and [[overview]] for the current state of the vault.
 
 ## Contradictions / open questions
 - _None flagged yet (first source)._ [[Andrej Karpathy|Karpathy]] notes the index-file approach works to ~100 sources / hundreds of pages before embedding-based search becomes worthwhile — a future decision point for this vault.
