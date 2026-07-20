@@ -18,4 +18,4 @@ Trips and travel planning — itineraries, logistics, and recs. Each trip is a n
 - [[Olympic National Park]] — WA Olympic Peninsula (national park, Thu–Fri Jul 23–24)
 - [[Pike Place Market]] — downtown Seattle landmark market (Tue Jul 21 city day)
 
-_Trip food prep (portable meals, post-trip bakes) lives in [[recipes/_index|Recipes]]. Trip gear and reference material (footwear, passes) lives in [[resources/_index|Resources]]._
+_Trip food prep (portable meals, post-trip bakes) lives in [[recipes/_index|Recipes]]. Trip gear and reference material (footwear, passes) lives in [[resources/_index|Resources]]. Trips that are still being planned may also have roots in [[projects/_index|Projects]] (travel was carved out of projects as its own domain)._
