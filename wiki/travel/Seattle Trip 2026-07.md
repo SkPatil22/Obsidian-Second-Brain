@@ -8,7 +8,7 @@ start_date: 2026-07-21
 end_date: 2026-07-25
 source: "[[.raw/seattle-trip-research-2026-06-25.md]]"
 created: 2026-06-25
-updated: 2026-07-20
+updated: 2026-07-21
 tags: [project, trip, seattle, washington]
 ---
 
