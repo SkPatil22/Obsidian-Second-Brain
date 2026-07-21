@@ -52,8 +52,8 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 
 ## Action items
 
-> [!warning] 1 day to departure (Jul 21 — TOMORROW)
-> Rental car and Port Angeles lodging book up fast in late July — last chance to secure these. Restaurant reservations (Kashiba, Pink Door) also fill weeks out — book tonight if not done.
+> [!warning] Trip is underway — TODAY is departure day (Jul 21, 2026)
+> Safe travels! Secure any remaining logistics NOW before you leave: rental car, Port Angeles lodging (Jul 23), Kashiba / Pink Door reservations. Do these immediately if not yet done.
 
 - [ ] Book rental car
 - [ ] Reserve 1 night in **Port Angeles** for Jul 23 (late-July lodging books up)
