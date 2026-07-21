@@ -1,7 +1,7 @@
 ---
 type: trip
 title: "Seattle Trip — Jul 2026"
-status: planning
+status: active
 area: travel
 priority: 1
 start_date: 2026-07-21
