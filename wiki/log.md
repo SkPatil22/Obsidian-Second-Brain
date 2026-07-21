@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-21] librarian | Nightly maintenance pass
+
+- **LINK (5 files, 5 new wikilinks):** trip-prep quad last edge — `Baking - Berries and Moisture` → `[[Running Shoes - Flat Feet]]` (the trip-prep cluster forms a quad: Thin Ribeye, Running Shoes, Raspberry Cake, Baking - Berries; all 5 inter-pair edges existed except Baking → Running Shoes; both are Tue Jul 21 Pike Place day-1 logistics decisions for the same Seattle trip — 1 link). Front-page knowledge-layer links — `overview.md` "How it works" step 2 described "a source summary, plus any concepts, entities…" as bare text; now `[[sources/_index|source summary]]` + `[[concepts/_index|concepts]]` + `[[entities/_index|entities]]` — the front page describes the knowledge layer without linking to it; 3 links). Domain index bidirectional closes — `areas/_index` → `[[ideas/_index|Ideas]]` (ideas → areas existed: "Ideas that grow into ongoing life domains belong in Areas"; reverse was absent; 1 link); `people/_index` → `[[areas/_index|Areas]]` (areas → people existed: "intersect with People"; reverse was absent; relationships live inside life domains; 1 link).
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed.
+- **FLAG — trip status:** `Seattle Trip 2026-07` status updated `planning` → `active`; departure callout updated from "1 day to departure (TOMORROW)" to "TODAY is departure day (Jul 21, 2026)". Trip is now underway.
+- **DATE FIXES (7 files):** `travel/Seattle Trip 2026-07` 2026-07-20→2026-07-21; `recipes/Baking - Berries and Moisture` 2026-07-18→2026-07-21; `wiki/overview.md` 2026-07-18→2026-07-21; `wiki/areas/_index.md` 2026-07-18→2026-07-21; `wiki/people/_index.md` 2026-07-16→2026-07-21; `wiki/index.md` 2026-07-20→2026-07-21; `wiki/log.md` 2026-07-20→2026-07-21.
+- **Report:** [[meta/maintenance/2026-07-21]]
+
 ## [2026-07-20] librarian | Nightly maintenance pass
 
 - **LINK (4 files, 3 new wikilinks):** source→vault bidirectional closes — `Second Brain Roadmap` → `[[overview]]` (SBR is the build-out plan; overview is the current vault state; overview→SBR existed since 2026-07-06; SBR→overview was absent — now added to intro: "For the current state of the vault, see [[overview]]"; 1 link); `Karpathy - LLM Wiki` source → `[[overview]]` (source essay is the blueprint; overview is the living realization it produced; overview→source existed since initial ingest; source's "Relevance to this vault" section linked to SBR but not to the current vault state — now added inline: "and [[overview]] for the current state of the vault"; 1 link). Domain index reverse close — `travel/_index` → `[[projects/_index|Projects]]` (projects/_index already noted "(Trips live under [[travel/_index|Travel]])" since the travel carve-out; travel/_index footer linked to recipes and resources but not back to projects despite the lineage; added to footer note; 1 link).
