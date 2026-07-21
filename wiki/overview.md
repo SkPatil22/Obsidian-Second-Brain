@@ -15,7 +15,7 @@ It follows [[Andrej Karpathy|Karpathy's]] *[[LLM Wiki Pattern|LLM Wiki]]* patter
 ## How it works
 
 1. **Raw in.** Sources land in `.raw/` (articles, links, transcripts, screenshots, recipes). They are immutable — read, never edited.
-2. **Distilled out.** Claude ingests a source and writes 1–N pages into `wiki/` (unlike [[Wiki vs RAG|RAG]], which re-derives on every query; see [[Three-Layer Architecture]]): a source summary, plus any concepts, entities, and domain notes it touches. Everything is cross-linked with `[[wikilinks]]`.
+2. **Distilled out.** Claude ingests a source and writes 1–N pages into `wiki/` (unlike [[Wiki vs RAG|RAG]], which re-derives on every query; see [[Three-Layer Architecture]]): a [[sources/_index|source summary]], plus any [[concepts/_index|concepts]], [[entities/_index|entities]], and domain notes it touches. Everything is cross-linked with `[[wikilinks]]`.
 3. **It compounds.** Each new source links into what's already here via [[Ingest Query Lint|ingest · query · lint]]. Contradictions get flagged. The graph gets denser — building the [[Compounding Knowledge Artifact]] session by session.
 
 ## The "do I give a fuck" filter
