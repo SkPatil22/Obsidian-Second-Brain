@@ -1,14 +1,14 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-07-20T00:00:00
+updated: 2026-07-21T00:00:00
 tags: [meta, hot-cache]
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-07-20. Nightly librarian pass — 3 new wikilinks, 0 moves, 0 merges. Primary theme: **source→vault bidirectional closes** — `Karpathy - LLM Wiki` and `Second Brain Roadmap` both had outbound links to `overview` missing, despite `overview` already linking both; closed both directions. Domain index cross-nav: `travel/_index` → `[[projects/_index|Projects]]` (travel was carved from projects; projects already linked back; reverse now closed). **CRITICAL: Seattle trip departs TOMORROW (Jul 21).**
+2026-07-21. Nightly librarian pass — 5 new wikilinks, 0 moves, 0 merges. Primary themes: **trip-prep quad completed** (Baking - Berries and Moisture → Running Shoes was the last missing edge in the 4-node trip-prep cluster), **front-page knowledge-layer links** (overview's "How it works" now wikilinks sources/concepts/entities _index pages), **domain index bidirectional closes** (areas ↔ ideas, people → areas). **CRITICAL FLAG: Seattle trip is ACTIVE — TODAY is departure day (Jul 21).**
 
 ## Key Recent Facts
 - The **`/brain` skill** exists (`~/.claude/skills/brain/`): "research X and file it into the second brain, auto-sorted, cross-linked, no review." Works as `/brain <topic>` or natural language.
@@ -19,14 +19,15 @@ tags: [meta, hot-cache]
 - Vault on the Pi at `~/claude-obsidian`, transport `filesystem`. Standing rule: **full automation, never review, never touch Obsidian manually.**
 
 ## Recent Changes
-- 2026-07-20: Librarian pass — LINK: `Second Brain Roadmap` → `[[overview]]` (SBR→vault current-state; overview→SBR already existed); `Karpathy - LLM Wiki` → `[[overview]]` (source blueprint→vault realization; overview→source already existed); `travel/_index` → `[[projects/_index|Projects]]` (reverse of the "trips live in travel" note already in projects; 3 links). FLAG: Seattle trip 1→TOMORROW. See [[log]] and [[meta/maintenance/2026-07-20]].
-- 2026-07-19: Librarian pass — LINK: `Mount Rainier` → `[[Raspberry Chocolate Cake]]`; `Olympic` → `[[Raspberry Chocolate Cake]]`; `Raspberry Chocolate Cake` → `[[Mount Rainier National Park]]` + `[[Olympic National Park]]` (trip cluster last 4 edges); `travel/_index` → `[[recipes/_index|Recipes]]` + `[[resources/_index|Resources]]`; `recipes/_index` → `[[travel/_index|Travel]]`; `resources/_index` → `[[travel/_index|Travel]]` (domain index cross-nav triangle complete; 8 wikilinks). See [[log]] and [[meta/maintenance/2026-07-19]].
-- 2026-07-18: Librarian pass — LINK: `overview` → `[[areas/_index|areas]]` + `[[people/_index|people]]` + `[[resources/_index|resources]]`; `sources/_index` → `[[concepts/_index]]` + `[[entities/_index]]`; `concepts/_index` ↔ `entities/_index`; `Memex` → `[[Index and Log]]`; `learning/_index` → `[[areas/_index]]` + `[[ideas/_index]]`; `ideas/_index` → `[[learning/_index]]`; `areas/_index` → `[[people/_index]]` + `[[resources/_index]]`; `Baking - Berries and Moisture` ↔ `Seattle Trip 2026-07` (15 wikilinks). See [[log]] and [[meta/maintenance/2026-07-18]].
+- 2026-07-21: Librarian pass — LINK: `Baking - Berries and Moisture` → `[[Running Shoes - Flat Feet]]` (trip-prep quad last edge; all 6 inter-pair edges now exist); `overview` → `[[sources/_index|source summary]]` + `[[concepts/_index|concepts]]` + `[[entities/_index|entities]]` (front-page description of knowledge layer now navigable; 3 links); `areas/_index` → `[[ideas/_index|Ideas]]` (bidirectional close; ideas→areas already existed); `people/_index` → `[[areas/_index|Areas]]` (bidirectional close; areas→people already existed). FLAG: Seattle Trip status planning→active; TODAY is departure day. See [[log]] and [[meta/maintenance/2026-07-21]].
+- 2026-07-20: Librarian pass — LINK: `Second Brain Roadmap` → `[[overview]]`; `Karpathy - LLM Wiki` → `[[overview]]`; `travel/_index` → `[[projects/_index|Projects]]` (3 links). FLAG: Seattle trip 1→TOMORROW. See [[log]] and [[meta/maintenance/2026-07-20]].
+- 2026-07-19: Librarian pass — LINK: `Mount Rainier` → `[[Raspberry Chocolate Cake]]`; `Olympic` → `[[Raspberry Chocolate Cake]]`; `Raspberry Chocolate Cake` → `[[Mount Rainier National Park]]` + `[[Olympic National Park]]`; `travel/_index` → `[[recipes/_index|Recipes]]` + `[[resources/_index|Resources]]`; `recipes/_index` → `[[travel/_index|Travel]]`; `resources/_index` → `[[travel/_index|Travel]]` (8 wikilinks). See [[log]] and [[meta/maintenance/2026-07-19]].
 - See [[index]] for counts (1 source · 6 concepts · 7 entities · 6 domain pages).
 
 ## Active Threads
-- **[[Thin Ribeye Recipes|Thin ribeye recipe summary]]** — Telegram reminder was 2026-07-01 19:00 (19 days ago); check Telegram history if not acted on.
-- **Shoe buying decision** — reminder was 2026-06-30 17:30 (20 days ago); likely acted on. See [[Running Shoes - Flat Feet]] for the breakdown. **FLAG:** if using Metcon 6 for Seattle trip, consider shorter Skyline route (~3.5 mi out-and-back) instead of the full 5.5 mi loop.
-- **🚨 Seattle trip is TOMORROW** (Jul 21–25). **CRITICAL PATH — BOOK TONIGHT:** rental car + Port Angeles lodging (late July books up fast). Restaurant reservations (Kashiba, Pink Door) also fill weeks out. See [[Seattle Trip 2026-07]].
+- **🚨 Seattle trip is TODAY** (Jul 21–25). Trip status: **ACTIVE**. See [[Seattle Trip 2026-07]] — book any remaining logistics (rental car, Port Angeles Jul 23, Kashiba/Pink Door) IMMEDIATELY.
+- **[[Thin Ribeye Recipes|Thin ribeye recipe summary]]** — prep the bulgogi or chimichurri bowls today (Tue Jul 21) at Pike Place for park days Wed (Rainier) and Thu–Fri (Olympic).
+- **Post-trip bake**: source fresh Washington raspberries at Pike Place TODAY (Tue Jul 21) for the [[Raspberry Chocolate Cake]] post-trip test bake on return. See [[Baking - Berries and Moisture]] for fresh-vs-frozen guidance.
+- **Shoe check**: review [[Running Shoes - Flat Feet]] — if wearing Metcon 6, consider the shorter Skyline out-and-back (~3.5 mi) at Rainier rather than the full 5.5 mi loop.
 - **Phase 4 — Retrieval** ([[qmd]]) is the next infrastructure phase, once the wiki outgrows the index (~100 sources).
 - **Phase 1.5 — Sync** (GitHub auth) is still pending; see `~/brain-infra/README.md` → `activate-sync.sh`.
