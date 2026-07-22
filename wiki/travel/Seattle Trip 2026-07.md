@@ -52,8 +52,8 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 
 ## Action items
 
-> [!warning] Trip is underway — TODAY is departure day (Jul 21, 2026)
-> Safe travels! Secure any remaining logistics NOW before you leave: rental car, Port Angeles lodging (Jul 23), Kashiba / Pink Door reservations. Do these immediately if not yet done.
+> [!info] Trip in progress — Day 2 of 5: Mount Rainier day (Wed Jul 22, 2026)
+> Rainier Paradise day — leave Seattle ~6am, Paradise by ~8:30am, Skyline Trail + wildflowers. Weekday = best parking. Arrive early. Pack the ribeye bowls.
 
 - [ ] Book rental car
 - [ ] Reserve 1 night in **Port Angeles** for Jul 23 (late-July lodging books up)
