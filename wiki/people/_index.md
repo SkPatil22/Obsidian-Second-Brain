@@ -13,4 +13,4 @@ Relationships and shared context — who they are, how you know them, birthdays,
 ## Pages
 _None yet._
 
-_For ingestion-derived pages about real people (extracted from sources), see [[entities/_index|Entities]]. People here are curated relationships; Entities pages accrete facts from ingestion. Relationships often live inside ongoing life domains — see [[areas/_index|Areas]]._
+_For ingestion-derived pages about real people (extracted from sources), see [[entities/_index|Entities]]. People here are curated relationships; Entities pages accrete facts from ingestion. Relationships often live inside ongoing life domains — see [[areas/_index|Areas]]. Some relationships are trip-specific (local contacts, travel companions, restaurant reservations) — see [[travel/_index|Travel]] for that context._
