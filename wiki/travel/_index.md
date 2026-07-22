@@ -11,7 +11,7 @@ tags: [meta, index, travel]
 Trips and travel planning — itineraries, logistics, and recs. Each trip is a note here; the specific places it visits live as reusable [[entities/_index|entity]] pages (parks, cities, restaurants) that any future trip can link to.
 
 ## Pages
-- [[Seattle Trip 2026-07]] — Jul 21–25: downtown Seattle + Olympic + Rainier. _planning_
+- [[Seattle Trip 2026-07]] — Jul 21–25: downtown Seattle + Olympic + Rainier. _active_
 
 ## Destination entities (active trips)
 - [[Mount Rainier National Park]] — WA, ~2.5h SE of Seattle (national park, Wed Jul 22)
