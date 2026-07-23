@@ -1,14 +1,14 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-07-22T00:00:00
+updated: 2026-07-23T00:00:00
 tags: [meta, hot-cache]
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-07-22. Nightly librarian pass — 5 new wikilinks, 0 moves, 0 merges. Primary themes: **trip-prep quad fully bidirectional** (Running Shoes → Baking - Berries was the last missing edge; all 6 inter-pair edges now closed), **people↔travel bidirectional close** (trip-specific contacts now navigable between the two indexes), **ideas↔sources bidirectional close** (source-sparked ideas now have a two-way path). **CRITICAL FLAG: Seattle trip Day 2 — Mount Rainier day (Wed Jul 22).**
+2026-07-23. Nightly librarian pass — 2 new wikilinks, 0 moves, 0 merges. Primary themes: **entity→overview bridging** (Andrej Karpathy and Obsidian entity pages now link to [[overview]] as the living vault realization alongside the build plan). **CRITICAL FLAG: Seattle trip Day 3 — Olympic Peninsula (Thu Jul 23).**
 
 ## Key Recent Facts
 - The **`/brain` skill** exists (`~/.claude/skills/brain/`): "research X and file it into the second brain, auto-sorted, cross-linked, no review." Works as `/brain <topic>` or natural language.
@@ -19,14 +19,15 @@ tags: [meta, hot-cache]
 - Vault on the Pi at `~/claude-obsidian`, transport `filesystem`. Standing rule: **full automation, never review, never touch Obsidian manually.**
 
 ## Recent Changes
-- 2026-07-22: Librarian pass — LINK: `Running Shoes - Flat Feet` → `[[Baking - Berries and Moisture]]` (trip-prep quad last bidirectional close; all 6 inter-pair edges now fully bidirectional; 1 link); `people/_index` → `[[travel/_index|Travel]]` + `travel/_index` → `[[people/_index|People]]` (bidirectional close; trip contacts/companions now navigable between indexes; 2 links); `ideas/_index` → `[[sources/_index|Sources]]` + `sources/_index` → `[[ideas/_index|Ideas]]` (bidirectional close; source-sparked ideas now have a two-way path; 2 links). FLAG: Seattle Trip callout updated to Day 2 (Rainier); `travel/_index` status planning→active. See [[log]] and [[meta/maintenance/2026-07-22]].
-- 2026-07-21: Librarian pass — LINK: `Baking - Berries and Moisture` → `[[Running Shoes - Flat Feet]]` (trip-prep quad last edge; all 5 non-reverse edges existed); `overview` → `[[sources/_index|source summary]]` + `[[concepts/_index|concepts]]` + `[[entities/_index|entities]]` (3 links); `areas/_index` → `[[ideas/_index|Ideas]]`; `people/_index` → `[[areas/_index|Areas]]` (5 links). FLAG: Seattle Trip status planning→active; departure day. See [[log]] and [[meta/maintenance/2026-07-21]].
-- 2026-07-20: Librarian pass — LINK: `Second Brain Roadmap` → `[[overview]]`; `Karpathy - LLM Wiki` → `[[overview]]`; `travel/_index` → `[[projects/_index|Projects]]` (3 links). See [[log]] and [[meta/maintenance/2026-07-20]].
+- 2026-07-23: Librarian pass — LINK: `Andrej Karpathy` → `[[overview]]` (entity page for the pattern's author now links the current vault realization, not just the build plan; 1 link); `Obsidian` → `[[overview]]` ("In this setup" section now bridges the front-end tool to the vault it browses; 1 link). FLAG: Seattle Trip Day 3 (Olympic Peninsula). See [[log]] and [[meta/maintenance/2026-07-23]].
+- 2026-07-22: Librarian pass — LINK: `Running Shoes - Flat Feet` → `[[Baking - Berries and Moisture]]` (trip-prep quad final edge; all 6 bidirectional); `people/_index` ↔ `travel/_index` (bidirectional close); `ideas/_index` ↔ `sources/_index` (bidirectional close). FLAG: Seattle Trip status Day 1→Day 2. See [[log]] and [[meta/maintenance/2026-07-22]].
+- 2026-07-21: Librarian pass — LINK: `Baking - Berries and Moisture` → `[[Running Shoes - Flat Feet]]`; `overview` → knowledge-layer indexes; `areas/_index` ↔ `people/_index` bidirectional close. 5 links. See [[log]] and [[meta/maintenance/2026-07-21]].
 - See [[index]] for counts (1 source · 6 concepts · 7 entities · 6 domain pages).
 
 ## Active Threads
-- **🗺️ Seattle trip — Day 2 of 5: Mount Rainier (Wed Jul 22)**. Leave Seattle ~6am, Paradise by ~8:30am. Skyline Trail + wildflower peak. Pack the [[Thin Ribeye Recipes|bulgogi or chimichurri bowls]]. See [[Seattle Trip 2026-07]].
-- **Days ahead**: Thu Jul 23 — Olympic Peninsula (Hurricane Ridge → Lake Crescent → Sol Duc Falls → overnight Port Angeles). Fri Jul 24 — Hoh Rainforest + Ruby Beach → back to Seattle. Sat Jul 25 — Seattle morning + depart. See [[Seattle Trip 2026-07]] + [[Olympic National Park]].
-- **Post-trip bake**: Fresh Washington raspberries were sourced at Pike Place (Jul 21). See [[Raspberry Chocolate Cake]] and [[Baking - Berries and Moisture]] for the fresh-vs-frozen guidance — plan bake after Sat Jul 25 return.
+- **🗺️ Seattle trip — Day 3 of 5: Olympic Peninsula (Thu Jul 23)**. Olympic day 1: Hurricane Ridge (alpine meadows + panoramic views) → Lake Crescent (Marymere Falls) → Sol Duc Falls → overnight Port Angeles. Cell service poor — offline maps essential. See [[Seattle Trip 2026-07]] + [[Olympic National Park]].
+- **Day 4 (Fri Jul 24)**: Hoh Rainforest (Hall of Mosses) + Ruby Beach → drive back to Seattle. [[Olympic National Park]].
+- **Day 5 (Sat Jul 25)**: Seattle morning + depart.
+- **Post-trip bake**: Fresh Washington raspberries sourced at Pike Place (Jul 21). See [[Raspberry Chocolate Cake]] and [[Baking - Berries and Moisture]] — plan bake after Sat Jul 25 return.
 - **Phase 4 — Retrieval** ([[qmd]]) is the next infrastructure phase, once the wiki outgrows the index (~100 sources).
 - **Phase 1.5 — Sync** (GitHub auth) is still pending; see `~/brain-infra/README.md` → `activate-sync.sh`.
