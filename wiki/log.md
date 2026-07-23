@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-07-23] librarian | Nightly maintenance pass
+
+- **LINK (2 files, 2 new wikilinks):** `Andrej Karpathy` → `[[overview]]` ("In this vault" section linked [[Second Brain Roadmap]] for the build plan but not the current vault state; overview is the living realization of his pattern; 1 link); `Obsidian` → `[[overview]]` ("In this setup" section is vault-specific and linked the build plan but not the current vault overview; 1 link). Note: `Second Brain Roadmap` Phase 1.5 already had `[[Obsidian]]` — no change needed.
+- **FLAG — trip Day 3:** `Seattle Trip 2026-07` callout updated from "Day 2 of 5: Mount Rainier day (Wed Jul 22)" → "Day 3 of 5: Olympic Peninsula (Thu Jul 23)". Olympic day 1 logistics: Hurricane Ridge → Lake Crescent (Marymere Falls) → Sol Duc Falls → overnight Port Angeles.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted (vault still well within existing domain coverage).
+- **DATE FIXES (5 files):** `entities/Andrej Karpathy` 2026-07-05→2026-07-23; `entities/Obsidian` 2026-07-12→2026-07-23; `travel/Seattle Trip 2026-07` 2026-07-22→2026-07-23; `projects/Second Brain Roadmap` 2026-07-20→2026-07-23; `wiki/index.md` 2026-07-22→2026-07-23; `wiki/log.md` 2026-07-22→2026-07-23.
+- **Report:** [[meta/maintenance/2026-07-23]]
+
 ## [2026-07-22] librarian | Nightly maintenance pass
 
 - **LINK (6 files, 5 new wikilinks):** trip-prep cluster bidirectional close — `Running Shoes - Flat Feet` → `[[Baking - Berries and Moisture]]` (Baking→Running Shoes was added 2026-07-21; reverse was the last missing edge in the 4-node trip-prep quad; all 6 inter-pair edges now bidirectional; 1 link). People↔Travel bidirectional close — `people/_index` → `[[travel/_index|Travel]]` (trip-specific contacts, travel companions, and restaurant reservations are travel context; people/_index linked areas and entities but not travel — added to disambiguation note; 1 link); `travel/_index` → `[[people/_index|People]]` (trip planning involves people; travel index had no pointer to where trip-specific relationship context lands; 1 link). Ideas↔Sources bidirectional close — `ideas/_index` → `[[sources/_index|Sources]]` (ideas are often sparked by ingested sources; ideas/_index had no path back to where raw material lives; added to disambiguation note; 1 link); `sources/_index` → `[[ideas/_index|Ideas]]` (sources produce concepts and entities but can also spark half-formed ideas; reverse of ideas→sources; 1 link).
