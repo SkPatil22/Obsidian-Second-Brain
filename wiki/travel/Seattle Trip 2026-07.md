@@ -52,8 +52,8 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 
 ## Action items
 
-> [!info] Trip in progress — Day 2 of 5: Mount Rainier day (Wed Jul 22, 2026)
-> Rainier Paradise day — leave Seattle ~6am, Paradise by ~8:30am, Skyline Trail + wildflowers. Weekday = best parking. Arrive early. Pack the ribeye bowls.
+> [!info] Trip in progress — Day 3 of 5: Olympic Peninsula (Thu Jul 23, 2026)
+> Olympic day 1: Hurricane Ridge (alpine meadows + panoramic views) → Lake Crescent (Marymere Falls) → Sol Duc Falls → overnight Port Angeles. Cell service poor in the park — offline maps essential.
 
 - [ ] Book rental car
 - [ ] Reserve 1 night in **Port Angeles** for Jul 23 (late-July lodging books up)
