@@ -23,6 +23,6 @@ Author of [[Karpathy - LLM Wiki]] — the "idea file" that defines the [[LLM Wik
 - Originated the [[Three-Layer Architecture]] (raw / wiki / schema), the [[Ingest Query Lint]] workflow, the [[Compounding Knowledge Artifact]] concept, the [[Wiki vs RAG]] distinction, and the [[Index and Log]] navigation pattern.
 
 ## In this vault
-This vault — see [[Second Brain Roadmap]] — is Sachet's implementation of his pattern, built phase by phase on the Pi.
+This vault — see [[Second Brain Roadmap]] for the build plan, [[overview]] for current state — is Sachet's implementation of his pattern, built phase by phase on the Pi.
 
 _Stub — extend as more Karpathy sources are ingested._
