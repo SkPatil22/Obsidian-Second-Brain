@@ -11,6 +11,17 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-08-25] librarian | Nightly maintenance pass
+
+- **LINK (4 files, 4 new wikilinks):** concept→vault forward links — `LLM Wiki Pattern` → `[[overview]]` ("It is the operating model of this entire vault" now links the vault's front page; 1 link); `Three-Layer Architecture` → `[[overview]]` ("In this vault" section listed Obsidian, qmd, and Second Brain Roadmap but not the current vault state; added to Implementation bullet; 1 link); `Memex` → `[[overview]]` (closing paragraph named Second Brain Roadmap for the build plan but not the living vault state; "and [[overview]] for where it stands today" appended; 1 link); `qmd` → `[[overview]]` ("Status for this vault" noted Phase 4 is next per SBR but never linked the current vault state; 1 link).
+- **FLAG — Seattle trip complete:** `Seattle Trip 2026-07` status `active` → `completed`; action items callout updated from "Day 3 of 5: Olympic Peninsula (Thu Jul 23)" to "Trip complete — returned Sat Jul 25, 2026" with full 5-day summary. Added post-trip bake warning callout (fresh raspberries sourced Jul 21; bake planned after return; status unknown as of 2026-08-25). `travel/_index` status `_active_` → `_complete_`.
+- **FLAG — post-trip bake pending:** `Raspberry Chocolate Cake` — added `[!warning]` callout: raspberries sourced at Pike Place Jul 21; trip returned Jul 25; bake planned but status unknown as of 2026-08-25; page still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **DATE FIXES (8 files):** `concepts/LLM Wiki Pattern` 2026-07-02→2026-08-25; `concepts/Three-Layer Architecture` 2026-07-07→2026-08-25; `entities/Memex` 2026-07-18→2026-08-25; `entities/qmd` 2026-07-07→2026-08-25; `travel/Seattle Trip 2026-07` 2026-07-23→2026-08-25; `travel/_index` 2026-07-22→2026-08-25; `recipes/Raspberry Chocolate Cake` 2026-07-19→2026-08-25; `wiki/index.md` 2026-07-23→2026-08-25; `wiki/log.md` 2026-07-23→2026-08-25.
+- **Report:** [[meta/maintenance/2026-08-25]]
+
 ## [2026-07-23] librarian | Nightly maintenance pass
 
 - **LINK (2 files, 2 new wikilinks):** `Andrej Karpathy` → `[[overview]]` ("In this vault" section linked [[Second Brain Roadmap]] for the build plan but not the current vault state; overview is the living realization of his pattern; 1 link); `Obsidian` → `[[overview]]` ("In this setup" section is vault-specific and linked the build plan but not the current vault overview; 1 link). Note: `Second Brain Roadmap` Phase 1.5 already had `[[Obsidian]]` — no change needed.
