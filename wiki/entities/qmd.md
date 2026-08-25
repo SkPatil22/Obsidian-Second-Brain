@@ -20,6 +20,6 @@ A local search engine for Markdown files — hybrid **BM25 + vector search with 
 Crucially, qmd sits *on top of* the [[Compounding Knowledge Artifact]], not instead of it — the synthesis stays; you just navigate it faster. This is what keeps qmd firmly on the wiki side of the [[Wiki vs RAG]] spectrum: nothing is re-derived from raw sources at query time.
 
 ## Status for this vault
-**Not needed yet.** The index-first approach covers small/medium scale. Revisit when search latency or recall degrades. A simpler home-grown search script is also a valid first step. Tracked as Phase 4 in [[Second Brain Roadmap]].
+**Not needed yet.** The index-first approach covers small/medium scale. Revisit when search latency or recall degrades. A simpler home-grown search script is also a valid first step. Tracked as Phase 4 in [[Second Brain Roadmap]]. See [[overview]] for the current vault state.
 
 _Stub — candidate for the future retrieval layer (Stage 4 of the larger plan)._
