@@ -52,12 +52,10 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 
 ## Action items
 
-> [!info] Trip in progress — Day 3 of 5: Olympic Peninsula (Thu Jul 23, 2026)
-> Olympic day 1: Hurricane Ridge (alpine meadows + panoramic views) → Lake Crescent (Marymere Falls) → Sol Duc Falls → overnight Port Angeles. Cell service poor in the park — offline maps essential.
+> [!success] Trip complete — returned Sat Jul 25, 2026
+> All 5 days completed: Tue Jul 21 Pike Place city day → Wed Jul 22 Mount Rainier (Paradise / Skyline Trail) → Thu Jul 23 Olympic (Hurricane Ridge → Lake Crescent → Sol Duc Falls → Port Angeles overnight) → Fri Jul 24 Olympic (Hoh Rainforest → Ruby Beach → back to Seattle) → Sat Jul 25 Seattle morning + depart.
 
-- [ ] Book rental car
-- [ ] Reserve 1 night in **Port Angeles** for Jul 23 (late-July lodging books up)
-- [ ] Reserve **Sushi Kashiba** and/or **The Pink Door**
-- [ ] Buy **America the Beautiful** pass (or budget $30/park)
-- [ ] Download offline maps for both parks
-- [ ] Pack: layers, rain shell, sun protection, broken-in shoes
+> [!warning] Post-trip bake pending (as of 2026-08-25)
+> Fresh Washington raspberries were sourced at Pike Place (Tue Jul 21). The [[Raspberry Chocolate Cake]] post-trip bake was planned after the Jul 25 return. Status: `untested` as of 2026-08-25 — update the recipe page when the bake happens.
+
+_Pre-trip action items resolved (trip complete)._
