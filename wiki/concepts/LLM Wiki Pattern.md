@@ -10,7 +10,7 @@ tags: [concept, pkm, foundational]
 
 # LLM Wiki Pattern
 
-A pattern for personal knowledge bases where an **LLM incrementally builds and maintains a persistent wiki** of interlinked Markdown that sits between you and your raw sources. Coined/popularized by [[Andrej Karpathy]] (see [[Karpathy - LLM Wiki]]). It is the operating model of this entire vault.
+A pattern for personal knowledge bases where an **LLM incrementally builds and maintains a persistent wiki** of interlinked Markdown that sits between you and your raw sources. Coined/popularized by [[Andrej Karpathy]] (see [[Karpathy - LLM Wiki]]). It is the operating model of [[overview|this entire vault]].
 
 ## The mechanism
 
