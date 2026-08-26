@@ -25,7 +25,7 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 - One **America the Beautiful** pass or ~$30/vehicle (7-day).
 
 ## Used in
-- [[Seattle Trip 2026-07]]
+- [[Seattle Trip 2026-07]] — completed Wed Jul 22, 2026 (Paradise / Skyline Trail)
 
 ## See also
 - [[Olympic National Park]] — sister park visited on the same trip (Olympic Peninsula, NW of Seattle)
@@ -33,5 +33,6 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 - [[Running Shoes - Flat Feet]] — trail footwear for Skyline Trail and alpine hikes (note: Skyline is ~5.5 mi, at the Metcon 6's stated upper limit)
 - [[Thin Ribeye Recipes]] — portable bulgogi and chimichurri bowls pack well for park days (4-day shelf life; no reheat needed)
 - [[Raspberry Chocolate Cake]] — post-trip bake using fresh Washington raspberries sourced at Pike Place (Tue Jul 21, the day before this visit); bake on return from the full trip
+- [[Baking - Berries and Moisture]] — the technique page behind the post-trip raspberry cake; the fresh Washington raspberries sourced at Pike Place (day before this visit) go into the cake's filling via these techniques
 
-_Stub — extend with specific trails/photos after visiting._
+_Stub — visited Jul 22, 2026 (Paradise / Skyline Trail). Extend with trail notes and photos from the visit._
