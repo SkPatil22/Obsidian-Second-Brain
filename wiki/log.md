@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half.
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-08-26] librarian | Nightly maintenance pass
+
+- **LINK (5 files, 5 new wikilinks):** PKM concept→vault closes — `Compounding Knowledge Artifact` → `[[overview]]` (closing sentence named the Memex realization without pointing to the living vault; all 6 PKM concepts now link overview; 1 link); `Ingest Query Lint` → `[[overview]]` (loop that builds the vault never linked the vault; appended to closing paragraph; 1 link); `Index and Log` → `[[overview]]` (navigation pattern for the vault never linked the vault being navigated; inserted before citation; 1 link). Trip-prep cluster completion — `Mount Rainier National Park` → `[[Baking - Berries and Moisture]]` (park linked to 5 of 6 trip-prep items; Baking is the technique page behind the raspberry cake sourced the day before this visit; 1 link); `Olympic National Park` → `[[Baking - Berries and Moisture]]` (same gap; fresh-raspberry technique governs the Pike Place purchase two days before the Olympic leg; 1 link).
+- **FLAG — park entities trip-complete:** `Mount Rainier National Park` "Used in" updated to "completed Wed Jul 22, 2026 (Paradise / Skyline Trail)"; stub note updated to "visited Jul 22, 2026 — extend with trail notes and photos." `Olympic National Park` "Used in" updated to "completed Thu–Fri Jul 23–24, 2026"; stub note updated to "visited Jul 23–24, 2026: Hurricane Ridge → Lake Crescent → Sol Duc Falls → Port Angeles → Hoh Rainforest → Ruby Beach — extend with trail notes."
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **DATE FIXES (5 files):** `concepts/Compounding Knowledge Artifact` 2026-07-05→2026-08-26; `concepts/Ingest Query Lint` 2026-07-08→2026-08-26; `concepts/Index and Log` 2026-07-09→2026-08-26; `entities/Mount Rainier National Park` 2026-07-19→2026-08-26; `entities/Olympic National Park` 2026-07-19→2026-08-26.
+- **Report:** [[meta/maintenance/2026-08-26]]
+
 ## [2026-08-25] librarian | Nightly maintenance pass
 
 - **LINK (4 files, 4 new wikilinks):** concept→vault forward links — `LLM Wiki Pattern` → `[[overview]]` ("It is the operating model of this entire vault" now links the vault's front page; 1 link); `Three-Layer Architecture` → `[[overview]]` ("In this vault" section listed Obsidian, qmd, and Second Brain Roadmap but not the current vault state; added to Implementation bullet; 1 link); `Memex` → `[[overview]]` (closing paragraph named Second Brain Roadmap for the build plan but not the living vault state; "and [[overview]] for where it stands today" appended; 1 link); `qmd` → `[[overview]]` ("Status for this vault" noted Phase 4 is next per SBR but never linked the current vault state; 1 link).
