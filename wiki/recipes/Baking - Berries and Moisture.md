@@ -39,3 +39,5 @@ Sinking = berry weight beats batter body before the crumb sets. Fixes:
 - [[Pike Place Market]] — premier source for fresh Washington raspberries; the fresh-vs-frozen section above applies directly to market-stall produce
 - [[Seattle Trip 2026-07]] — the Tue Jul 21 Pike Place shopping day is the practical moment for the fresh-vs-frozen decision: market-stall raspberries go straight into the fresh filling; the post-trip bake puts the full technique into action
 - [[Running Shoes - Flat Feet]] — the other key trip-prep logistics item for the same Seattle trip; both are Tue Jul 21 Pike Place day-1 decisions
+- [[Mount Rainier National Park]] — visited Wed Jul 22 (the day after Pike Place sourcing); the fresh-vs-frozen choice made at the market governs the post-trip bake planned after this visit
+- [[Olympic National Park]] — visited Thu–Fri Jul 23–24; the post-trip bake timing follows the full Olympic leg, with Washington raspberries sourced at Pike Place two days before
