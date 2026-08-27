@@ -11,6 +11,14 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-08-27] librarian | Nightly maintenance pass
+
+- **LINK (3 files, 4 new wikilinks):** bidirectional close for the Baking↔Parks gap — `Baking - Berries and Moisture` → `[[Mount Rainier National Park]]` (parks added links to Baking on 2026-08-26; reverse was absent; Wednesday Rainier visit (Jul 22) is the day after the Pike Place sourcing that determines the fresh-vs-frozen decision; 1 link); `Baking - Berries and Moisture` → `[[Olympic National Park]]` (same gap; Washington raspberries were sourced at Pike Place two days before the Olympic leg; the post-trip bake timing follows the full trip; 1 link). Schema-layer round-trip — `meta/conventions` → `[[overview]]` (conventions is the schema file that governs the entire vault; it named the Three-Layer Architecture, LLM Wiki Pattern, and Karpathy source but never linked to the living vault it describes; "The vault this schema governs is at [[overview]]" added to preamble; 1 link). Operations-log round-trip — `wiki/log.md` → `[[overview]]` (the chronological operations record never linked to the vault state those operations are building; "The vault these operations build is at [[overview]]" added to header; 1 link).
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-08-27]]
+
 ## [2026-08-26] librarian | Nightly maintenance pass
 
 - **LINK (5 files, 5 new wikilinks):** PKM concept→vault closes — `Compounding Knowledge Artifact` → `[[overview]]` (closing sentence named the Memex realization without pointing to the living vault; all 6 PKM concepts now link overview; 1 link); `Ingest Query Lint` → `[[overview]]` (loop that builds the vault never linked the vault; appended to closing paragraph; 1 link); `Index and Log` → `[[overview]]` (navigation pattern for the vault never linked the vault being navigated; inserted before citation; 1 link). Trip-prep cluster completion — `Mount Rainier National Park` → `[[Baking - Berries and Moisture]]` (park linked to 5 of 6 trip-prep items; Baking is the technique page behind the raspberry cake sourced the day before this visit; 1 link); `Olympic National Park` → `[[Baking - Berries and Moisture]]` (same gap; fresh-raspberry technique governs the Pike Place purchase two days before the Olympic leg; 1 link).
