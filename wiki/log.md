@@ -11,6 +11,15 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-08-28] librarian | Nightly maintenance pass
+
+- **LINK (2 files, 2 new wikilinks):** hot-cache navigation gap — `wiki/hot.md` → `[[overview]]` (hot cache is the "where were we?" entry point but had no direct link to current vault state; "Current vault state: [[overview]]" added to Key Recent Facts; 1 link); wiki-answer reading interface — `Wiki vs RAG` → `[[Obsidian]]` ("You read it (in [[Obsidian]]); the LLM writes it" — division-of-labor sentence named the LLM's role without naming the human's reading tool; Obsidian is what you use to navigate the compiled synthesis; 1 link).
+- **FLAG — stale date bumps (2 files):** `Raspberry Chocolate Cake` warning callout "2026-08-25" → "2026-08-28" (34 days since Jul 25 trip return; bake remains `untested`); `Seattle Trip 2026-07` warning "as of 2026-08-25" → "as of 2026-08-28" (same; post-trip bake still pending).
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-08-28]]
+
 ## [2026-08-27] librarian | Nightly maintenance pass
 
 - **LINK (3 files, 4 new wikilinks):** bidirectional close for the Baking↔Parks gap — `Baking - Berries and Moisture` → `[[Mount Rainier National Park]]` (parks added links to Baking on 2026-08-26; reverse was absent; Wednesday Rainier visit (Jul 22) is the day after the Pike Place sourcing that determines the fresh-vs-frozen decision; 1 link); `Baking - Berries and Moisture` → `[[Olympic National Park]]` (same gap; Washington raspberries were sourced at Pike Place two days before the Olympic leg; the post-trip bake timing follows the full trip; 1 link). Schema-layer round-trip — `meta/conventions` → `[[overview]]` (conventions is the schema file that governs the entire vault; it named the Three-Layer Architecture, LLM Wiki Pattern, and Karpathy source but never linked to the living vault it describes; "The vault this schema governs is at [[overview]]" added to preamble; 1 link). Operations-log round-trip — `wiki/log.md` → `[[overview]]` (the chronological operations record never linked to the vault state those operations are building; "The vault these operations build is at [[overview]]" added to header; 1 link).
