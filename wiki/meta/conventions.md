@@ -28,14 +28,14 @@ Type-specific fields are added on top (e.g. recipes get `servings`, `time`, `sou
 
 ## Folders
 
-- **areas/** — ongoing, no end state (health, finance, career, home). Review periodically.
-- **projects/** — has an outcome and a finish line. Closes when done.
+- **[[areas/_index|areas/]]** — ongoing, no end state (health, finance, career, home). Review periodically.
+- **[[projects/_index|projects/]]** — has an outcome and a finish line. Closes when done.
 - **travel/** — trips and travel planning. The places visited become reusable [[entities/_index|entities/]] pages.
-- **recipes/** — **all cooking**: recipes *and* shared cooking techniques. Parsed from any source (incl. reel/TikTok links).
+- **[[recipes/_index|recipes/]]** — **all cooking**: recipes *and* shared cooking techniques. Parsed from any source (incl. reel/TikTok links).
 - **learning/** — non-cooking concepts and skills *you* are mastering (distinct from [[concepts/_index|concepts/]], which is extracted from sources).
-- **people/** — relationships, shared context, birthdays, follow-ups.
-- **ideas/** — sparks and half-thoughts (graphic design, product, writing).
-- **resources/** — books, courses, tools worth referencing.
+- **[[people/_index|people/]]** — relationships, shared context, birthdays, follow-ups.
+- **[[ideas/_index|ideas/]]** — sparks and half-thoughts (graphic design, product, writing).
+- **[[resources/_index|resources/]]** — books, courses, tools worth referencing.
 - **sources/** — one summary page per ingested raw source. Built by [[Ingest Query Lint|ingestion]].
 - **concepts/** — ideas, patterns, frameworks extracted from sources. Built by [[Ingest Query Lint|ingestion]].
 - **entities/** — people, orgs, products, repos, places. Built by [[Ingest Query Lint|ingestion]].
