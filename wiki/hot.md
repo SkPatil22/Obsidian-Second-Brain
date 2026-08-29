@@ -1,14 +1,14 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-08-28T00:00:00
+updated: 2026-08-29T00:00:00
 tags: [meta, hot-cache]
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-08-28. Nightly librarian pass — 2 new wikilinks, 0 moves, 0 merges, 2 stale-date flag bumps. Primary themes: **navigation round-trip** (`hot.md` now links `[[overview]]` — the temporal entry point directly navigates to vault state); **division-of-labor concreteness** (`Wiki vs RAG` now names `[[Obsidian]]` as the human reading interface in "You read it (in [[Obsidian]]); the LLM writes it"); **bake-pending age** (Raspberry Chocolate Cake warning bumped to 2026-08-28 — 34 days since Jul 25 return, still `untested`).
+2026-08-29. Nightly librarian pass — 6 new wikilinks (1 file), 0 moves, 0 merges, 2 stale-date flag bumps. Primary theme: **conventions folder completeness** — the folder list in `meta/conventions` named 6 domain folders (`areas/`, `projects/`, `recipes/`, `people/`, `ideas/`, `resources/`) as bold text with no wikilink; prior passes (2026-07-17) had linked `travel/`, `learning/`, `sources/`, `concepts/`, `entities/` but left these 6 bare; all now link their `_index` — the conventions folder list is fully navigable for the first time. **Bake-pending counter** climbs to 35 days.
 
 ## Key Recent Facts
 - The **`/brain` skill** exists (`~/.claude/skills/brain/`): "research X and file it into the second brain, auto-sorted, cross-linked, no review." Works as `/brain <topic>` or natural language.
@@ -19,13 +19,13 @@ tags: [meta, hot-cache]
 - Vault on the Pi at `~/claude-obsidian`, transport `filesystem`. Standing rule: **full automation, never review, never touch Obsidian manually.** Current vault state: [[overview]].
 
 ## Recent Changes
-- 2026-08-28: Librarian pass — LINK: `wiki/hot.md` → `[[overview]]` (hot cache had no direct link to current vault state; 1 link); `Wiki vs RAG` → `[[Obsidian]]` (division-of-labor sentence now names the reading interface: "You read it (in [[Obsidian]]); the LLM writes it"; 1 link). FLAG: `Raspberry Chocolate Cake` warning bumped 2026-08-25 → 2026-08-28 (34 days post-return, bake still untested); `Seattle Trip 2026-07` warning bumped same. See [[log]] and [[meta/maintenance/2026-08-28]].
-- 2026-08-27: Librarian pass — LINK: `Baking - Berries and Moisture` → `[[Mount Rainier National Park]]` (park added link to Baking on 2026-08-26; reverse closes the bidirectional gap; 1 link); `Baking - Berries and Moisture` → `[[Olympic National Park]]` (same; 1 link — trip-prep cluster now fully saturated, all 7 nodes bidirectional); `meta/conventions` → `[[overview]]` (schema layer governs the vault but never linked it; 1 link); `wiki/log.md` → `[[overview]]` (ops record never linked vault state; 1 link). See [[log]] and [[meta/maintenance/2026-08-27]].
-- 2026-08-26: Librarian pass — LINK: `Compounding Knowledge Artifact` → `[[overview]]`; `Ingest Query Lint` → `[[overview]]`; `Index and Log` → `[[overview]]` (all 6 PKM concepts now link the vault front page); `Mount Rainier National Park` → `[[Baking - Berries and Moisture]]`; `Olympic National Park` → `[[Baking - Berries and Moisture]]`. FLAG: Rainier + Olympic stub notes updated to "visited [date]". See [[log]] and [[meta/maintenance/2026-08-26]].
+- 2026-08-29: Librarian pass — LINK: `meta/conventions` folder list — 6 domain folders now link their `_index` (`[[areas/_index|areas/]]`, `[[projects/_index|projects/]]`, `[[recipes/_index|recipes/]]`, `[[people/_index|people/]]`, `[[ideas/_index|ideas/]]`, `[[resources/_index|resources/]]`; 6 links; 1 file). FLAG: `Raspberry Chocolate Cake` warning bumped 2026-08-28 → 2026-08-29 (35 days post-return, bake still `untested`); `Seattle Trip 2026-07` warning bumped same. See [[log]] and [[meta/maintenance/2026-08-29]].
+- 2026-08-28: Librarian pass — LINK: `wiki/hot.md` → `[[overview]]` (1 link); `Wiki vs RAG` → `[[Obsidian]]` (1 link). FLAG: bake warning bumped to 34 days. See [[log]] and [[meta/maintenance/2026-08-28]].
+- 2026-08-27: Librarian pass — LINK: `Baking - Berries and Moisture` ↔ `[[Mount Rainier National Park]]` + `[[Olympic National Park]]` (bidirectional close; 2 links); `meta/conventions` → `[[overview]]`; `wiki/log.md` → `[[overview]]` (2 links). See [[log]] and [[meta/maintenance/2026-08-27]].
 - See [[index]] for counts (1 source · 6 concepts · 7 entities · 6 domain pages).
 
 ## Active Threads
 - **✅ Seattle trip — complete** (Jul 21–25, 2026, returned Sat Jul 25). All 5 days done: Pike Place city day → Rainier (Paradise/Skyline) → Olympic (Hurricane Ridge + Lake Crescent + Sol Duc Falls + Port Angeles) → Olympic (Hoh Rainforest + Ruby Beach) → Seattle depart. See [[Seattle Trip 2026-07]] + [[Olympic National Park]] + [[Mount Rainier National Park]].
-- **🍰 Post-trip bake — pending:** Fresh Washington raspberries sourced at Pike Place (Jul 21). [[Raspberry Chocolate Cake]] status: `untested` as of 2026-08-28. Bake was planned after Jul 25 return — now 34 days out; update the recipe page when done.
+- **🍰 Post-trip bake — pending:** Fresh Washington raspberries sourced at Pike Place (Jul 21). [[Raspberry Chocolate Cake]] status: `untested` as of 2026-08-29 (35 days post-return). Update the recipe page when done.
 - **Phase 4 — Retrieval** ([[qmd]]) is the next infrastructure phase, once the wiki outgrows the index (~100 sources).
 - **Phase 1.5 — Sync** (GitHub auth) is still pending; see `~/brain-infra/README.md` → `activate-sync.sh`.
