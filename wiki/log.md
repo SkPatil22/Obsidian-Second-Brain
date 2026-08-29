@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-08-29] librarian | Nightly maintenance pass
+
+- **LINK (1 file, 6 new wikilinks):** conventions folder-list completeness — 6 domain folders (`areas/`, `projects/`, `recipes/`, `people/`, `ideas/`, `resources/`) had bold folder names with no wikilink; prior passes (2026-07-17) linked `travel/`, `learning/`, `sources/`, `concepts/`, `entities/` but left these 6 bare; now each links its `_index` (`[[areas/_index|areas/]]`, `[[projects/_index|projects/]]`, `[[recipes/_index|recipes/]]`, `[[people/_index|people/]]`, `[[ideas/_index|ideas/]]`, `[[resources/_index|resources/]]`) — the conventions folder list is fully navigable for the first time (6 links; 1 file).
+- **FLAG — stale date bumps (2 files):** `Raspberry Chocolate Cake` warning "2026-08-28 (34 days)" → "2026-08-29 (35 days)"; `Seattle Trip 2026-07` warning "as of 2026-08-28 (34 days)" → "as of 2026-08-29 (35 days)"; post-trip bake remains `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **DATE FIXES (3 files):** `meta/conventions` 2026-08-27→2026-08-29; `recipes/Raspberry Chocolate Cake` 2026-08-28→2026-08-29; `travel/Seattle Trip 2026-07` 2026-08-28→2026-08-29.
+- **Report:** [[meta/maintenance/2026-08-29]]
+
 ## [2026-08-28] librarian | Nightly maintenance pass
 
 - **LINK (2 files, 2 new wikilinks):** hot-cache navigation gap — `wiki/hot.md` → `[[overview]]` (hot cache is the "where were we?" entry point but had no direct link to current vault state; "Current vault state: [[overview]]" added to Key Recent Facts; 1 link); wiki-answer reading interface — `Wiki vs RAG` → `[[Obsidian]]` ("You read it (in [[Obsidian]]); the LLM writes it" — division-of-labor sentence named the LLM's role without naming the human's reading tool; Obsidian is what you use to navigate the compiled synthesis; 1 link).
