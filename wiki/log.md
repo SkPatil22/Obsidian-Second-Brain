@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-08-30] librarian | Nightly maintenance pass
+
+- **LINK (1 file, 5 new wikilinks):** conventions folder-list completion — the 2026-08-29 pass linked 6 folder names (`areas/`, `projects/`, `recipes/`, `people/`, `ideas/`, `resources/`) and claimed "the conventions folder list is fully navigable for the first time"; audit reveals the claim was premature — `travel/`, `learning/`, `sources/`, `concepts/`, `entities/` still had bare bold folder names; the 2026-07-17 pass had only added links WITHIN those descriptions (e.g., `travel/` description → `[[entities/_index|entities/]]`; `learning/` description → `[[concepts/_index|concepts/]]`; the three ingestion-layer descriptions → `[[Ingest Query Lint|ingestion]]`) but the folder NAME itself was never linked; all 5 corrected: `**[[travel/_index|travel/]]**`, `**[[learning/_index|learning/]]**`, `**[[sources/_index|sources/]]**`, `**[[concepts/_index|concepts/]]**`, `**[[entities/_index|entities/]]**` — conventions Folders section now genuinely fully navigable (5 links; 1 file).
+- **FLAG — stale date bumps (2 files):** `Raspberry Chocolate Cake` warning bumped 2026-08-29 → 2026-08-30 (36 days post-return, bake still `untested`); `Seattle Trip 2026-07` warning bumped same.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **DATE FIXES (5 files):** `meta/conventions` 2026-08-29→2026-08-30; `recipes/Raspberry Chocolate Cake` 2026-08-29→2026-08-30; `travel/Seattle Trip 2026-07` 2026-08-29→2026-08-30; `wiki/index.md` 2026-08-28→2026-08-30; `wiki/log.md` 2026-08-29→2026-08-30.
+- **Report:** [[meta/maintenance/2026-08-30]]
+
 ## [2026-08-29] librarian | Nightly maintenance pass
 
 - **LINK (1 file, 6 new wikilinks):** conventions folder-list completeness — 6 domain folders (`areas/`, `projects/`, `recipes/`, `people/`, `ideas/`, `resources/`) had bold folder names with no wikilink; prior passes (2026-07-17) linked `travel/`, `learning/`, `sources/`, `concepts/`, `entities/` but left these 6 bare; now each links its `_index` (`[[areas/_index|areas/]]`, `[[projects/_index|projects/]]`, `[[recipes/_index|recipes/]]`, `[[people/_index|people/]]`, `[[ideas/_index|ideas/]]`, `[[resources/_index|resources/]]`) — the conventions folder list is fully navigable for the first time (6 links; 1 file).
