@@ -4,7 +4,7 @@ title: "Baking — Berries & Moisture"
 status: active
 source: "[[.raw/raspberry-chocolate-cake-research-2026-06-25.md]]"
 created: 2026-06-25
-updated: 2026-08-27
+updated: 2026-08-31
 tags: [recipe, baking, technique]
 ---
 
