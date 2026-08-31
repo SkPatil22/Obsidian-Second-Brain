@@ -32,5 +32,6 @@ Seattle's landmark public market downtown — 75+ food stalls, fishmongers, flow
 - [[Thin Ribeye Recipes]] — source fresh ribeye and herbs here on day 1 (Tue Jul 21) to prep park-day portable bowls for Rainier (Wed) and Olympic (Thu–Fri)
 - [[Raspberry Chocolate Cake]] — fresh Washington raspberries from the produce stalls; source on day 1 for a post-trip test bake of the raspberry filling
 - [[Baking - Berries and Moisture]] — the fresh-vs-frozen berry framework; Pike Place produce-stall raspberries are the "fresh → fillings, décor" use case
+- [[entities/_index|Entities]] — catalog of all entity pages; [[travel/_index|Travel]] — trip and destination catalog
 
 _Stub._
