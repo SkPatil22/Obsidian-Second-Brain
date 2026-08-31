@@ -25,4 +25,6 @@ Author of [[Karpathy - LLM Wiki]] — the "idea file" that defines the [[LLM Wik
 ## In this vault
 This vault — see [[Second Brain Roadmap]] for the build plan, [[overview]] for current state — is Sachet's implementation of his pattern, built phase by phase on the Pi.
 
+_← [[entities/_index|Entities]]_
+
 _Stub — extend as more Karpathy sources are ingested._
