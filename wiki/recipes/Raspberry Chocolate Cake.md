@@ -66,3 +66,4 @@ A deep, moist from-scratch chocolate layer cake with a fresh raspberry filling a
 - [[Mount Rainier National Park]] — visited Wed Jul 22, after sourcing raspberries at Pike Place day 1; post-trip bake planned after the full trip including this visit
 - [[Olympic National Park]] — visited Thu–Fri Jul 23–24; post-trip bake timing follows the full Olympic leg
 - [[Running Shoes - Flat Feet]] — footwear for the same Seattle trip (Jul 21–25); both are Tue Jul 21 Pike Place day-1 logistics items
+- [[recipes/_index|Recipes]] — all recipes and techniques in this vault
