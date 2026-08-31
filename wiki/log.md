@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-08-31] librarian | Nightly maintenance pass
+
+- **LINK (20 files, 22 new wikilinks):** domain _index back-link sweep — the structural gap where every `_index` links *to* its content pages but no content page linked *back* to its domain index; adds a direct "go up" back-link to every content page: concepts (6 pages → `[[concepts/_index|Concepts]]`); PKM entities — `Andrej Karpathy`, `Obsidian`, `Memex`, `qmd` → `[[entities/_index|Entities]]`; travel entities — `Mount Rainier National Park`, `Olympic National Park`, `Pike Place Market` → `[[entities/_index|Entities]]` + `[[travel/_index|Travel]]` (2 links each); source — `Karpathy - LLM Wiki` → `[[sources/_index|Sources]]`; recipes — all 3 pages → `[[recipes/_index|Recipes]]`; `Running Shoes - Flat Feet` → `[[resources/_index|Resources]]`; `Second Brain Roadmap` → `[[projects/_index|Projects]]`; `Seattle Trip 2026-07` → `[[travel/_index|Travel]]` (22 links; 20 files).
+- **FLAG — stale date bumps (2 files):** `Raspberry Chocolate Cake` warning bumped 2026-08-30 → 2026-08-31 (37 days post-return, bake still `untested`); `Seattle Trip 2026-07` warning bumped same.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **DATE FIXES (20 files):** all modified content files stamped 2026-08-31.
+- **Report:** [[meta/maintenance/2026-08-31]]
+
 ## [2026-08-30] librarian | Nightly maintenance pass
 
 - **LINK (1 file, 5 new wikilinks):** conventions folder-list completion — the 2026-08-29 pass linked 6 folder names (`areas/`, `projects/`, `recipes/`, `people/`, `ideas/`, `resources/`) and claimed "the conventions folder list is fully navigable for the first time"; audit reveals the claim was premature — `travel/`, `learning/`, `sources/`, `concepts/`, `entities/` still had bare bold folder names; the 2026-07-17 pass had only added links WITHIN those descriptions (e.g., `travel/` description → `[[entities/_index|entities/]]`; `learning/` description → `[[concepts/_index|concepts/]]`; the three ingestion-layer descriptions → `[[Ingest Query Lint|ingestion]]`) but the folder NAME itself was never linked; all 5 corrected: `**[[travel/_index|travel/]]**`, `**[[learning/_index|learning/]]**`, `**[[sources/_index|sources/]]**`, `**[[concepts/_index|concepts/]]**`, `**[[entities/_index|entities/]]**` — conventions Folders section now genuinely fully navigable (5 links; 1 file).
