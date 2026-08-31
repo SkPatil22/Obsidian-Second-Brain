@@ -34,5 +34,6 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 - [[Thin Ribeye Recipes]] — portable bulgogi and chimichurri bowls pack well for park days (4-day shelf life; no reheat needed)
 - [[Raspberry Chocolate Cake]] — post-trip bake using fresh Washington raspberries sourced at Pike Place (Tue Jul 21, the day before this visit); bake on return from the full trip
 - [[Baking - Berries and Moisture]] — the technique page behind the post-trip raspberry cake; the fresh Washington raspberries sourced at Pike Place (day before this visit) go into the cake's filling via these techniques
+- [[entities/_index|Entities]] — catalog of all entity pages; [[travel/_index|Travel]] — trip and destination catalog
 
 _Stub — visited Jul 22, 2026 (Paradise / Skyline Trail). Extend with trail notes and photos from the visit._
