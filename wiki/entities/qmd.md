@@ -6,7 +6,7 @@ status: stub
 source_url: "https://github.com/tobi/qmd"
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-08-25
+updated: 2026-08-31
 tags: [entity, tool, search]
 ---
 
