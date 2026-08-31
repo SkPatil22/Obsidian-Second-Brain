@@ -18,4 +18,6 @@ Vannevar Bush's 1945 vision (from "As We May Think") of a personal, curated know
 
 The modern implementation: [[Obsidian]] for the browsing layer, Claude for the maintenance — realizing Bush's vision with contemporary tooling, organized by the [[Three-Layer Architecture]] (raw sources → wiki layer → schema). The associative trails are navigated via [[Index and Log]] — the catalog and chronological record that make them findable as the wiki grows. See [[Second Brain Roadmap]] for how this vault builds out that realization, phase by phase, and [[overview]] for where it stands today.
 
+_← [[entities/_index|Entities]]_
+
 _Stub._
