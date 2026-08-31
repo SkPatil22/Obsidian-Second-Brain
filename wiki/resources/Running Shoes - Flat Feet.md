@@ -71,6 +71,7 @@ The Metcon 6 wins on boxing feel (forefoot flex, lower price). The Nano X5 Edge 
 - [[Thin Ribeye Recipes]] — the other key trip-prep logistics item; portable bowls for the same park days these shoes are worn
 - [[Raspberry Chocolate Cake]] — third trip-prep cluster item; source fresh raspberries at Pike Place on the same Tue Jul 21 city day (the cake's natural shopping window)
 - [[Baking - Berries and Moisture]] — the baking technique page behind the raspberry cake; all four trip-prep cluster items share the Tue Jul 21 Pike Place shopping window
+- [[resources/_index|Resources]] — all resource and reference pages in this vault
 
 ## Sources
 - RunRepeat: Best Flat Feet Running Shoes 2026
