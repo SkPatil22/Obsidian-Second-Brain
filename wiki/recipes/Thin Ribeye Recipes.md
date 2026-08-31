@@ -98,3 +98,4 @@ Nutrition baseline (6 oz ribeye, no sauce): ~400 cal · 42g protein · 24g fat �
 - [[Seattle Trip 2026-07]] — these portable bowls (especially bulgogi + chimichurri variants) are ideal for [[Mount Rainier National Park|Rainier]]/[[Olympic National Park|Olympic]] national park days; 4-day shelf life spans the multi-day trip
 - [[Pike Place Market]] — source fresh ribeye and herbs for the meal prep on the city day (Tue Jul 21) before the park legs
 - [[Running Shoes - Flat Feet]] — the other key trip-prep logistics item; footwear for the same park days these bowls are packed for
+- [[recipes/_index|Recipes]] — all recipes and techniques in this vault
