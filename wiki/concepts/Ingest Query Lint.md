@@ -22,3 +22,5 @@ Ask questions against the wiki. The LLM reads the index first, drills into relev
 Periodic health check. Look for: contradictions between pages, stale claims newer sources superseded, orphan pages with no inbound links, important concepts lacking their own page, missing cross-references, and data gaps fillable with a web search. Keeps the wiki healthy as it grows.
 
 Run lint every ~10–15 ingests. Operations are recorded in [[Index and Log]]. See [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]. The vault-specific implementation of the ingest contract (steps 1–5, manifest check, page-writing rules) lives in [[meta/conventions]]. The vault these three operations build is [[overview]].
+
+_← [[concepts/_index|Concepts]]_
