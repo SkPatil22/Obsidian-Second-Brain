@@ -31,3 +31,5 @@ The staged build-out of this vault into an always-on personal knowledge + automa
 - No metered API spend — Pro plan only. Prefer free/local components on the Pi.
 - The Claude CLI is scaffolding; converge toward zero-friction messaging capture.
 - Reliability first; autonomy earns trust in stages.
+
+_Tracked in [[projects/_index|Projects]]._
