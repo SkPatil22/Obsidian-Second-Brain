@@ -38,5 +38,6 @@ Three ecosystems in one park on the Olympic Peninsula NW of Seattle: **alpine mo
 - [[Thin Ribeye Recipes]] — portable meal prep for multi-day park days (Thai steak salad, bulgogi bowl — 3–4 day shelf life)
 - [[Raspberry Chocolate Cake]] — post-trip bake using Washington raspberries sourced at Pike Place (Tue Jul 21) before the Olympic leg; bake after returning from the full trip
 - [[Baking - Berries and Moisture]] — the technique page behind the post-trip raspberry cake; Washington raspberries sourced at Pike Place (day before the Rainier leg, two days before this visit) go into the cake's filling via these techniques
+- [[entities/_index|Entities]] — catalog of all entity pages; [[travel/_index|Travel]] — trip and destination catalog
 
 _Stub — visited Jul 23–24, 2026: Hurricane Ridge → Lake Crescent → Sol Duc Falls → Port Angeles overnight (Thu) → Hoh Rainforest → Ruby Beach (Fri). Extend with trail notes._
