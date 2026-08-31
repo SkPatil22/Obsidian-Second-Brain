@@ -22,4 +22,6 @@ Crucially, qmd sits *on top of* the [[Compounding Knowledge Artifact]], not inst
 ## Status for this vault
 **Not needed yet.** The index-first approach covers small/medium scale. Revisit when search latency or recall degrades. A simpler home-grown search script is also a valid first step. Tracked as Phase 4 in [[Second Brain Roadmap]]. See [[overview]] for the current vault state.
 
+_← [[entities/_index|Entities]]_
+
 _Stub — candidate for the future retrieval layer (Stage 4 of the larger plan)._
