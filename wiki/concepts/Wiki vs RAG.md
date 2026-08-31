@@ -30,3 +30,5 @@ The core distinction that motivates the [[LLM Wiki Pattern]].
 The wiki-compile-once approach has historical precedent in the [[Memex]] (Vannevar Bush, 1945) — squarely on the wiki side of this spectrum; see [[LLM Wiki Pattern]] for the lineage.
 
 See [[Karpathy - LLM Wiki]].
+
+_← [[concepts/_index|Concepts]]_
