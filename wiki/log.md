@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-08-31
+updated: 2026-09-01
 tags: [meta, log]
 ---
 
@@ -10,6 +10,15 @@ tags: [meta, log]
 
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
+
+## [2026-09-01] librarian | Nightly maintenance pass
+
+- **STRUCTURE (1 new file):** `meta/maintenance/_index.md` created — 30+ daily librarian reports had no catalog; now listed grouped by month with one-line summaries for recent passes; linked from `index.md` System section.
+- **LINK (4 files, 8 new wikilinks):** hot.md — Telegram bot/Phase 2 and media parsing → `[[Second Brain Roadmap]]` (2 links); "Pike Place city day" and "at Pike Place (Jul 21)" → `[[Pike Place Market]]` (2 links); Phase 4 note → `[[Second Brain Roadmap]]` (1 link). index.md — `[[meta/maintenance/_index|Maintenance]]` added to System section (1 link). meta/maintenance/2026-08-31 — footer `← [[log]] · [[meta/maintenance/_index|Maintenance archive]]` (2 links). Bonus: `Seattle Trip 2026-07` bake warning "Pike Place" → `[[Pike Place Market]]` (1 link, folded into the date-bump).
+- **FLAG — stale date bumps (2 files):** `Raspberry Chocolate Cake` warning bumped 2026-08-31 → 2026-09-01 (38 days post-return, bake still `untested`); `Seattle Trip 2026-07` warning bumped same.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **Report:** [[meta/maintenance/2026-09-01]]
 
 ## [2026-08-31] librarian | Nightly maintenance pass
 

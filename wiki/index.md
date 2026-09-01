@@ -2,7 +2,7 @@
 type: meta
 title: "Index"
 created: 2026-06-24
-updated: 2026-08-31
+updated: 2026-09-01
 tags: [meta, index]
 ---
 
@@ -42,6 +42,7 @@ _New top-level categories are created on demand when a clear new life domain app
 - [[hot]] — ~500-word cache of recent context
 - [[overview]] — executive summary of the whole vault
 - [[Second Brain Roadmap]] — staged build-out of the vault, phase by phase
+- [[meta/maintenance/_index|Maintenance]] — nightly librarian pass reports, one per day
 
 ## Counts
 
