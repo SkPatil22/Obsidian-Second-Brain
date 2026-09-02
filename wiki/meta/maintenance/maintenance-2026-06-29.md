@@ -87,3 +87,5 @@ No new pages created (except this report); counts unchanged:
 ---
 
 _Next recommended maintenance: after ~10 more ingests, or when the source count reaches 10._
+
+_← [[log]] · [[meta/maintenance/_index|Maintenance archive]]_
