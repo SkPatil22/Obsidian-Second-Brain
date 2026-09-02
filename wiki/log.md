@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
 
+## [2026-09-02] librarian | Nightly maintenance pass
+
+- **LINK (32 files, 32 new wikilinks):** footer navigation sweep — all 32 maintenance report files from 2026-06-28 through 2026-08-30 lacked the standard footer `_← [[log]] · [[meta/maintenance/_index|Maintenance archive]]_`; every report now links back to the archive and the log. Closes the last navigation gap in the maintenance layer: historical reports were orphaned from the archive once you opened them.
+- **STRUCTURE (1 file, 26 entries annotated):** `meta/maintenance/_index.md` — 23 bare-link entries in the 2026-07 section and 3 in the 2026-06 section now have one-line summaries matching the 2026-08 format (theme, link count, key flag); archive is a scannable changelog from day 1 onward.
+- **FLAG — stale date bumps (2 files):** `Raspberry Chocolate Cake` warning bumped 2026-09-01 → 2026-09-02 (39 days post-return, bake still `untested`); `Seattle Trip 2026-07` warning bumped same.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **DATE FIXES:** `wiki/overview.md` 2026-07-21 → 2026-09-02 (cosmetically stale; content accurate).
+- **Report:** [[meta/maintenance/2026-09-02]]
+
 ## [2026-09-01] librarian | Nightly maintenance pass
 
 - **STRUCTURE (1 new file):** `meta/maintenance/_index.md` created — 30+ daily librarian reports had no catalog; now listed grouped by month with one-line summaries for recent passes; linked from `index.md` System section.
