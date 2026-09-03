@@ -9,7 +9,16 @@ tags: [meta, log]
 # Log — Operations Record
 
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]].
-Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops.
+Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]].
+
+## [2026-09-03] librarian | Nightly maintenance pass
+
+- **LINK (6 files, 6 new wikilinks):** knowledge-layer cross-nav — `log.md` header → `[[meta/maintenance/_index|Maintenance archive]]` (log now cross-links to its structured counterpart); `areas/_index` → `[[travel/_index|Travel]]` (travel carved from areas/projects, now noted in areas footer); `ideas/_index` → `[[resources/_index|Resources]]` (ideas that turn actionable often produce a resource pointer); `sources/_index` → `[[learning/_index|Learning]]` (a source can trigger active skill acquisition beyond concept extraction); `concepts/_index` → `[[ideas/_index|Ideas]]` (concepts can spark half-formed applications worth developing); `entities/_index` → `[[travel/_index|Travel]]` (place entities connect to travel when visited on trips — as [[Mount Rainier National Park]], [[Olympic National Park]], and [[Pike Place Market]] do).
+- **FLAG — stale date bump (2 files):** `Raspberry Chocolate Cake` warning "2026-09-02 (39 days)" → "2026-09-03 (40 days)"; `Seattle Trip 2026-07` warning same; bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-03]]
 
 ## [2026-09-02] librarian | Nightly maintenance pass
 
