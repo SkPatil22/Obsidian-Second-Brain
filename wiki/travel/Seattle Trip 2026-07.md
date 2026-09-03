@@ -55,7 +55,7 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 > [!success] Trip complete — returned Sat Jul 25, 2026
 > All 5 days completed: Tue Jul 21 Pike Place city day → Wed Jul 22 Mount Rainier (Paradise / Skyline Trail) → Thu Jul 23 Olympic (Hurricane Ridge → Lake Crescent → Sol Duc Falls → Port Angeles overnight) → Fri Jul 24 Olympic (Hoh Rainforest → Ruby Beach → back to Seattle) → Sat Jul 25 Seattle morning + depart.
 
-> [!warning] Post-trip bake pending (as of 2026-09-02)
-> Fresh Washington raspberries were sourced at [[Pike Place Market]] (Tue Jul 21). The [[Raspberry Chocolate Cake]] post-trip bake was planned after the Jul 25 return. Status: `untested` as of 2026-09-02 (39 days post-return) — update the recipe page when the bake happens.
+> [!warning] Post-trip bake pending (as of 2026-09-03)
+> Fresh Washington raspberries were sourced at [[Pike Place Market]] (Tue Jul 21). The [[Raspberry Chocolate Cake]] post-trip bake was planned after the Jul 25 return. Status: `untested` as of 2026-09-03 (40 days post-return) — update the recipe page when the bake happens.
 
 _Pre-trip action items resolved (trip complete). ← [[travel/_index|Travel]] catalog_
