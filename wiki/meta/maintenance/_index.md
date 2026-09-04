@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass audits the vault for m
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state.
 
 ## 2026-09
+- [[meta/maintenance/2026-09-04]] — System-layer nav completion: overview → maintenance archive; projects↔learning bidirectional (4 links); bake warning → 41 days
 - [[meta/maintenance/2026-09-03]] — Knowledge-layer cross-nav (6 domain index links: areas/ideas/sources/concepts/entities/_index + log header); bake warning → 40 days
 - [[meta/maintenance/2026-09-02]] — Footer nav sweep (32 maintenance files); archive summaries for all 2026-07 + 2026-06 entries; bake warning → 39 days
 - [[meta/maintenance/2026-09-01]] — Maintenance archive index created; 8 new wikilinks (hot.md ×5, index.md ×1, 2026-08-31 ×2); bake warning → 38 days
