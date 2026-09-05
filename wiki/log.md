@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]].
 
+## [2026-09-05] librarian | Nightly maintenance pass
+
+- **LINK (5 files, 7 new wikilinks):** lint-loop closure — `concepts/Ingest Query Lint` Lint section → `[[meta/maintenance/_index|Maintenance archive]]` (concept page now points from the operation definition to its running record; 1 link); `sources/Karpathy - LLM Wiki` "Relevance to this vault" → `[[meta/maintenance/_index|Maintenance archive]]` (blueprint → implementation; 1 link); `meta/conventions` preamble → `[[meta/maintenance/_index|Maintenance archive]]` (schema file now links to where its maintenance passes are recorded; 1 link); `projects/Second Brain Roadmap` footer → `[[meta/maintenance/_index|Maintenance archive]]` (roadmap ↔ health record; 1 link). Domain-output gap — `sources/_index` footer extended: "sources produce Concepts and Entities" was incomplete — ingest also produces domain pages; added `[[recipes/_index|Recipes]]`, `[[travel/_index|Travel]]`, `[[resources/_index|Resources]]` (3 links; 1 file).
+- **FLAG — stale date bump (2 files):** `Raspberry Chocolate Cake` warning "2026-09-04 (41 days)" → "2026-09-05 (42 days)"; `Seattle Trip 2026-07` warning same; bake still `untested`.
+- **DATE FIXES (5 files):** five `_index` files had 2026-09-03 content edits with no date bump — corrected: `areas/_index` 2026-07-21→2026-09-03; `concepts/_index` 2026-07-18→2026-09-03; `entities/_index` 2026-07-18→2026-09-03; `ideas/_index` 2026-07-22→2026-09-03; `sources/_index` 2026-07-22→2026-09-05.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-05]]
+
 ## [2026-09-04] librarian | Nightly maintenance pass
 
 - **LINK (4 files, 4 new wikilinks):** system-layer navigation completion — `overview.md` → `[[meta/maintenance/_index|Maintenance archive]]` (front page listed index/hot/log/conventions as system entry points but never the maintenance archive, which now has 37+ structured daily reports; all major system pages now reachable from the front page; 1 link); `projects/_index` → `[[learning/_index|Learning]]` (footer now disambiguates: "active skill-building without a finish line belongs in Learning — not Projects"; 1 link); `learning/_index` → `[[projects/_index|project]]` (disambiguation now reads: "a mastered skill can evolve into a project when there's a clear outcome and finish line"; closes the last missing domain-index bidirectional pair in the vault; 1 link); `hot.md` → `[[meta/maintenance/_index|Maintenance archive]]` (hot linked to individual daily reports and the log but not the archive index; added to the counts footer line; 1 link).
