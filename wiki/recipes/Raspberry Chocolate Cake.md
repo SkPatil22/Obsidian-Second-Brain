@@ -56,7 +56,7 @@ A deep, moist from-scratch chocolate layer cake with a fresh raspberry filling a
 - _Status: `untested` — update to `tested` with notes after first bake._
 
 > [!warning] Post-trip bake pending (2026-09-04)
-> Fresh Washington raspberries were sourced at [[Pike Place Market]] during the [[Seattle Trip 2026-07]] city day (Tue Jul 21, 2026). Trip returned Sat Jul 25. The post-trip test bake was planned on return — status unknown as of 2026-09-04 (41 days post-return). Update `status: untested → tested` with notes after baking.
+> Fresh Washington raspberries were sourced at [[Pike Place Market]] during the [[Seattle Trip 2026-07]] city day (Tue Jul 21, 2026). Trip returned Sat Jul 25. The post-trip test bake was planned on return — status unknown as of 2026-09-05 (42 days post-return). Update `status: untested → tested` with notes after baking.
 
 ## See also
 - [[Baking - Berries and Moisture]] — the technique page behind this recipe (moist crumb, berry sinking, ganache drip)
