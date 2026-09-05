@@ -2,7 +2,7 @@
 type: meta
 title: "Concepts — Index"
 created: 2026-06-24
-updated: 2026-07-18
+updated: 2026-09-03
 tags: [meta, index, concept]
 ---
 
