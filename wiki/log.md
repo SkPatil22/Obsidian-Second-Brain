@@ -2,14 +2,24 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-09-05
+updated: 2026-09-06
 tags: [meta, log]
 ---
 
 # Log — Operations Record
 
-Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]].
+Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]].
+
+## [2026-09-06] librarian | Nightly maintenance pass
+
+- **LINK (4 files, 4 new wikilinks):** domain-index → sources bidirectional gap — `sources/_index` links to `[[recipes/_index|Recipes]]`, `[[travel/_index|Travel]]`, `[[resources/_index|Resources]]` (added 2026-09-05) but none of those indexes linked back to Sources; closing the bidirectional loop: `recipes/_index` footer → `[[sources/_index|Sources]]` ("recipes and techniques are often produced by source ingestion"; 1 link); `travel/_index` footer → `[[sources/_index|Sources]]` ("trip itineraries produced via `/brain` research originate in Sources"; 1 link); `resources/_index` footer → `[[sources/_index|Sources]]` ("resource pages can be produced by source ingestion"; 1 link). Operations-manifest gap — `log.md` header → `[[meta/conventions]]` ("operations follow the format and mandate in meta/conventions"; the log IS the record the conventions mandate but never linked back to the rulebook; 1 link).
+- **FLAG — stale date bumps (2 files):** `Raspberry Chocolate Cake` warning callout header "(2026-09-04)" → "(as of 2026-09-06)"; body "(42 days post-return)" → "(43 days post-return)"; `Seattle Trip 2026-07` warning callout header "(as of 2026-09-04)" → "(as of 2026-09-06)"; body "(42 days post-return)" → "(43 days post-return)". Bake still `untested`.
+- **DATE FIXES (3 files):** `recipes/_index` 2026-07-19→2026-09-06; `travel/_index` 2026-08-25→2026-09-06; `resources/_index` 2026-07-19→2026-09-06 (all modified today by new links).
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-06]]
 
 ## [2026-09-05] librarian | Nightly maintenance pass
 

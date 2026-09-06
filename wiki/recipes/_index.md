@@ -2,7 +2,7 @@
 type: meta
 title: "Recipes — Index"
 created: 2026-06-24
-updated: 2026-07-19
+updated: 2026-09-06
 tags: [meta, index, recipe]
 ---
 
@@ -17,4 +17,4 @@ All things cooking. One cookable recipe per note — ingredients, steps, timing,
 ## Techniques
 - [[Baking - Berries and Moisture]] — moist crumb (oil vs butter), stopping berries sinking, fresh vs frozen, ganache drips
 
-_Cooking techniques live here. Non-cooking skills being actively mastered live in [[learning/_index|Learning]]. Trip-specific food sourcing and prep (Pike Place ingredients, park-day meal planning) connects to [[travel/_index|Travel]]._
+_Cooking techniques live here. Non-cooking skills being actively mastered live in [[learning/_index|Learning]]. Trip-specific food sourcing and prep (Pike Place ingredients, park-day meal planning) connects to [[travel/_index|Travel]]. Recipes and techniques are often produced by source ingestion — see [[sources/_index|Sources]] for the raw material that produced pages like [[Raspberry Chocolate Cake]] and [[Thin Ribeye Recipes]]._

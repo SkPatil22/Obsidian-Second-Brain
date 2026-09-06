@@ -2,7 +2,7 @@
 type: meta
 title: "Maintenance — Archive"
 created: 2026-06-28
-updated: 2026-09-05
+updated: 2026-09-06
 tags: [meta, maintenance]
 ---
 
@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass audits the vault for m
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state.
 
 ## 2026-09
+- [[meta/maintenance/2026-09-06]] — Domain-index→sources bidirectional closure (recipes/travel/resources/_index → Sources, 3 links); log → conventions link; callout header date-sync; bake warning → 43 days
 - [[meta/maintenance/2026-09-05]] — Lint-loop closure: IQL/Karpathy/conventions/SBR → maintenance archive (7 links); sources/_index domain-output gap fixed; 5 stale _index dates corrected; bake warning → 42 days
 - [[meta/maintenance/2026-09-04]] — System-layer nav completion: overview → maintenance archive; projects↔learning bidirectional (4 links); bake warning → 41 days
 - [[meta/maintenance/2026-09-03]] — Knowledge-layer cross-nav (6 domain index links: areas/ideas/sources/concepts/entities/_index + log header); bake warning → 40 days
