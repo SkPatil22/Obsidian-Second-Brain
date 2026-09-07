@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]].
 
+## [2026-09-07] librarian | Nightly maintenance pass
+
+- **LINK (2 files, 2 new wikilinks):** people↔infrastructure gap — `people/_index` → `[[Second Brain Roadmap]]` (the "scheduler will read this for reminders" sentence referenced Phase 3 of the SBR without naming it; People is the data layer for the reminder system, SBR is the infrastructure roadmap that builds it; 1 link); `projects/Second Brain Roadmap` → `[[people/_index|People]]` (bidirectional close: Phase 3 reminders will read People entries as the scheduler matures; SBR described the reminder loop without pointing to where per-person data lands; 1 link).
+- **FLAG — stale date bumps (2 files):** `Raspberry Chocolate Cake` warning callout "(as of 2026-09-06)" → "(as of 2026-09-07)"; "(43 days post-return)" → "(44 days post-return)"; `Seattle Trip 2026-07` warning same. Bake still `untested`.
+- **DATE FIXES (4 files):** `recipes/Raspberry Chocolate Cake` 2026-09-06→2026-09-07; `travel/Seattle Trip 2026-07` 2026-09-06→2026-09-07; `people/_index` 2026-07-22→2026-09-07; `projects/Second Brain Roadmap` 2026-09-05→2026-09-07.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-07]]
+
 ## [2026-09-06] librarian | Nightly maintenance pass
 
 - **LINK (4 files, 4 new wikilinks):** domain-index → sources bidirectional gap — `sources/_index` links to `[[recipes/_index|Recipes]]`, `[[travel/_index|Travel]]`, `[[resources/_index|Resources]]` (added 2026-09-05) but none of those indexes linked back to Sources; closing the bidirectional loop: `recipes/_index` footer → `[[sources/_index|Sources]]` ("recipes and techniques are often produced by source ingestion"; 1 link); `travel/_index` footer → `[[sources/_index|Sources]]` ("trip itineraries produced via `/brain` research originate in Sources"; 1 link); `resources/_index` footer → `[[sources/_index|Sources]]` ("resource pages can be produced by source ingestion"; 1 link). Operations-manifest gap — `log.md` header → `[[meta/conventions]]` ("operations follow the format and mandate in meta/conventions"; the log IS the record the conventions mandate but never linked back to the rulebook; 1 link).
