@@ -2,7 +2,7 @@
 type: meta
 title: "People — Index"
 created: 2026-06-24
-updated: 2026-07-22
+updated: 2026-09-07
 tags: [meta, index, person]
 ---
 
