@@ -8,7 +8,7 @@ tags: [meta, index, person]
 
 # People
 
-Relationships and shared context — who they are, how you know them, birthdays, and open follow-ups. The scheduler will read this for reminders.
+Relationships and shared context — who they are, how you know them, birthdays, and open follow-ups. The scheduler (Phase 3 of [[Second Brain Roadmap]]) will read this for reminders.
 
 ## Pages
 _None yet._
