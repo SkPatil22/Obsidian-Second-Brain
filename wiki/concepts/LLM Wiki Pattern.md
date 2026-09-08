@@ -35,6 +35,7 @@ When a new source arrives, the LLM doesn't just index it for later ([[Wiki vs RA
 - [[qmd]] — optional retrieval layer for when the wiki outgrows the index
 - [[Second Brain Roadmap]] — the staged build-out of this vault, phase by phase
 - Conventions in [[meta/conventions]]
+- [[meta/maintenance/_index|Maintenance archive]] — the running Lint record; proof the third operation runs daily in this vault
 
 ## Lineage
 Spiritual successor to the [[Memex]] (Vannevar Bush, 1945) — the LLM solves Bush's open problem of *who does the maintenance*.
