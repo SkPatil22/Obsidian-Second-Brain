@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]].
 
+## [2026-09-08] librarian | Nightly maintenance pass
+
+- **LINK (2 files, 4 new wikilinks):** knowledge-layer navigation gap — `wiki/overview.md` "Where things live" paragraph used backtick code spans for `sources/`, `concepts/`, `entities/`; the parallel "How it works" Step 2 already wikilinks them, but readers in the "Where things live" section couldn't navigate directly; converted all three to `[[sources/_index|sources/]]`, `[[concepts/_index|concepts/]]`, `[[entities/_index|entities/]]` (3 links; 1 file). LLM Wiki Pattern gap — `concepts/LLM Wiki Pattern` "Implemented here via" list named 6 implementation artifacts but omitted the [[meta/maintenance/_index|Maintenance archive]], which is the daily proof the Lint operation (the third of Ingest Query Lint) runs in this vault; added as final bullet (1 link; 1 file).
+- **FLAG — stale date bump (2 files):** `Raspberry Chocolate Cake` warning "(as of 2026-09-07, 44 days post-return)" → "(as of 2026-09-08, 45 days post-return)"; `Seattle Trip 2026-07` warning same. Bake still `untested`.
+- **DATE FIXES (4 files):** `wiki/overview.md` 2026-09-04→2026-09-08; `concepts/LLM Wiki Pattern` 2026-08-31→2026-09-08; `recipes/Raspberry Chocolate Cake` 2026-09-07→2026-09-08; `travel/Seattle Trip 2026-07` 2026-09-07→2026-09-08.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-08]]
+
 ## [2026-09-07] librarian | Nightly maintenance pass
 
 - **LINK (2 files, 2 new wikilinks):** people↔infrastructure gap — `people/_index` → `[[Second Brain Roadmap]]` (the "scheduler will read this for reminders" sentence referenced Phase 3 of the SBR without naming it; People is the data layer for the reminder system, SBR is the infrastructure roadmap that builds it; 1 link); `projects/Second Brain Roadmap` → `[[people/_index|People]]` (bidirectional close: Phase 3 reminders will read People entries as the scheduler matures; SBR described the reminder loop without pointing to where per-person data lands; 1 link).
