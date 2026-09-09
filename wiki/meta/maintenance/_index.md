@@ -61,4 +61,4 @@ See [[meta/conventions]] for the librarian mandate (linking policy, ingestion co
 - [[meta/maintenance/maintenance-2026-06-29]] — DATE FIXES 17 files; Running Shoes↔Seattle Trip; SBR → Karpathy (3 links); FLAG hot.md stale claim
 - [[meta/maintenance/maintenance-2026-06-28]] — graph densification 15 files; STRUCT travel/ + cooking reorg; FLAG stale SBR status
 
-_← [[log]] · [[meta/conventions|Conventions]] · [[overview]]_
+_← [[log]] · [[index]] · [[meta/conventions|Conventions]] · [[overview]]_
