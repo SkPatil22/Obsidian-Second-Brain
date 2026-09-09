@@ -9,7 +9,7 @@ tags: [meta, log]
 # Log — Operations Record
 
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
-Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]].
+Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]].
 
 ## [2026-09-08] librarian | Nightly maintenance pass
 
