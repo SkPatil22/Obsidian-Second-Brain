@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass audits the vault for m
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state.
 
 ## 2026-09
+- [[meta/maintenance/2026-09-09]] — log↔hot + learning↔sources + ideas↔concepts bidirectionals; Seattle Trip → people; archive → index nav; SBR → areas (6 links); bake warning → 46 days
 - [[meta/maintenance/2026-09-08]] — Overview knowledge-layer backtick→wikilinks (3 links); LLM Wiki Pattern → maintenance archive (1 link); bake warning → 45 days
 - [[meta/maintenance/2026-09-07]] — People↔Second Brain Roadmap bidirectional (2 links); bake warning → 44 days
 - [[meta/maintenance/2026-09-06]] — Domain-index→sources bidirectional closure (recipes/travel/resources/_index → Sources, 3 links); log → conventions link; callout header date-sync; bake warning → 43 days
