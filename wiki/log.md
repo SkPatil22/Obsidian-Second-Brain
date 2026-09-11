@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]].
 
+## [2026-09-11] librarian | Nightly maintenance pass
+
+- **LINK (1 file, 2 new wikilinks):** source→output-catalogs bidirectional close — `sources/Karpathy - LLM Wiki` → `[[concepts/_index|Concepts]]` + `[[entities/_index|Entities]]` (the 2026-09-10 pass added concepts/_index → Karpathy source and entities/_index → Karpathy source; the reverse was missing — the source page describes "the ideas are broken out into linked concept pages" without pointing to the concepts catalog, and mentions entities via the structure section without pointing to the entities catalog; added "This source produced the [[concepts/_index|6 concept pages]] and [[entities/_index|4 of the 7 entity pages]] currently in the vault" to the Relevance section; closes the bidirectional introduced yesterday; 2 links; 1 file).
+- **FLAG — stale date bump (2 files):** `Raspberry Chocolate Cake` warning "(as of 2026-09-10, 47 days post-return)" → "(as of 2026-09-11, 48 days post-return)"; `Seattle Trip 2026-07` warning same. Bake still `untested`.
+- **DATE FIXES (3 files):** `wiki/sources/Karpathy - LLM Wiki.md` 2026-09-05→2026-09-11; `wiki/recipes/Raspberry Chocolate Cake.md` 2026-09-10→2026-09-11; `wiki/travel/Seattle Trip 2026-07.md` 2026-09-10→2026-09-11.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-11]]
+
 ## [2026-09-10] librarian | Nightly maintenance pass
 
 - **LINK (4 files, 4 new wikilinks):** areas↔SBR bidirectional close — `areas/_index` → `[[Second Brain Roadmap]]` (yesterday's pass added SBR → areas; the reverse was missing — Phase 3 morning briefs route life-domain content into Areas, SBR documents that plan; 1 link). conventions↔SBR bidirectional close — `meta/conventions` → `[[Second Brain Roadmap]]` (SBR → conventions existed since 2026-07-10; conventions linked to overview and maintenance archive but not to the staged build-out it governs; 1 link). Knowledge-provenance chain — `concepts/_index` → `[[Karpathy - LLM Wiki]]` (all 6 concept pages produced by this single source; footer linked to sources/_index but not to the specific origin; 1 link). `entities/_index` → `[[Karpathy - LLM Wiki]]` (same gap on entities side — 4 of 7 entity pages produced by this source; named which four in the footer; 1 link).
