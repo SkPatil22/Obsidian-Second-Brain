@@ -25,6 +25,6 @@ Substrate: plain Markdown in a git repo → free version history. See [[Three-La
 
 When the wiki scales past ~100 sources, [[qmd]] adds a retrieval layer on top — without breaking the compounding nature of the artifact. Search becomes fast; the synthesis is still there.
 
-The concept echoes [[Memex]] (Vannevar Bush, 1945) — a private store where connections between documents are as valuable as the documents themselves. Bush's unsolved problem was who does the maintenance. [[Andrej Karpathy]] frames the LLM as the answer: the compounding artifact is the Memex, finally realizable — and [[overview|this vault]] is that artifact, growing session by session.
+The concept echoes [[Memex]] (Vannevar Bush, 1945) — a private store where connections between documents are as valuable as the documents themselves. Bush's unsolved problem was who does the maintenance. [[Andrej Karpathy]] frames the LLM as the answer: the compounding artifact is the Memex, finally realizable — and [[overview|this vault]] is that artifact, growing session by session. The staged build-out is in [[Second Brain Roadmap]]; the daily health ledger in [[meta/maintenance/_index|Maintenance archive]].
 
 _← [[concepts/_index|Concepts]]_
