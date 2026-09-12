@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass audits the vault for m
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state.
 
 ## 2026-09
+- [[meta/maintenance/2026-09-12]] — overview↔Memex bidirectional (1 link); CKA → SBR + archive (2 links); log → sources/_index (1 link); bake warning → 49 days
 - [[meta/maintenance/2026-09-11]] — Karpathy source → concepts/_index + entities/_index (2 links; source↔catalogs bidirectional closed); bake warning → 48 days
 - [[meta/maintenance/2026-09-10]] — areas↔SBR + conventions↔SBR bidirectionals; concepts/_index + entities/_index → Karpathy source (4 links); bake warning → 47 days
 - [[meta/maintenance/2026-09-09]] — log↔hot + learning↔sources + ideas↔concepts bidirectionals; Seattle Trip → people; archive → index nav; SBR → areas (6 links); bake warning → 46 days
