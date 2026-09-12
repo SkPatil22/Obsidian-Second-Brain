@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]].
 
+## [2026-09-12] librarian | Nightly maintenance pass
+
+- **LINK (3 files, 4 new wikilinks):** overview↔Memex bidirectional close — `wiki/overview.md` intro → `[[Memex]]` (Memex entity page already linked to overview; the reverse was absent — the overview describes Karpathy's pattern without naming its historical ancestor; added "the modern realization of the [[Memex]] (Vannevar Bush, 1945)" to the opening paragraph; 1 link; 1 file). CKA→implementation gap — `concepts/Compounding Knowledge Artifact` closing paragraph → `[[Second Brain Roadmap]]` + `[[meta/maintenance/_index|Maintenance archive]]` (CKA is the concept; SBR is the staged build-out of that concept; the archive is the daily health ledger proving it; CKA's closing referenced overview and Karpathy but not the two operational artifacts; 2 links; 1 file). Log→sources navigation — `wiki/log.md` header → `[[sources/_index|Sources]]` (the log records every source ingest; the sources catalog is the direct cross-reference; the log header already linked to index, hot, maintenance archive, and conventions, but not to the one domain most directly populated by ingest operations; 1 link; 1 file).
+- **FLAG — stale date bump (2 files):** `Raspberry Chocolate Cake` warning "(as of 2026-09-11, 48 days post-return)" → "(as of 2026-09-12, 49 days post-return)"; `Seattle Trip 2026-07` warning same. Bake still `untested`.
+- **DATE FIXES (5 files):** `wiki/overview.md` 2026-09-08→2026-09-12; `wiki/concepts/Compounding Knowledge Artifact.md` 2026-08-31→2026-09-12; `wiki/log.md` 2026-09-11→2026-09-12; `wiki/recipes/Raspberry Chocolate Cake.md` 2026-09-11→2026-09-12; `wiki/travel/Seattle Trip 2026-07.md` 2026-09-11→2026-09-12.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-12]]
+
 ## [2026-09-11] librarian | Nightly maintenance pass
 
 - **LINK (1 file, 2 new wikilinks):** source→output-catalogs bidirectional close — `sources/Karpathy - LLM Wiki` → `[[concepts/_index|Concepts]]` + `[[entities/_index|Entities]]` (the 2026-09-10 pass added concepts/_index → Karpathy source and entities/_index → Karpathy source; the reverse was missing — the source page describes "the ideas are broken out into linked concept pages" without pointing to the concepts catalog, and mentions entities via the structure section without pointing to the entities catalog; added "This source produced the [[concepts/_index|6 concept pages]] and [[entities/_index|4 of the 7 entity pages]] currently in the vault" to the Relevance section; closes the bidirectional introduced yesterday; 2 links; 1 file).
