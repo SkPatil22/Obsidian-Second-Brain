@@ -5,7 +5,7 @@ title: "Andrej Karpathy"
 status: stub
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-08-31
+updated: 2026-09-13
 tags: [entity, person]
 ---
 
