@@ -2,7 +2,7 @@
 type: meta
 title: "Projects — Index"
 created: 2026-06-24
-updated: 2026-09-04
+updated: 2026-09-13
 tags: [meta, index, project]
 ---
 
