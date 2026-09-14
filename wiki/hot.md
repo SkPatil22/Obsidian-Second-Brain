@@ -1,14 +1,14 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-09-13T00:00:00
+updated: 2026-09-14T00:00:00
 tags: [meta, hot-cache]
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-09-13. Nightly librarian pass — **3 new links across 3 files**: (1) `Andrej Karpathy` entity → `[[meta/maintenance/_index|Maintenance archive]]` — closes the entity↔implementation-artifacts triad (source page `Karpathy - LLM Wiki` already linked all three: SBR + overview + archive; entity page was missing the archive; now symmetrical); (2) `projects/_index` → `[[ideas/_index|Ideas]]` — closes the ideas→projects bidirectional (ideas index promotes sparks to Projects; Projects index never acknowledged Ideas as its upstream origin); (3) `resources/_index` → `[[ideas/_index|Ideas]]` — closes the ideas→resources bidirectional (ideas index routes actionable sparks to Resources; Resources index never pointed back). **Bake-pending counter** climbs to 50 days.
+2026-09-14. Nightly librarian pass — **6 new links across 6 files**: (1) `resources/_index` → `[[areas/_index|Areas]]` — closes the areas↔resources bidirectional (areas has linked to resources since 2026-07-15; reverse was absent; resources serve life areas); (2) `projects/_index` → `[[people/_index|People]]` — project collaborators and stakeholders accrete in People; (3) `people/_index` → `[[projects/_index|Projects]]` — closes the projects↔people bidirectional; (4–6) knowledge-layer catalog pages `concepts/_index`, `entities/_index`, `sources/_index` each gained `[[overview]]` orientation link — individual concept/entity pages all linked overview since 2026-08-25; their catalog indexes lagged until today. **Bake-pending counter** climbs to 51 days.
 
 ## Key Recent Facts
 - The **`/brain` skill** exists (`~/.claude/skills/brain/`): "research X and file it into the second brain, auto-sorted, cross-linked, no review." Works as `/brain <topic>` or natural language.
@@ -19,13 +19,13 @@ tags: [meta, hot-cache]
 - Vault on the Pi at `~/claude-obsidian`, transport `filesystem`. Standing rule: **full automation, never review, never touch Obsidian manually.** Current vault state: [[overview]].
 
 ## Recent Changes
-- 2026-09-13: Librarian pass — LINK: 3 new wikilinks across 3 files (Karpathy entity→archive; projects/_index→ideas; resources/_index→ideas). FLAG: bake warning → 50 days. See [[log]] and [[meta/maintenance/2026-09-13]].
+- 2026-09-14: Librarian pass — LINK: 6 new wikilinks across 6 files (resources↔areas + projects↔people bidirectionals; concepts/_index + entities/_index + sources/_index → overview). FLAG: bake warning → 51 days. See [[log]] and [[meta/maintenance/2026-09-14]].
+- 2026-09-13: Librarian pass — LINK: 3 new wikilinks across 3 files (Karpathy entity→archive; projects/_index↔ideas + resources/_index↔ideas bidirectionals). FLAG: bake warning → 50 days. See [[log]] and [[meta/maintenance/2026-09-13]].
 - 2026-09-12: Librarian pass — LINK: 4 new wikilinks across 3 files (overview→Memex; CKA→SBR + archive; log→sources). DATE FIXES: 5 files. FLAG: bake warning → 49 days. See [[log]] and [[meta/maintenance/2026-09-12]].
-- 2026-09-11: Librarian pass — LINK: 2 new wikilinks (Karpathy source → concepts/_index + entities/_index). DATE FIXES: 3 files. FLAG: bake warning → 48 days. See [[log]] and [[meta/maintenance/2026-09-11]].
 - See [[index]] for counts (1 source · 6 concepts · 7 entities · 6 domain pages). Full maintenance history in [[meta/maintenance/_index|Maintenance archive]].
 
 ## Active Threads
 - **✅ Seattle trip — complete** (Jul 21–25, 2026, returned Sat Jul 25). All 5 days done: [[Pike Place Market]] city day → Rainier (Paradise/Skyline) → Olympic (Hurricane Ridge + Lake Crescent + Sol Duc Falls + Port Angeles) → Olympic (Hoh Rainforest + Ruby Beach) → Seattle depart. See [[Seattle Trip 2026-07]] + [[Olympic National Park]] + [[Mount Rainier National Park]].
-- **🍰 Post-trip bake — pending:** Fresh Washington raspberries sourced at [[Pike Place Market]] (Jul 21). [[Raspberry Chocolate Cake]] status: `untested` as of 2026-09-13 (50 days post-return). Update the recipe page when done.
+- **🍰 Post-trip bake — pending:** Fresh Washington raspberries sourced at [[Pike Place Market]] (Jul 21). [[Raspberry Chocolate Cake]] status: `untested` as of 2026-09-14 (51 days post-return). Update the recipe page when done.
 - **Phase 4 — Retrieval** ([[qmd]]) is the next infrastructure phase (see [[Second Brain Roadmap]]), once the wiki outgrows the index (~100 sources).
 - **Phase 1.5 — Sync** (GitHub auth) is still pending; see [[Second Brain Roadmap]] → `~/brain-infra/README.md` → `activate-sync.sh`.
