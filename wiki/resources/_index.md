@@ -2,7 +2,7 @@
 type: meta
 title: "Resources — Index"
 created: 2026-06-24
-updated: 2026-09-13
+updated: 2026-09-14
 tags: [meta, index, resource]
 ---
 
