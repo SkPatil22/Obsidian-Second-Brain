@@ -8,7 +8,7 @@ tags: [meta, maintenance]
 
 # Maintenance Archive
 
-Nightly librarian pass reports — one per day. Each pass audits the vault for missing wikilinks, orphan pages, duplicates, mis-filed notes, and stale claims. Results are summarized here and logged in [[log]].
+Nightly librarian pass reports — one per day. Each pass implements the [[Ingest Query Lint|Lint]] operation — auditing the vault for missing wikilinks, orphan pages, duplicates, mis-filed notes, and stale claims. Results are summarized here and logged in [[log]].
 
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state.
 
