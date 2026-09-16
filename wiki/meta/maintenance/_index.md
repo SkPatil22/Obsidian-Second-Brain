@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state.
 
 ## 2026-09
+- [[meta/maintenance/2026-09-16]] — areas↔recipes bidirectional; index→IQL; sources→areas+projects; people→recipes; projects↔resources bidirectional; ideas→people+travel; learning→people+travel (12 links, 9 files); bake warning → 53 days
 - [[meta/maintenance/2026-09-15]] — 5 new links across 4 files: IQL→sources/_index (Ingest section); log→IQL; conventions→CKA; SBR→concepts/_index+entities/_index; maintenance _index→IQL; bake warning → 52 days
 - [[meta/maintenance/2026-09-14]] — resources↔areas bidirectional close; projects↔people bidirectional close; concepts/_index + entities/_index + sources/_index → overview (6 links); bake warning → 51 days
 - [[meta/maintenance/2026-09-13]] — Karpathy entity → maintenance archive (closes entity↔implementation-artifacts triad); projects/_index↔ideas + resources/_index↔ideas bidirectionals (3 links); bake warning → 50 days
