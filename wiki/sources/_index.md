@@ -2,7 +2,7 @@
 type: meta
 title: "Sources — Index"
 created: 2026-06-24
-updated: 2026-09-14
+updated: 2026-09-16
 tags: [meta, index, source]
 ---
 
