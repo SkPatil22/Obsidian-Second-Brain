@@ -46,7 +46,7 @@ _New top-level categories are created on demand when a clear new life domain app
 
 ## Counts
 
-_Updated on each ingest._
+_Updated on each [[Ingest Query Lint|ingest]]._
 
 - Sources: 1
 - Concepts: 6
