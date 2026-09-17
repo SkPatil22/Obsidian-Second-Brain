@@ -2,7 +2,7 @@
 type: recipe
 title: "Thin Ribeye Recipes — Healthy & Portable"
 created: 2026-06-29
-updated: 2026-08-31
+updated: 2026-09-17
 tags: [recipe, beef, meal-prep, protein, portable, steak]
 ---
 
