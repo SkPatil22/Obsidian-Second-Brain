@@ -67,3 +67,4 @@ A deep, moist from-scratch chocolate layer cake with a fresh raspberry filling a
 - [[Olympic National Park]] — visited Thu–Fri Jul 23–24; post-trip bake timing follows the full Olympic leg
 - [[Running Shoes - Flat Feet]] — footwear for the same Seattle trip (Jul 21–25); both are Tue Jul 21 Pike Place day-1 logistics items
 - [[recipes/_index|Recipes]] — all recipes and techniques in this vault
+- [[areas/_index|Areas]] — baking and social cooking serve health, lifestyle, and occasion-based life areas
