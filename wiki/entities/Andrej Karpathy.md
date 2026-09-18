@@ -20,7 +20,7 @@ Author of [[Karpathy - LLM Wiki]] — the "idea file" that defines the [[LLM Wik
 - Publishes ideas as copy-pasteable agent prompts meant to be co-developed with your LLM.
 - Positions the pattern as a successor to the [[Memex]].
 - Recommends [[Obsidian]] as the front-end ("the IDE") and [[qmd]] as the retrieval layer at scale.
-- Originated the [[Three-Layer Architecture]] (raw / wiki / schema), the [[Ingest Query Lint]] workflow, the [[Compounding Knowledge Artifact]] concept, the [[Wiki vs RAG]] distinction, and the [[Index and Log]] navigation pattern.
+- Originated the [[Three-Layer Architecture]] (raw / wiki / schema), the [[Ingest Query Lint]] workflow, the [[Compounding Knowledge Artifact]] concept, the [[Wiki vs RAG]] distinction, and the [[Index and Log]] navigation pattern — these five, plus [[LLM Wiki Pattern]] itself, form the vault's [[concepts/_index|Concepts]] catalog.
 
 ## In this vault
 This vault — see [[Second Brain Roadmap]] for the build plan, [[overview]] for current state, and [[meta/maintenance/_index|Maintenance archive]] for the daily Lint record — is Sachet's implementation of his pattern, built phase by phase on the Pi.
