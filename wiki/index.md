@@ -48,9 +48,9 @@ _New top-level categories are created on demand when a clear new life domain app
 
 _Updated on each [[Ingest Query Lint|ingest]]._
 
-- Sources: 1
-- Concepts: 6
-- Entities: 7
+- [[sources/_index|Sources]]: 1
+- [[concepts/_index|Concepts]]: 6
+- [[entities/_index|Entities]]: 7
 - Domain pages: 6 (recipes 3 · travel 1 · projects 1 · resources 1)
 
 ## Recently ingested
