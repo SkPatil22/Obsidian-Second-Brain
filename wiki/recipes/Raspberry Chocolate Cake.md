@@ -55,7 +55,7 @@ A deep, moist from-scratch chocolate layer cake with a fresh raspberry filling a
 - Make-ahead: layers freeze well wrapped; filling keeps 3 days chilled.
 - _Status: `untested` — update to `tested` with notes after first bake._
 
-> [!warning] Post-trip bake pending (as of 2026-09-18)
+> [!warning] Post-trip bake pending (as of 2026-09-20)
 > Fresh Washington raspberries were sourced at [[Pike Place Market]] during the [[Seattle Trip 2026-07]] city day (Tue Jul 21, 2026). Trip returned Sat Jul 25. The post-trip test bake was planned on return — status unknown as of 2026-09-20 (57 days post-return). Update `status: untested → tested` with notes after baking.
 
 ## See also
