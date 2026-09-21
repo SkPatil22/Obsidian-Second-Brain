@@ -20,6 +20,8 @@ The structural backbone of the [[LLM Wiki Pattern]], as framed by [[Andrej Karpa
 
 The **schema is the key file** — it's what makes the LLM a disciplined wiki maintainer rather than a generic chatbot. You and the LLM refine it over time as you learn what works for your domains.
 
+The wiki layer's catalogs — [[sources/_index|source summaries]], [[concepts/_index|extracted concepts]], and [[entities/_index|entities]] — are the concrete output of this architecture, built pass by pass through [[Ingest Query Lint|ingestion]].
+
 See [[Ingest Query Lint]] for the operations that move data between layers — each ingest adds to the [[Compounding Knowledge Artifact]] — and [[Karpathy - LLM Wiki]] for the original framing. The wiki layer also holds [[Index and Log]] — the catalog and chronological record that make the wiki navigable as it grows.
 
 ## In this vault
