@@ -73,6 +73,8 @@ The Metcon 6 wins on boxing feel (forefoot flex, lower price). The Nano X5 Edge 
 - [[Baking - Berries and Moisture]] — the baking technique page behind the raspberry cake; all four trip-prep cluster items share the Tue Jul 21 Pike Place shopping window
 - [[resources/_index|Resources]] — all resource and reference pages in this vault
 - [[areas/_index|Areas]] — health and fitness are ongoing life areas; running and training shoes serve those domains directly
+- [[travel/_index|Travel]] — these shoes are specifically trip-prep for the Seattle trip (Jul 21–25); trip gear and footwear decisions connect to the travel catalog
+- [[people/_index|People]] — gear for a group trip; travel companions share the same footwear decisions and trail logistics
 
 ## Sources
 - RunRepeat: Best Flat Feet Running Shoes 2026
