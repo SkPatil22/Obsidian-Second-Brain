@@ -43,3 +43,4 @@ Sinking = berry weight beats batter body before the crumb sets. Fixes:
 - [[Olympic National Park]] — visited Thu–Fri Jul 23–24; the post-trip bake timing follows the full Olympic leg, with Washington raspberries sourced at Pike Place two days before
 - [[recipes/_index|Recipes]] — all recipes and techniques in this vault
 - [[areas/_index|Areas]] — baking and cooking techniques serve health, diet, and lifestyle life areas
+- [[people/_index|People]] — baking for an occasion or sharing food are social acts; the people you cook for or with connect here
