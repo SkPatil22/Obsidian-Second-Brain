@@ -2,7 +2,7 @@
 type: resource
 title: "Running Shoes — Flat Feet (Under $200)"
 created: 2026-06-29
-updated: 2026-09-17
+updated: 2026-09-22
 tags: [fitness, gear, shoes, flat-feet, boxing, running]
 status: active
 ---
