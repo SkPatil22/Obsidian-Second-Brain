@@ -32,6 +32,7 @@ When a new source arrives, the LLM doesn't just index it for later ([[Wiki vs RA
 - [[Three-Layer Architecture]] — raw / wiki / schema
 - [[Ingest Query Lint]] — the operations
 - [[Index and Log]] — navigation as it scales
+- [[sources/_index|Sources]] — the catalog of every source this vault has processed through the pattern
 - [[qmd]] — optional retrieval layer for when the wiki outgrows the index
 - [[Second Brain Roadmap]] — the staged build-out of this vault, phase by phase
 - Conventions in [[meta/conventions]]
