@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-09-22
+updated: 2026-09-23
 tags: [meta, log]
 ---
 
@@ -10,6 +10,16 @@ tags: [meta, log]
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]].
+
+## [2026-09-23] librarian | Nightly maintenance pass
+
+- **LINK (3 links, 2 files):** Trip page → ideas catalog gap — `travel/Seattle Trip 2026-07` → `[[ideas/_index|Ideas]]` (travel/_index↔ideas bidirectional exists at catalog level; individual trip page linked areas, learning, people, sources, projects, recipes, resources, and entities but not ideas; trip experiences — places to revisit, new concepts, impressions — naturally feed ideas/_index; added to Life domains logistics bullet; 1 link; 1 file). Trip page → resources catalog gap — `travel/Seattle Trip 2026-07` → `[[resources/_index|Resources]]` (individual resource page Running Shoes - Flat Feet already linked from the trip; resources/_index←→travel/_index bidirectional already complete at catalog level; trip page lacked the catalog pointer alongside the individual page; added to Footwear logistics bullet; 1 link; same file). qmd → sources chain gap — `entities/qmd` → `[[sources/_index|Sources]]` (qmd retrieves from the wiki; the wiki is compiled from sources; qmd already linked [[Three-Layer Architecture]] which describes the sources layer but never pointed directly to the sources catalog; added to "Why it matters here": "The wiki it searches is built pass by pass from [[sources/_index|Sources]] — so qmd retrieves from synthesized knowledge, not raw documents"; 1 link; 1 file).
+- **FLAG — stale date bump + bake warning (2 files):** `Raspberry Chocolate Cake` and `Seattle Trip 2026-07` bake warnings bumped to "as of 2026-09-23 (60 days post-return)". Bake still `untested`.
+- **DATE FIXES (3 content + 3 meta files):** `wiki/travel/Seattle Trip 2026-07.md` 2026-09-22→2026-09-23; `wiki/entities/qmd.md` 2026-08-31→2026-09-23; `wiki/recipes/Raspberry Chocolate Cake.md` 2026-09-22→2026-09-23; `wiki/log.md` + `wiki/hot.md` + `wiki/meta/maintenance/_index.md`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-23]]
 
 ## [2026-09-22] librarian | Nightly maintenance pass
 
