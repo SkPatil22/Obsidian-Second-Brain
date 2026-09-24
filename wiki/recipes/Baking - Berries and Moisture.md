@@ -44,3 +44,4 @@ Sinking = berry weight beats batter body before the crumb sets. Fixes:
 - [[recipes/_index|Recipes]] — all recipes and techniques in this vault
 - [[areas/_index|Areas]] — baking and cooking techniques serve health, diet, and lifestyle life areas
 - [[people/_index|People]] — baking for an occasion or sharing food are social acts; the people you cook for or with connect here
+- [[travel/_index|Travel]] — the fresh-vs-frozen decision and post-trip bake timing both hinge on the Seattle trip's Pike Place city day (Tue Jul 21); trip-prep in technique form
