@@ -35,6 +35,8 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 - [[Raspberry Chocolate Cake]] — post-trip bake using fresh Washington raspberries sourced at Pike Place (Tue Jul 21, the day before this visit); bake on return from the full trip
 - [[Baking - Berries and Moisture]] — the technique page behind the post-trip raspberry cake; the fresh Washington raspberries sourced at Pike Place (day before this visit) go into the cake's filling via these techniques
 - [[areas/_index|Areas]] — hiking and outdoor fitness connect to ongoing health and wellness life areas
+- [[learning/_index|Learning]] — trail techniques, alpine navigation, and wilderness skills developed on the Paradise/Skyline Trail visit
+- [[ideas/_index|Ideas]] — return visit ideas, alternate routes (Sunrise area, offseason), and trip impressions worth filing
 - [[entities/_index|Entities]] — catalog of all entity pages; [[travel/_index|Travel]] — trip and destination catalog
 
 _Stub — visited Jul 22, 2026 (Paradise / Skyline Trail). Extend with trail notes and photos from the visit._
