@@ -69,3 +69,4 @@ A deep, moist from-scratch chocolate layer cake with a fresh raspberry filling a
 - [[recipes/_index|Recipes]] — all recipes and techniques in this vault
 - [[areas/_index|Areas]] — baking and social cooking serve health, lifestyle, and occasion-based life areas
 - [[people/_index|People]] — a cake like this is made for an occasion or shared with others; cooking is social
+- [[travel/_index|Travel]] — trip-prep recipe; source fresh Washington raspberries at [[Pike Place Market]] on the Seattle trip city day (Tue Jul 21) before the park legs
