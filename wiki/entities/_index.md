@@ -2,7 +2,7 @@
 type: meta
 title: "Entities — Index"
 created: 2026-06-24
-updated: 2026-09-20
+updated: 2026-09-25
 tags: [meta, index, entity]
 ---
 
