@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state.
 
 ## 2026-09
+- [[meta/maintenance/2026-09-25]] — entities/_index ↔ learning/_index bidirectional; maintenance archive ↔ Index and Log concept bidirectional; Obsidian → learning; Karpathy source → learning; SBR → ideas (6 links, 6 files); bake warning → 62 days
 - [[meta/maintenance/2026-09-24]] — recipe trio (Raspberry Cake + Thin Ribeye + Baking) → travel/_index; Index and Log → maintenance archive; Rainier + Olympic + Pike Place → learning/_index + ideas/_index; Pike Place → recipes/_index (11 links, 7 files); bake warning → 61 days
 - [[meta/maintenance/2026-09-23]] — Seattle Trip → ideas/_index + resources/_index; qmd → sources/_index (3 links, 2 files); bake warning → 60 days
 - [[meta/maintenance/2026-09-22]] — trip-prep cluster people-link sweep completed (Baking+Running Shoes); Running Shoes → travel/_index; Seattle Trip → learning/_index; CKA → sources/_index; Memex → concepts/_index; LLM Wiki Pattern + Wiki vs RAG → sources/_index (8 links, 7 files); bake warning → 59 days
