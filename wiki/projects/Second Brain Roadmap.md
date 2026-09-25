@@ -32,4 +32,4 @@ The staged build-out of this vault into an always-on personal knowledge + automa
 - The Claude CLI is scaffolding; converge toward zero-friction messaging capture.
 - Reliability first; autonomy earns trust in stages.
 
-_Tracked in [[projects/_index|Projects]]. Ongoing vault health archived in [[meta/maintenance/_index|Maintenance archive]]._
+_Tracked in [[projects/_index|Projects]]. Ongoing vault health archived in [[meta/maintenance/_index|Maintenance archive]]. Half-formed improvements and new feature concepts for the brain live in [[ideas/_index|Ideas]] as they develop._
