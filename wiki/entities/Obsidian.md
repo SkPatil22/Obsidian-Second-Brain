@@ -29,6 +29,8 @@ When the wiki scales past ~100 sources, [[qmd]] adds hybrid BM25+vector search o
 
 Obsidian's graph view and wikilink trails are the modern realization of what the [[Memex]] called "associative trails" — the connective tissue between documents that Bush argued was as valuable as the documents themselves.
 
+Developing Obsidian proficiency — Dataview queries, graph view navigation, Templater workflows, Marp slide generation — is an active learnable skill; track that mastery in [[learning/_index|Learning]].
+
 _← [[entities/_index|Entities]]_
 
 _Stub._
