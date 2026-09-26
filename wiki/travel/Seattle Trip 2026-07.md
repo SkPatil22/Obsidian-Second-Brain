@@ -8,7 +8,7 @@ start_date: 2026-07-21
 end_date: 2026-07-25
 source: "[[.raw/seattle-trip-research-2026-06-25.md]]"
 created: 2026-06-25
-updated: 2026-09-25
+updated: 2026-09-26
 tags: [project, trip, seattle, washington]
 ---
 
@@ -51,6 +51,7 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 - **Footwear:** cross-training shoes suit both park terrain and city walking — see [[Running Shoes - Flat Feet]] and the broader [[resources/_index|Resources]] catalog for trip gear and reference material.
 - **Meal prep:** the portable ribeye bowls in [[Thin Ribeye Recipes]] pack well for national park days (Rainier, Olympic) — high protein, 4-day shelf life, reheat in a hotel or skip reheating for the bulgogi and chimichurri variants.
 - **Post-trip bake:** source fresh Washington raspberries at Pike Place (Tue Jul 21) for the [[Raspberry Chocolate Cake]] after returning — day 1 is the natural shopping window before the produce quality drops. The fresh-vs-frozen framework in [[Baking - Berries and Moisture]] applies: market-stall raspberries → fresh filling (not frozen).
+- **Recipes:** all three trip-prep cooking pages — [[Thin Ribeye Recipes]] (park-day portable meals), [[Raspberry Chocolate Cake]] and [[Baking - Berries and Moisture]] (post-trip bake) — are in [[recipes/_index|Recipes]].
 
 ## Action items
 
@@ -58,6 +59,6 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 > All 5 days completed: Tue Jul 21 Pike Place city day → Wed Jul 22 Mount Rainier (Paradise / Skyline Trail) → Thu Jul 23 Olympic (Hurricane Ridge → Lake Crescent → Sol Duc Falls → Port Angeles overnight) → Fri Jul 24 Olympic (Hoh Rainforest → Ruby Beach → back to Seattle) → Sat Jul 25 Seattle morning + depart.
 
 > [!warning] Post-trip bake pending (as of 2026-09-25)
-> Fresh Washington raspberries were sourced at [[Pike Place Market]] (Tue Jul 21). The [[Raspberry Chocolate Cake]] post-trip bake was planned after the Jul 25 return. Status: `untested` as of 2026-09-25 (62 days post-return) — update the recipe page when the bake happens.
+> Fresh Washington raspberries were sourced at [[Pike Place Market]] (Tue Jul 21). The [[Raspberry Chocolate Cake]] post-trip bake was planned after the Jul 25 return. Status: `untested` as of 2026-09-26 (63 days post-return) — update the recipe page when the bake happens.
 
 _Pre-trip action items resolved (trip complete). ← [[travel/_index|Travel]] catalog_

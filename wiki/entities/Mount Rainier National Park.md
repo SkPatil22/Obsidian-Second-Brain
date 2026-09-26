@@ -6,7 +6,7 @@ status: stub
 location: "Washington, USA (~2.5h SE of Seattle)"
 source: "[[.raw/seattle-trip-research-2026-06-25.md]]"
 created: 2026-06-25
-updated: 2026-09-24
+updated: 2026-09-26
 tags: [entity, place, national-park, washington]
 ---
 
@@ -34,6 +34,7 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 - [[Thin Ribeye Recipes]] — portable bulgogi and chimichurri bowls pack well for park days (4-day shelf life; no reheat needed)
 - [[Raspberry Chocolate Cake]] — post-trip bake using fresh Washington raspberries sourced at Pike Place (Tue Jul 21, the day before this visit); bake on return from the full trip
 - [[Baking - Berries and Moisture]] — the technique page behind the post-trip raspberry cake; the fresh Washington raspberries sourced at Pike Place (day before this visit) go into the cake's filling via these techniques
+- [[recipes/_index|Recipes]] — all three trip-prep cooking pages (portable park-day bowls, post-trip raspberry cake, baking techniques) apply directly to this trip's park days; catalog of all recipes
 - [[areas/_index|Areas]] — hiking and outdoor fitness connect to ongoing health and wellness life areas
 - [[learning/_index|Learning]] — trail techniques, alpine navigation, and wilderness skills developed on the Paradise/Skyline Trail visit
 - [[ideas/_index|Ideas]] — return visit ideas, alternate routes (Sunrise area, offseason), and trip impressions worth filing

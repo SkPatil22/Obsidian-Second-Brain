@@ -5,7 +5,7 @@ author: "Andrej Karpathy"
 source_url: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
 raw: "[[.raw/karpathy-llm-wiki-2026-06-24.md]]"
 ingested: 2026-06-24
-updated: 2026-09-25
+updated: 2026-09-26
 status: summarized
 tags: [source, pkm, llm, foundational]
 ---
@@ -36,7 +36,7 @@ Maintenance — not reading or thinking — is the tedious part of a knowledge b
 
 ## Relevance to this vault
 
-This is the blueprint Sachet's second brain is built on. Every convention in [[meta/conventions]] traces back here. Karpathy's own usage — ingest one source at a time, stay involved, read the summaries — is the recommended default workflow. See [[Second Brain Roadmap]] for how the implementation is staged across phases, and [[overview]] for the current state of the vault. The vault's running implementation of his Lint step is archived in [[meta/maintenance/_index|Maintenance archive]]. This source produced the [[concepts/_index|6 concept pages]] and [[entities/_index|4 of the 7 entity pages]] currently in the vault. Active skill-building around the LLM Wiki methodology — PKM workflows, agent design, vault architecture — belongs in [[learning/_index|Learning]].
+This is the blueprint Sachet's second brain is built on. Every convention in [[meta/conventions]] traces back here. Karpathy's own usage — ingest one source at a time, stay involved, read the summaries — is the recommended default workflow. See [[Second Brain Roadmap]] for how the implementation is staged across phases, and [[overview]] for the current state of the vault. The vault's running implementation of his Lint step is archived in [[meta/maintenance/_index|Maintenance archive]]. This source produced the [[concepts/_index|6 concept pages]] and [[entities/_index|4 of the 7 entity pages]] currently in the vault. Active skill-building around the LLM Wiki methodology — PKM workflows, agent design, vault architecture — belongs in [[learning/_index|Learning]]. Ideas and half-formed improvements sparked by this essay — vault feature concepts, automation experiments, PKM design variations — belong in [[ideas/_index|Ideas]].
 
 ## Contradictions / open questions
 - _None flagged yet (first source)._ [[Andrej Karpathy|Karpathy]] notes the index-file approach works to ~100 sources / hundreds of pages before embedding-based search becomes worthwhile — a future decision point for this vault.

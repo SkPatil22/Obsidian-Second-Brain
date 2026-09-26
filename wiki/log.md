@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-09-25
+updated: 2026-09-26
 tags: [meta, log]
 ---
 
@@ -10,6 +10,16 @@ tags: [meta, log]
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]].
+
+## [2026-09-26] librarian | Nightly maintenance pass
+
+- **LINK (5 links, 5 files):** Park entity ↔ recipes catalog symmetry — `entities/Mount Rainier National Park` and `entities/Olympic National Park` both gain `[[recipes/_index|Recipes]]` in See also (both entities link three individual recipe pages without pointing to the catalog; Pike Place got this link in the Sep 24 pass; trip-cluster place-entity symmetry now complete for all three; 2 links; 2 files). Seattle Trip → recipes catalog — `travel/Seattle Trip 2026-07` Logistics gains a "Recipes" bullet pointing to `[[recipes/_index|Recipes]]` (trip references three individual recipe pages in meal-prep + bake bullets without pointing to the catalog; recipes is a primary food-planning dimension alongside footwear and destinations; 1 link; 1 file). Second Brain Roadmap → learning — `projects/Second Brain Roadmap` footer gains `[[learning/_index|Learning]]` (building the brain develops active skills — PKM design, Claude API patterns, Linux admin, Telegram bot deployment; the skills outcome was the last missing forward-link from the active project; 1 link; 1 file). Karpathy source → ideas — `sources/Karpathy - LLM Wiki` gains `[[ideas/_index|Ideas]]` in "Relevance to this vault" (essay sparks half-formed ideas about vault features and PKM design; learning was added Sep 25; ideas is the upstream spark layer before graduating to projects; 1 link; 1 file).
+- **FLAG — stale date bump + bake warning (2 files):** `Raspberry Chocolate Cake` and `Seattle Trip 2026-07` bake warnings bumped to "as of 2026-09-26 (63 days post-return)". Bake still `untested`.
+- **DATE FIXES (6 content + 4 meta files):** `wiki/entities/Mount Rainier National Park.md` 2026-09-24→2026-09-26; `wiki/entities/Olympic National Park.md` 2026-09-24→2026-09-26; `wiki/travel/Seattle Trip 2026-07.md` 2026-09-25→2026-09-26; `wiki/projects/Second Brain Roadmap.md` 2026-09-25→2026-09-26; `wiki/sources/Karpathy - LLM Wiki.md` 2026-09-25→2026-09-26; `wiki/recipes/Raspberry Chocolate Cake.md` 2026-09-25→2026-09-26; `wiki/log.md` + `wiki/hot.md` + `wiki/index.md` + `wiki/meta/maintenance/_index.md`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-26]]
 
 ## [2026-09-25] librarian | Nightly maintenance pass
 
