@@ -22,6 +22,8 @@ Crucially, qmd sits *on top of* the [[Compounding Knowledge Artifact]], not inst
 ## Status for this vault
 **Not needed yet.** The index-first approach covers small/medium scale. Revisit when search latency or recall degrades. A simpler home-grown search script is also a valid first step. Tracked as Phase 4 in [[Second Brain Roadmap]]. See [[overview]] for the current vault state.
 
+When Phase 4 begins, learning qmd's CLI, MCP server integration, and BM25+vector tuning parameters will be active skill-building — track that in [[learning/_index|Learning]]. qmd's capabilities (native MCP tool use, hybrid ranking, on-device search) also spark ideas about vault automation and integration beyond simple retrieval; file those in [[ideas/_index|Ideas]].
+
 _← [[entities/_index|Entities]]_
 
 _Stub — candidate for the future retrieval layer (Stage 4 of the larger plan)._
