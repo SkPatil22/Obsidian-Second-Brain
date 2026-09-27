@@ -37,6 +37,8 @@ When a new source arrives, the LLM doesn't just index it for later ([[Wiki vs RA
 - [[Second Brain Roadmap]] — the staged build-out of this vault, phase by phase
 - Conventions in [[meta/conventions]]
 - [[meta/maintenance/_index|Maintenance archive]] — the running Lint record; proof the third operation runs daily in this vault
+- [[learning/_index|Learning]] — where skill-building around the pattern (PKM workflow design, ingest loop engineering, schema co-evolution) is tracked
+- [[ideas/_index|Ideas]] — where half-formed improvements and variations on the pattern are filed before becoming projects
 
 ## Lineage
 Spiritual successor to the [[Memex]] (Vannevar Bush, 1945) — the LLM solves Bush's open problem of *who does the maintenance*.
