@@ -29,4 +29,6 @@ See [[Ingest Query Lint]] for the operations that move data between layers — e
 - **Optional search layer:** [[qmd]] — adds hybrid BM25+vector retrieval on top without changing the substrate, when the wiki outgrows the index
 - **Implementation:** [[Second Brain Roadmap]] — the staged build-out of this vault, phase by phase; [[overview]] for the current state
 
+Understanding how the three layers interact — how schema changes propagate into wiki behavior, how raw-layer immutability protects sources, how to co-evolve the schema as new domains appear — is active architectural learning; track that mastery in [[learning/_index|Learning]]. Variations and extensions (domain-specific schema rules, alternative transport configurations, multi-vault setups) are idea-worthy sparks; file those in [[ideas/_index|Ideas]].
+
 _← [[concepts/_index|Concepts]]_
