@@ -23,4 +23,6 @@ Periodic health check. Look for: contradictions between pages, stale claims newe
 
 Run lint every ~10–15 ingests. Operations are recorded in [[Index and Log]]. See [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]. The vault-specific implementation of the ingest contract (steps 1–5, manifest check, page-writing rules) lives in [[meta/conventions]]. The vault these three operations build is [[overview]]. Lint results for this vault are archived as daily structured reports in [[meta/maintenance/_index|Maintenance archive]].
 
+Developing fluency with the Ingest · Query · Lint loop — timing each ingest step, building custom lint heuristics, designing a query workflow that files discoveries back as new pages — is the core operational skill of this vault; track that mastery in [[learning/_index|Learning]]. Improvements and variations on the three operations (automated pre-ingest triage, query templates, new lint heuristics) are idea-worthy before becoming projects; file those in [[ideas/_index|Ideas]].
+
 _← [[concepts/_index|Concepts]]_
