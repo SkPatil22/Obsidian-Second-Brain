@@ -1,14 +1,14 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-09-27T00:00:00
+updated: 2026-09-28T00:00:00
 tags: [meta, hot-cache]
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-09-27. Nightly librarian pass — **18 new links across 11 files**: three clusters closed. (1) **PKM entity/concept → learning + ideas sweep** — five pages in the PKM entity/concept layer were missing `[[learning/_index|Learning]]` and/or `[[ideas/_index|Ideas]]` links: [[Andrej Karpathy]] (studying his methodology is active skill-building; his writing sparks PKM design ideas), [[Memex]] (understanding Bush's design goals deepens the LLM Wiki Pattern; concept sparks knowledge architecture ideas), [[LLM Wiki Pattern]] (practicing the pattern is active skill acquisition; pattern variations are idea-worthy sparks — added to the "Implemented here via" list), [[Obsidian]] (already has learning; new features/automation spark vault improvement ideas), and [[qmd]] (Phase 4 setup is learnable; capabilities spark automation ideas). 11 links across 5 files. (2) **Catalog bidirectional/completeness sweep** — [[entities/_index|Entities]] ↔ [[ideas/_index|Ideas]] bidirectional gap closed (entities spark half-formed ideas; both directions now present); [[concepts/_index|Concepts]] → [[learning/_index|Learning]] (studying PKM concepts is active learning; reverse already present); [[recipes/_index|Recipes]] → [[ideas/_index|Ideas]] + [[entities/_index|Entities]] (cooking experiments spark culinary sparks; ingredients/markets are entities). 5 links across 4 files. (3) **Domain catalog completeness** — [[projects/_index|Projects]] → [[sources/_index|Sources]] + [[concepts/_index|Concepts]] (sources can produce project pages; concepts spark projects); [[resources/_index|Resources]] → [[entities/_index|Entities]] + [[concepts/_index|Concepts]] (resources describe entities; resources apply concepts). 4 links across 2 files. **Bake-pending counter** climbs to 64 days.
+2026-09-28. Nightly librarian pass — **10 new links across 5 files**: concept → learning + ideas downstream sweep completed. The Sep 27 pass added `[[learning/_index|Learning]]` + `[[ideas/_index|Ideas]]` to five *entity* pages and to `[[LLM Wiki Pattern]]`. Today's pass closes the same gap across the five remaining concept pages: [[Compounding Knowledge Artifact]] (maximizing compounding dynamics is active skill-building; new compounding approaches spark ideas), [[Index and Log]] (fluency with the pattern is learnable; navigation variations spark ideas), [[Ingest Query Lint]] (IQL loop is the core operational skill; workflow improvements are idea-worthy), [[Three-Layer Architecture]] (layer interaction + schema co-evolution is architectural learning; variations spark ideas), [[Wiki vs RAG]] (understanding the spectrum is active learning; hybrid/wiki-push approaches spark ideas). **All six concept pages now link both downstream domains** — the concept layer's learning + ideas connections are fully closed. Also corrected a stale-count claim in `Index and Log` ("89+ nightly passes" → "61+" based on archive count). **Bake-pending counter** climbs to 65 days.
 
 ## Key Recent Facts
 - The **`/brain` skill** exists (`~/.claude/skills/brain/`): "research X and file it into the second brain, auto-sorted, cross-linked, no review." Works as `/brain <topic>` or natural language.
@@ -19,13 +19,13 @@ tags: [meta, hot-cache]
 - Vault on the Pi at `~/claude-obsidian`, transport `filesystem`. Standing rule: **full automation, never review, never touch Obsidian manually.** Current vault state: [[overview]].
 
 ## Recent Changes
+- 2026-09-28: Librarian pass — LINK: 10 new wikilinks across 5 files (concept → learning+ideas sweep: CKA+IaL+IQL+3LA+WvRAG each gain both downstream domain links; all 6 concepts now complete). FLAG: IaL stale count corrected (89+→61+); bake warning → 65 days. See [[log]] and [[meta/maintenance/2026-09-28]].
 - 2026-09-27: Librarian pass — LINK: 18 new wikilinks across 11 files (PKM entity/concept → learning+ideas sweep; entities/_index ↔ ideas/_index bidirectional; concepts/_index → learning; recipes/_index + resources/_index + projects/_index catalog gaps). FLAG: bake warning → 64 days. See [[log]] and [[meta/maintenance/2026-09-27]].
 - 2026-09-26: Librarian pass — LINK: 5 new wikilinks across 5 files (Rainier + Olympic → recipes/_index; Seattle Trip → recipes/_index; SBR → learning/_index; Karpathy source → ideas/_index). FLAG: bake warning → 63 days. See [[log]] and [[meta/maintenance/2026-09-26]].
-- 2026-09-25: Librarian pass — LINK: 6 new wikilinks across 6 files (entities/_index ↔ learning/_index bidirectional; maintenance archive ↔ Index and Log concept bidirectional; Obsidian → learning; Karpathy source → learning; SBR → ideas). FLAG: bake warning → 62 days. See [[log]] and [[meta/maintenance/2026-09-25]].
 - See [[index]] for counts (1 [[sources/_index|source]] · 6 [[concepts/_index|concepts]] · 7 [[entities/_index|entities]] · 6 domain pages). Full maintenance history in [[meta/maintenance/_index|Maintenance archive]].
 
 ## Active Threads
 - **✅ Seattle trip — complete** (Jul 21–25, 2026, returned Sat Jul 25). All 5 days done: [[Pike Place Market]] city day → Rainier (Paradise/Skyline) → Olympic (Hurricane Ridge + Lake Crescent + Sol Duc Falls + Port Angeles) → Olympic (Hoh Rainforest + Ruby Beach) → Seattle depart. See [[Seattle Trip 2026-07]] + [[Olympic National Park]] + [[Mount Rainier National Park]].
-- **🍰 Post-trip bake — pending:** Fresh Washington raspberries sourced at [[Pike Place Market]] (Tue Jul 21). [[Raspberry Chocolate Cake]] status: `untested` as of 2026-09-27 (64 days post-return). Update the recipe page when done.
+- **🍰 Post-trip bake — pending:** Fresh Washington raspberries sourced at [[Pike Place Market]] (Tue Jul 21). [[Raspberry Chocolate Cake]] status: `untested` as of 2026-09-28 (65 days post-return). Update the recipe page when done.
 - **Phase 4 — Retrieval** ([[qmd]]) is the next infrastructure phase (see [[Second Brain Roadmap]]), once the wiki outgrows the index (~100 sources).
 - **Phase 1.5 — Sync** (GitHub auth) is still pending; see [[Second Brain Roadmap]] → `~/brain-infra/README.md` → `activate-sync.sh`.
