@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]].
 
+## [2026-09-28] librarian | Nightly maintenance pass
+
+- **LINK (10 links, 5 files):** Concept → learning + ideas downstream sweep — five remaining concept pages each gain `[[learning/_index|Learning]]` + `[[ideas/_index|Ideas]]`: `concepts/Compounding Knowledge Artifact` (maximizing compounding dynamics is active skill-building; new compounding approaches spark ideas; 2 links; 1 file); `concepts/Index and Log` (fluency with the pattern is learnable; new navigation approaches spark ideas; 2 links; 1 file); `concepts/Ingest Query Lint` (IQL loop is the core operational skill; workflow improvements are idea-worthy; 2 links; 1 file); `concepts/Three-Layer Architecture` (layer interaction and schema co-evolution is architectural learning; variations spark ideas; 2 links; 1 file); `concepts/Wiki vs RAG` (understanding the spectrum is active learning; hybrid/wiki-push approaches spark ideas; 2 links; 1 file). All six concept pages now link both downstream domains.
+- **FLAG — stale claim corrected (1 file):** `concepts/Index and Log` "89+ nightly passes" corrected to "61+" based on archive count (June: 3, July: 23, August: 7, September: 27 = 60 as of Sep 27, 61 after today).
+- **FLAG — stale date bump + bake warning (2 files):** `Raspberry Chocolate Cake` and `Seattle Trip 2026-07` bake warnings bumped to "as of 2026-09-28 (65 days post-return)". Bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-28]]
+
 ## [2026-09-27] librarian | Nightly maintenance pass
 
 - **LINK (18 links, 11 files):** Three clusters closed. PKM entity/concept → learning + ideas sweep: `entities/Andrej Karpathy` + `entities/Memex` + `concepts/LLM Wiki Pattern` + `entities/qmd` each gain `[[learning/_index|Learning]]` + `[[ideas/_index|Ideas]]` (8 links; 4 files); `entities/Obsidian` gains `[[ideas/_index|Ideas]]` only — already has learning (1 link; 1 file). Catalog bidirectional sweep: `entities/_index` ↔ `ideas/_index` bidirectional closed (2 links; 2 files); `concepts/_index` → `[[learning/_index|Learning]]` — reverse already present (1 link; 1 file); `recipes/_index` gains `[[ideas/_index|Ideas]]` + `[[entities/_index|Entities]]` (2 links; 1 file). Domain catalog completeness: `projects/_index` gains `[[sources/_index|Sources]]` + `[[concepts/_index|Concepts]]` (2 links; 1 file); `resources/_index` gains `[[entities/_index|Entities]]` + `[[concepts/_index|Concepts]]` (2 links; 1 file).
