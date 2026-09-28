@@ -27,4 +27,6 @@ When the wiki scales past ~100 sources, [[qmd]] adds a retrieval layer on top �
 
 The concept echoes [[Memex]] (Vannevar Bush, 1945) — a private store where connections between documents are as valuable as the documents themselves. Bush's unsolved problem was who does the maintenance. [[Andrej Karpathy]] frames the LLM as the answer: the compounding artifact is the Memex, finally realizable — and [[overview|this vault]] is that artifact, growing session by session. The staged build-out is in [[Second Brain Roadmap]]; the daily health ledger in [[meta/maintenance/_index|Maintenance archive]]. The raw material that feeds the artifact — every source that has been ingested — is cataloged in [[sources/_index|Sources]].
 
+Understanding and maximizing the compounding dynamics — when to file a query answer back as a page, how to amplify cross-linking, how synthesis builds with each ingest — is active skill-building; track that mastery in [[learning/_index|Learning]]. New approaches to compounding knowledge (filing strategies, synthesis-first ingestion, automated cross-referencing) are worth exploring as sparks in [[ideas/_index|Ideas]].
+
 _← [[concepts/_index|Concepts]]_
