@@ -11,6 +11,15 @@ tags: [meta, log]
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]].
 
+## [2026-09-29] librarian | Nightly maintenance pass
+
+- **LINK (16 links, 9 files):** Four clusters. Recipe/resource cluster → learning + ideas: `Thin Ribeye Recipes`, `Baking - Berries and Moisture`, `Raspberry Chocolate Cake`, `Running Shoes - Flat Feet` — all four had no `[[learning/_index|Learning]]` or `[[ideas/_index|Ideas]]` in their See also (8 links; 4 files; Running Shoes also gains `[[entities/_index|Entities]]` for shoe brands). areas/_index ↔ knowledge layer: `areas/_index` gains `[[entities/_index|Entities]]` + `[[concepts/_index|Concepts]]`; `entities/_index` gains `[[areas/_index|Areas]]`; `concepts/_index` gains `[[areas/_index|Areas]]` (4 links; 3 files; bidirectionals now complete). LLM Wiki Pattern → output catalogs: "Implemented here via" list gains `[[concepts/_index|Concepts]]` + `[[entities/_index|Entities]]` — had sources/_index (input) but not the output catalogs each ingest produces (2 links; 1 file). ideas/_index → recipes/_index: recipe sparks are first-class idea content; ideas was the only domain index missing this pointer (1 link; 1 file).
+- **FLAG — stale date bump + bake warning (2 files):** `Raspberry Chocolate Cake` and `Seattle Trip 2026-07` bake warnings bumped to "as of 2026-09-29 (66 days post-return)". Bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-29]]
+
 ## [2026-09-28] librarian | Nightly maintenance pass
 
 - **LINK (10 links, 5 files):** Concept → learning + ideas downstream sweep — five remaining concept pages each gain `[[learning/_index|Learning]]` + `[[ideas/_index|Ideas]]`: `concepts/Compounding Knowledge Artifact` (maximizing compounding dynamics is active skill-building; new compounding approaches spark ideas; 2 links; 1 file); `concepts/Index and Log` (fluency with the pattern is learnable; new navigation approaches spark ideas; 2 links; 1 file); `concepts/Ingest Query Lint` (IQL loop is the core operational skill; workflow improvements are idea-worthy; 2 links; 1 file); `concepts/Three-Layer Architecture` (layer interaction and schema co-evolution is architectural learning; variations spark ideas; 2 links; 1 file); `concepts/Wiki vs RAG` (understanding the spectrum is active learning; hybrid/wiki-push approaches spark ideas; 2 links; 1 file). All six concept pages now link both downstream domains.
