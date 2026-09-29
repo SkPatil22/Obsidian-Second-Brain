@@ -45,3 +45,5 @@ Sinking = berry weight beats batter body before the crumb sets. Fixes:
 - [[areas/_index|Areas]] — baking and cooking techniques serve health, diet, and lifestyle life areas
 - [[people/_index|People]] — baking for an occasion or sharing food are social acts; the people you cook for or with connect here
 - [[travel/_index|Travel]] — the fresh-vs-frozen decision and post-trip bake timing both hinge on the Seattle trip's Pike Place city day (Tue Jul 21); trip-prep in technique form
+- [[learning/_index|Learning]] — baking science (fat chemistry, leavening chemistry, ganache physics) and technique mastery (drip control, berry suspension, layer assembly) are actively learnable skills; track that depth here
+- [[ideas/_index|Ideas]] — new flavor combinations, cross-technique experiments (e.g. fresh-herb ganache, regional berry substitutions), and baking system improvements are worth filing as sparks before becoming formal recipes
