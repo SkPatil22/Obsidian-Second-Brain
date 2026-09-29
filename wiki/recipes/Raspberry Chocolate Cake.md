@@ -70,3 +70,5 @@ A deep, moist from-scratch chocolate layer cake with a fresh raspberry filling a
 - [[areas/_index|Areas]] — baking and social cooking serve health, lifestyle, and occasion-based life areas
 - [[people/_index|People]] — a cake like this is made for an occasion or shared with others; cooking is social
 - [[travel/_index|Travel]] — trip-prep recipe; source fresh Washington raspberries at [[Pike Place Market]] on the Seattle trip city day (Tue Jul 21) before the park legs
+- [[learning/_index|Learning]] — layer cake assembly, ganache temperature control, and fresh-berry technique mastery are actively learnable skills; track baking depth here
+- [[ideas/_index|Ideas]] — flavor variation sparks (citrus curd filling, alternative berry combinations, seasonal riffs on the ganache drip) belong here before becoming formal recipes
