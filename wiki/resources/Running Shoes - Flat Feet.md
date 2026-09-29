@@ -75,6 +75,9 @@ The Metcon 6 wins on boxing feel (forefoot flex, lower price). The Nano X5 Edge 
 - [[areas/_index|Areas]] — health and fitness are ongoing life areas; running and training shoes serve those domains directly
 - [[travel/_index|Travel]] — these shoes are specifically trip-prep for the Seattle trip (Jul 21–25); trip gear and footwear decisions connect to the travel catalog
 - [[people/_index|People]] — gear for a group trip; travel companions share the same footwear decisions and trail logistics
+- [[learning/_index|Learning]] — running form, flat-foot biomechanics, boxing footwork, and cross-training technique are actively learnable skills; track that mastery here
+- [[ideas/_index|Ideas]] — training program design, alternative gear concepts, and fitness system ideas sparked by this research belong here before becoming projects
+- [[entities/_index|Entities]] — shoe brands (Nike, Reebok, NOBULL, Brooks, Saucony, New Balance) are entities; the vault's entity catalog is the home for brand/product pages if added
 
 ## Sources
 - RunRepeat: Best Flat Feet Running Shoes 2026
