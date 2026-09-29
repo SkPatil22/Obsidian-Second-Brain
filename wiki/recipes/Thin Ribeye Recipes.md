@@ -102,3 +102,5 @@ Nutrition baseline (6 oz ribeye, no sauce): ~400 cal · 42g protein · 24g fat �
 - [[areas/_index|Areas]] — healthy meal prep and diet are ongoing life areas; these portable bowls serve health and fitness goals directly
 - [[people/_index|People]] — meal prep for trips is often made for or with travel companions; these bowls pack well for groups
 - [[travel/_index|Travel]] — designed as trip-prep for the Seattle trip (Jul 21–25); ideal packing food for [[Mount Rainier National Park|Rainier]] and [[Olympic National Park|Olympic]] days when restaurant access is nil
+- [[learning/_index|Learning]] — cooking skills behind these recipes (searing technique, resting meat, marinade chemistry, knife work, meal-prep logistics) are actively learnable; track mastery here
+- [[ideas/_index|Ideas]] — recipe variations, new protein/sauce combinations, and meal-prep system improvements are idea-worthy sparks before becoming formal recipes
