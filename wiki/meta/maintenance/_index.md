@@ -2,7 +2,7 @@
 type: meta
 title: "Maintenance — Archive"
 created: 2026-06-28
-updated: 2026-09-29
+updated: 2026-09-30
 tags: [meta, maintenance]
 ---
 
@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state.
 
 ## 2026-09
+- [[meta/maintenance/2026-09-30]] — domain index → concepts/_index triangle complete: recipes/_index + travel/_index + people/_index each gain concepts link; concepts/_index ↔ {recipes, travel, people} bidirectionals closed (6 links, 4 files); bake warning → 67 days; callout header date inconsistency fixed
 - [[meta/maintenance/2026-09-29]] — recipe/resource cluster → {learning, ideas} (Thin Ribeye + Baking + Raspberry Cake + Running Shoes); areas/_index ↔ {entities, concepts} bidirectionals; LLM Wiki Pattern → output catalogs (concepts/_index + entities/_index); ideas/_index → recipes/_index (16 links, 9 files); bake warning → 66 days
 - [[meta/maintenance/2026-09-28]] — concept → learning+ideas sweep complete (CKA+IaL+IQL+3LA+WvRAG each gain both downstream domain links; all 6 concept pages now fully linked); stale-count flag in IaL (89+→61+); bake warning → 65 days (10 links, 5 files)
 - [[meta/maintenance/2026-09-27]] — PKM entity/concept → learning+ideas sweep (Karpathy+Memex+LLMWiki+Obsidian+qmd); entities/_index ↔ ideas/_index bidirectional; concepts/_index → learning; recipes/_index + resources/_index + projects/_index catalog gaps (18 links, 11 files); bake warning → 64 days

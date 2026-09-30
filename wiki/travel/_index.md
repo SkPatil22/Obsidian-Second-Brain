@@ -2,7 +2,7 @@
 type: meta
 title: "Travel — Index"
 created: 2026-06-28
-updated: 2026-09-17
+updated: 2026-09-30
 tags: [meta, index, travel]
 ---
 
@@ -18,4 +18,4 @@ Trips and travel planning — itineraries, logistics, and recs. Each trip is a n
 - [[Olympic National Park]] — WA Olympic Peninsula (national park, Thu–Fri Jul 23–24)
 - [[Pike Place Market]] — downtown Seattle landmark market (Tue Jul 21 city day)
 
-_Trip food prep (portable meals, post-trip bakes) lives in [[recipes/_index|Recipes]]. Trip gear and reference material (footwear, passes) lives in [[resources/_index|Resources]]. Trips that are still being planned may also have roots in [[projects/_index|Projects]] (travel was carved out of projects as its own domain). Trip-specific contacts (travel companions, local guides, restaurant reservations) accrete into [[people/_index|People]]. Trip itineraries produced via `/brain` research originate in [[sources/_index|Sources]] — [[Seattle Trip 2026-07]] came from a `/brain` pass that also seeded [[entities/_index|entity]] pages. Travel experiences connect to ongoing life domains — health decisions, routines, and lifestyle reflections from trips belong in [[areas/_index|Areas]]. New discoveries from trips worth developing into ongoing skills belong in [[learning/_index|Learning]]. Half-formed sparks triggered by travel — places, ideas, impressions — belong in [[ideas/_index|Ideas]]._
+_Trip food prep (portable meals, post-trip bakes) lives in [[recipes/_index|Recipes]]. Trip gear and reference material (footwear, passes) lives in [[resources/_index|Resources]]. Trips that are still being planned may also have roots in [[projects/_index|Projects]] (travel was carved out of projects as its own domain). Trip-specific contacts (travel companions, local guides, restaurant reservations) accrete into [[people/_index|People]]. Trip itineraries produced via `/brain` research originate in [[sources/_index|Sources]] — [[Seattle Trip 2026-07]] came from a `/brain` pass that also seeded [[entities/_index|entity]] pages. Travel experiences connect to ongoing life domains — health decisions, routines, and lifestyle reflections from trips belong in [[areas/_index|Areas]]. New discoveries from trips worth developing into ongoing skills belong in [[learning/_index|Learning]]. Half-formed sparks triggered by travel — places, ideas, impressions — belong in [[ideas/_index|Ideas]]. Travel research and expedition planning can also surface conceptual frameworks — regional ecology, wilderness navigation patterns, cultural systems — worth extracting to [[concepts/_index|Concepts]]._

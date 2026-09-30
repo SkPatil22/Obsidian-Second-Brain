@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-09-29
+updated: 2026-09-30
 tags: [meta, log]
 ---
 
@@ -10,6 +10,15 @@ tags: [meta, log]
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]].
+
+## [2026-09-30] librarian | Nightly maintenance pass
+
+- **LINK (6 links, 4 files):** Domain index → concepts/_index triangle completed. (1) `recipes/_index` → `[[concepts/_index|Concepts]]`: culinary sources can surface cooking-science concepts (moisture chemistry, flavor pairing, fermentation) worth extracting; recipes was one of three domain indexes missing the concepts link (1 link; 1 file). (2) `travel/_index` → `[[concepts/_index|Concepts]]`: travel research produces ecological and navigational frameworks worth extracting; travel was one of three domain indexes missing the concepts link (1 link; 1 file). (3) `people/_index` → `[[concepts/_index|Concepts]]`: mentors and relationships introduce frameworks and mental models worth extracting as concept pages; people was the last domain index missing the concepts link (1 link; 1 file). (4) `concepts/_index` → `[[recipes/_index|Recipes]]` + `[[travel/_index|Travel]]` + `[[people/_index|People]]`: bidirectional closures completing the concepts ↔ {recipes, travel, people} triangles (3 links; 1 file).
+- **FLAG — stale date bump + bake warning (2 files):** `Raspberry Chocolate Cake` and `Seattle Trip 2026-07` bake warnings bumped to "as of 2026-09-30 (67 days post-return)". Callout header date inconsistency fixed (header stuck at "2026-09-25"; now matches body). Bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-09-30]]
 
 ## [2026-09-29] librarian | Nightly maintenance pass
 
