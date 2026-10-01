@@ -38,6 +38,6 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 - [[areas/_index|Areas]] — hiking and outdoor fitness connect to ongoing health and wellness life areas
 - [[learning/_index|Learning]] — trail techniques, alpine navigation, and wilderness skills developed on the Paradise/Skyline Trail visit
 - [[ideas/_index|Ideas]] — return visit ideas, alternate routes (Sunrise area, offseason), and trip impressions worth filing
-- [[entities/_index|Entities]] — catalog of all entity pages; [[travel/_index|Travel]] — trip and destination catalog
+- [[entities/_index|Entities]] — catalog of all entity pages; [[travel/_index|Travel]] — trip and destination catalog; [[resources/_index|Resources]] — broader gear and reference catalog ([[Running Shoes - Flat Feet]] is part of this collection)
 
 _Stub — visited Jul 22, 2026 (Paradise / Skyline Trail). Extend with trail notes and photos from the visit._
