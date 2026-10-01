@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-09-30
+updated: 2026-10-01
 tags: [meta, log]
 ---
 
@@ -10,6 +10,15 @@ tags: [meta, log]
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]].
+
+## [2026-10-01] librarian | Nightly maintenance pass
+
+- **LINK (11 links, 9 files):** Three clusters. (1) recipes/_index ↔ resources/_index bidirectional — the two catalogs had never been linked despite being natural neighbors (cooking tools/kitchen equipment/ingredient guides are classic resource pages); adds a pointer in each direction (2 links; 2 files). (2) Knowledge-layer catalog completeness — `concepts/_index` → `[[projects/_index|Projects]]` (concepts graduate to projects when they earn a finish line; the concept → ideas → projects chain was implicit; direct link closes the concept-to-project shortcut; 1 link; 1 file); `projects/_index` → `[[entities/_index|Entities]]` (projects involve specific entities — SBR uses Obsidian and qmd; entities/_index was missing from the projects footer; 1 link; 1 file); `sources/_index` → `[[people/_index|People]]` (the domain-pages-produced-by-ingest list named recipes/travel/resources/areas/projects but omitted people; a source can produce a person page; 1 link; 1 file). (3) Park/market entities → resources catalog — `Mount Rainier NP`, `Olympic NP`, and `Pike Place Market` all link the specific [[Running Shoes - Flat Feet]] resource page but not `[[resources/_index|Resources]]` as a catalog; individual page + catalog serve different navigation purposes; 3 links; 3 files. Bonus: `Pike Place Market` → `[[people/_index|People]]` — restaurant reservations (Kashiba, Pink Door) and dining companions are exactly the content people/_index holds; 1 link; same file.
+- **FLAG — stale date bump + bake warning (2 files):** `Raspberry Chocolate Cake` and `Seattle Trip 2026-07` bake warnings bumped to "as of 2026-10-01 (68 days post-return)". Bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-10-01]]
 
 ## [2026-09-30] librarian | Nightly maintenance pass
 
