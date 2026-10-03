@@ -5,7 +5,7 @@ status: active
 area: growth
 priority: 1
 created: 2026-06-24
-updated: 2026-10-02
+updated: 2026-10-03
 tags: [project, meta, infrastructure]
 ---
 
