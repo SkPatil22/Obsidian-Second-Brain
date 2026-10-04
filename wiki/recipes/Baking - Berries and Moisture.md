@@ -4,7 +4,7 @@ title: "Baking — Berries & Moisture"
 status: active
 source: "[[.raw/raspberry-chocolate-cake-research-2026-06-25.md]]"
 created: 2026-06-25
-updated: 2026-10-02
+updated: 2026-10-04
 tags: [recipe, baking, technique]
 ---
 
@@ -47,3 +47,4 @@ Sinking = berry weight beats batter body before the crumb sets. Fixes:
 - [[travel/_index|Travel]] — the fresh-vs-frozen decision and post-trip bake timing both hinge on the Seattle trip's Pike Place city day (Tue Jul 21); trip-prep in technique form
 - [[learning/_index|Learning]] — baking science (fat chemistry, leavening chemistry, ganache physics) and technique mastery (drip control, berry suspension, layer assembly) are actively learnable skills; track that depth here
 - [[ideas/_index|Ideas]] — new flavor combinations, cross-technique experiments (e.g. fresh-herb ganache, regional berry substitutions), and baking system improvements are worth filing as sparks before becoming formal recipes
+- [[entities/_index|Entities]] — the specific place entities linked above (Pike Place Market, Mount Rainier NP, Olympic NP) are cataloged there; browse the full entity catalog for connections across the vault

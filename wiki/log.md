@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-10-03
+updated: 2026-10-04
 tags: [meta, log]
 ---
 
@@ -10,6 +10,16 @@ tags: [meta, log]
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]].
+
+## [2026-10-04] librarian | Nightly maintenance pass
+
+- **LINK (5 links, 5 files):** One cluster — trip-prep cluster → entities catalog. (1) `Raspberry Chocolate Cake` → `[[entities/_index|Entities]]` (page links three specific place entity pages — Rainier, Olympic, Pike Place — but not the catalog; Running Shoes got this link on 2026-09-29 for brand entities; completing the four-page trip-prep cluster symmetry; 1 link; 1 file). (2) `Thin Ribeye Recipes` → `[[entities/_index|Entities]]` (same gap; links all three destination entities but not the catalog; 1 link; 1 file). (3) `Baking - Berries and Moisture` → `[[entities/_index|Entities]]` (same gap; links Rainier, Olympic, Pike Place individually but not the catalog; 1 link; 1 file). (4) `Seattle Trip 2026-07` footer → `[[entities/_index|Entities]]` (trip page links all three destination entity pages in body; every other domain catalog is present in logistics — people, areas, learning, ideas, concepts, resources, recipes — entities catalog was the last gap; added to footer alongside travel catalog pointer; 1 link; 1 file).
+- **FLAG — stale count corrected (1 file):** `concepts/Index and Log` "61+ nightly passes" → "66+" (count last corrected 2026-09-28; five more passes have since run: Sep 29, Sep 30, Oct 01, Oct 03, today Oct 04).
+- **FLAG — stale date bump + bake warning (2 files):** `Raspberry Chocolate Cake` and `Seattle Trip 2026-07` bake warnings bumped to "as of 2026-10-04 (71 days post-return)". Bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-10-04]]
 
 ## [2026-10-03] librarian | Nightly maintenance pass
 

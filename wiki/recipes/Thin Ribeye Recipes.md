@@ -2,7 +2,7 @@
 type: recipe
 title: "Thin Ribeye Recipes — Healthy & Portable"
 created: 2026-06-29
-updated: 2026-10-02
+updated: 2026-10-04
 tags: [recipe, beef, meal-prep, protein, portable, steak]
 ---
 
@@ -104,3 +104,4 @@ Nutrition baseline (6 oz ribeye, no sauce): ~400 cal · 42g protein · 24g fat �
 - [[travel/_index|Travel]] — designed as trip-prep for the Seattle trip (Jul 21–25); ideal packing food for [[Mount Rainier National Park|Rainier]] and [[Olympic National Park|Olympic]] days when restaurant access is nil
 - [[learning/_index|Learning]] — cooking skills behind these recipes (searing technique, resting meat, marinade chemistry, knife work, meal-prep logistics) are actively learnable; track mastery here
 - [[ideas/_index|Ideas]] — recipe variations, new protein/sauce combinations, and meal-prep system improvements are idea-worthy sparks before becoming formal recipes
+- [[entities/_index|Entities]] — the place entities linked above (Pike Place Market, Rainier, Olympic) are cataloged there; browse the full entity catalog for connections across the vault
