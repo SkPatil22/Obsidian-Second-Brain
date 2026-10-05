@@ -42,6 +42,7 @@ Three ecosystems in one park on the Olympic Peninsula NW of Seattle: **alpine mo
 - [[areas/_index|Areas]] — multi-day wilderness hiking and outdoor fitness connect to ongoing health and wellness life areas
 - [[learning/_index|Learning]] — rainforest ecology, coastal navigation, and wilderness trail skills from the Hall of Mosses and Ruby Beach visit
 - [[ideas/_index|Ideas]] — return visit ideas, deeper explorations (Enchanted Valley, Sol Duc hot springs), and trip impressions worth filing
+- [[concepts/_index|Concepts]] — rainforest ecology, coastal intertidal biology, and wilderness-navigation frameworks from the park's three ecosystems (alpine, temperate rainforest, wild coast) are worth extracting to the concepts catalog when a relevant source is ingested; [[travel/_index|Travel]] already routes this direction at the catalog level
 - [[entities/_index|Entities]] — catalog of all entity pages; [[travel/_index|Travel]] — trip and destination catalog; [[resources/_index|Resources]] — broader gear and reference catalog ([[Running Shoes - Flat Feet]] is part of this collection); [[people/_index|People]] — travel companions and overnight trip contacts for the 2-day Olympic leg connect here
 
 _Stub — visited Jul 23–24, 2026: Hurricane Ridge → Lake Crescent → Sol Duc Falls → Port Angeles overnight (Thu) → Hoh Rainforest → Ruby Beach (Fri). Extend with trail notes._
