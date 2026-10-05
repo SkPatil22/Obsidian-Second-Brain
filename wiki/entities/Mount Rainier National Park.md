@@ -38,6 +38,7 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 - [[areas/_index|Areas]] — hiking and outdoor fitness connect to ongoing health and wellness life areas
 - [[learning/_index|Learning]] — trail techniques, alpine navigation, and wilderness skills developed on the Paradise/Skyline Trail visit
 - [[ideas/_index|Ideas]] — return visit ideas, alternate routes (Sunrise area, offseason), and trip impressions worth filing
+- [[concepts/_index|Concepts]] — alpine ecology, wildflower phenology, volcanic geology, and wilderness-navigation frameworks encountered on park visits are worth extracting to the concepts catalog when a relevant source is ingested; [[travel/_index|Travel]] and [[Seattle Trip 2026-07]] already route this direction at catalog/trip level
 - [[entities/_index|Entities]] — catalog of all entity pages; [[travel/_index|Travel]] — trip and destination catalog; [[resources/_index|Resources]] — broader gear and reference catalog ([[Running Shoes - Flat Feet]] is part of this collection); [[people/_index|People]] — travel companions and trip contacts for the Rainier day trip connect here
 
 _Stub — visited Jul 22, 2026 (Paradise / Skyline Trail). Extend with trail notes and photos from the visit._
