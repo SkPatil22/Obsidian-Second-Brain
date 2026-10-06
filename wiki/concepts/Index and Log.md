@@ -4,7 +4,7 @@ title: "Index and Log"
 status: synthesized
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-10-05
+updated: 2026-10-06
 tags: [concept, pkm, navigation]
 ---
 
