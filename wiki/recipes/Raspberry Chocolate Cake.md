@@ -73,3 +73,4 @@ A deep, moist from-scratch chocolate layer cake with a fresh raspberry filling a
 - [[learning/_index|Learning]] — layer cake assembly, ganache temperature control, and fresh-berry technique mastery are actively learnable skills; track baking depth here
 - [[ideas/_index|Ideas]] — flavor variation sparks (citrus curd filling, alternative berry combinations, seasonal riffs on the ganache drip) belong here before becoming formal recipes
 - [[entities/_index|Entities]] — the specific place entities linked above (Pike Place Market, Mount Rainier NP, Olympic NP) are cataloged there; browse the full entity catalog for connections across the vault
+- [[concepts/_index|Concepts]] — cooking-science concepts (moisture chemistry, fat chemistry, berry-suspension physics, ganache temperature dynamics) surface naturally from baking research; the vault's concept catalog is where culinary frameworks worth extracting are filed when a relevant source is ingested
