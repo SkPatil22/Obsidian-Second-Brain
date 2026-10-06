@@ -23,7 +23,7 @@ Append-only record of what happened and when (ingests, queries, lints). Tip: con
 ```
 → `grep "^## \[" log.md | tail -5` gives the last 5 operations. → [[log]]
 
-Together they substitute for search infrastructure at small/medium scale; a dedicated engine ([[qmd]]) is added only when the wiki outgrows them. The vault they navigate is [[overview]]. See [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]. The rules governing how both files are updated on each ingest — format, required fields, commit message — live in [[meta/conventions]]. The daily running Lint record — the concrete implementation of the log.md concept across 67+ nightly passes — is archived in [[meta/maintenance/_index|Maintenance archive]].
+Together they substitute for search infrastructure at small/medium scale; a dedicated engine ([[qmd]]) is added only when the wiki outgrows them. The vault they navigate is [[overview]]. See [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]. The rules governing how both files are updated on each ingest — format, required fields, commit message — live in [[meta/conventions]]. The daily running Lint record — the concrete implementation of the log.md concept across 68+ nightly passes — is archived in [[meta/maintenance/_index|Maintenance archive]].
 
 Developing fluency with the Index and Log pattern — building clean indexes, maintaining grep-able log formats, extending with Dataview queries as the vault grows — is an active learnable skill; track that mastery in [[learning/_index|Learning]]. New navigation approaches and catalog variations (progressive disclosure, graph-backed index, filter layers) are idea-worthy sparks; file those in [[ideas/_index|Ideas]].
 
