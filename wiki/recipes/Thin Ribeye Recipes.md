@@ -105,3 +105,4 @@ Nutrition baseline (6 oz ribeye, no sauce): ~400 cal · 42g protein · 24g fat �
 - [[learning/_index|Learning]] — cooking skills behind these recipes (searing technique, resting meat, marinade chemistry, knife work, meal-prep logistics) are actively learnable; track mastery here
 - [[ideas/_index|Ideas]] — recipe variations, new protein/sauce combinations, and meal-prep system improvements are idea-worthy sparks before becoming formal recipes
 - [[entities/_index|Entities]] — the place entities linked above (Pike Place Market, Rainier, Olympic) are cataloged there; browse the full entity catalog for connections across the vault
+- [[concepts/_index|Concepts]] — meal-prep science concepts (fat rendering, protein chemistry, acid-based sauce stability in transit, resting-meat physics) and technique frameworks surfaced by this research are concept-worthy; file those in the vault's concept catalog when a relevant culinary or food-science source is ingested
