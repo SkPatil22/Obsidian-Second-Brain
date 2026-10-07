@@ -31,6 +31,6 @@ Obsidian's graph view and wikilink trails are the modern realization of what the
 
 Developing Obsidian proficiency — Dataview queries, graph view navigation, Templater workflows, Marp slide generation — is an active learnable skill; track that mastery in [[learning/_index|Learning]]. Discovering new features and automation opportunities — canvas, plugin workflows, Dataview report templates — also sparks vault improvement ideas; file those in [[ideas/_index|Ideas]]. Obsidian setup guides, plugin configurations, and workflow documentation belong in [[resources/_index|Resources]] alongside other tool reference material.
 
-_← [[entities/_index|Entities]]_
+_← [[entities/_index|Entities]] · [[sources/_index|Sources]] — introduced via [[Karpathy - LLM Wiki]]_
 
 _Stub._
