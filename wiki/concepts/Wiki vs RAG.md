@@ -29,7 +29,7 @@ The core distinction that motivates the [[LLM Wiki Pattern]].
 
 The wiki-compile-once approach has historical precedent in the [[Memex]] (Vannevar Bush, 1945) — squarely on the wiki side of this spectrum; see [[LLM Wiki Pattern]] for the lineage.
 
-See [[Karpathy - LLM Wiki]]. The sources that feed the wiki side of this spectrum are cataloged in [[sources/_index|Sources]].
+See [[Karpathy - LLM Wiki]]. The sources that feed the wiki side of this spectrum are cataloged in [[sources/_index|Sources]]; the distilled outputs each ingest compiles — extracted concepts and [[entities/_index|entities]] — are the other half of the wiki side.
 
 Understanding your position on the wiki–RAG spectrum — making intentional design choices about where knowledge gets compiled vs. re-derived — is active architectural learning; track that mastery in [[learning/_index|Learning]]. Approaches that combine wiki and RAG benefits, or techniques that push the design further toward the wiki end (query-answer filing, synthesis-first ingestion), are worth developing as sparks in [[ideas/_index|Ideas]].
 
