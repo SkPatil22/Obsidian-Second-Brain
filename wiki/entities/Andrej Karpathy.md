@@ -25,7 +25,7 @@ Author of [[Karpathy - LLM Wiki]] — the "idea file" that defines the [[LLM Wik
 ## In this vault
 This vault — see [[Second Brain Roadmap]] for the build plan, [[overview]] for current state, and [[meta/maintenance/_index|Maintenance archive]] for the daily Lint record — is Sachet's implementation of his pattern, built phase by phase on the Pi. His foundational essay is the vault's only entry in [[sources/_index|Sources]] (as of this writing).
 
-Studying his methodology — learning to apply the [[LLM Wiki Pattern]], iterating on the ingest loop, and co-evolving the schema — is active skill-building; track that mastery in [[learning/_index|Learning]]. His writing also routinely sparks half-formed ideas about vault features, PKM design variations, and automation; file those in [[ideas/_index|Ideas]].
+Studying his methodology — learning to apply the [[LLM Wiki Pattern]], iterating on the ingest loop, and co-evolving the schema — is active skill-building; track that mastery in [[learning/_index|Learning]]. His writing also routinely sparks half-formed ideas about vault features, PKM design variations, and automation; file those in [[ideas/_index|Ideas]]. His foundational essay directly spawned the main active project in this vault — see [[projects/_index|Projects]].
 
 _← [[entities/_index|Entities]]_
 
