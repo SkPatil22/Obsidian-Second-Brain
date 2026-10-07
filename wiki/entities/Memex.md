@@ -18,7 +18,7 @@ Vannevar Bush's 1945 vision (from "As We May Think") of a personal, curated know
 
 The modern implementation: [[Obsidian]] for the browsing layer, Claude for the maintenance — realizing Bush's vision with contemporary tooling, organized by the [[Three-Layer Architecture]] (raw sources → wiki layer → schema). The associative trails are navigated via [[Index and Log]] — the catalog and chronological record that make them findable as the wiki grows. See [[Second Brain Roadmap]] for how this vault builds out that realization, phase by phase, and [[overview]] for where it stands today.
 
-Understanding Bush's original design goals — associative trails, the distinction from linear/hierarchical organization, and why the maintenance problem blocked the vision for 80 years — deepens your grasp of the modern implementation; track that background in [[learning/_index|Learning]]. The Memex concept also continues to spark ideas about knowledge architecture and navigation; file those in [[ideas/_index|Ideas]].
+Understanding Bush's original design goals — associative trails, the distinction from linear/hierarchical organization, and why the maintenance problem blocked the vision for 80 years — deepens your grasp of the modern implementation; track that background in [[learning/_index|Learning]]. The Memex concept also continues to spark ideas about knowledge architecture and navigation; file those in [[ideas/_index|Ideas]]. The source that introduced the Memex to this vault is archived in [[sources/_index|Sources]].
 
 _← [[entities/_index|Entities]] · [[concepts/_index|Concepts]] — the six PKM concepts in this vault are the modern realization of the ideas Bush sketched here_
 
