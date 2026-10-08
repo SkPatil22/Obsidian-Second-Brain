@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state.
 
 ## 2026-10
+- [[meta/maintenance/2026-10-08]] — concept pages (all 6) + PKM entities (qmd+Obsidian+Memex) → projects/_index; conventions → Andrej Karpathy entity (10 links, 10 files); Index and Log 69+→70+; bake warning → 75 days
 - [[meta/maintenance/2026-10-07]] — PKM knowledge-layer catalog completeness sweep: CKA+WvRAG → entities/_index; Index and Log body text "entities,concepts,sources" → wikilinks; Karpathy source+Andrej Karpathy → projects/_index; Memex+Obsidian → sources/_index (9 links, 7 files); Index and Log 68+→69+; bake warning → 74 days
 - [[meta/maintenance/2026-10-06]] — trip-prep recipe/resource cluster (Raspberry Cake+Thin Ribeye+Baking+Running Shoes) + Second Brain Roadmap → concepts/_index (5 links, 5 files; completes trip-prep cluster concepts direction after entity pages got it 2026-10-05); Index and Log 67+→68+; bake warning → 73 days
 - [[meta/maintenance/2026-10-05]] — WA destination entities (Rainier+Olympic+Pike Place) → concepts/_index (3 links, 3 files); overview Status stale content fixed (media parsing + /brain skill now noted); Index and Log 66+→67+; bake warning → 72 days
