@@ -27,4 +27,4 @@ Together they substitute for search infrastructure at small/medium scale; a dedi
 
 Developing fluency with the Index and Log pattern — building clean indexes, maintaining grep-able log formats, extending with Dataview queries as the vault grows — is an active learnable skill; track that mastery in [[learning/_index|Learning]]. New navigation approaches and catalog variations (progressive disclosure, graph-backed index, filter layers) are idea-worthy sparks; file those in [[ideas/_index|Ideas]].
 
-_← [[concepts/_index|Concepts]]_
+_← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation_
