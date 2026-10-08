@@ -2,7 +2,7 @@
 type: meta
 title: "Conventions"
 created: 2026-06-24
-updated: 2026-09-15
+updated: 2026-10-08
 tags: [meta, conventions]
 ---
 
