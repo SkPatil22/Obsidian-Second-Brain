@@ -33,4 +33,4 @@ See [[Karpathy - LLM Wiki]]. The sources that feed the wiki side of this spectru
 
 Understanding your position on the wiki–RAG spectrum — making intentional design choices about where knowledge gets compiled vs. re-derived — is active architectural learning; track that mastery in [[learning/_index|Learning]]. Approaches that combine wiki and RAG benefits, or techniques that push the design further toward the wiki end (query-answer filing, synthesis-first ingestion), are worth developing as sparks in [[ideas/_index|Ideas]].
 
-_← [[concepts/_index|Concepts]]_
+_← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation_
