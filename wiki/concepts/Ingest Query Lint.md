@@ -25,4 +25,4 @@ Run lint every ~10–15 ingests. Operations are recorded in [[Index and Log]]. S
 
 Developing fluency with the Ingest · Query · Lint loop — timing each ingest step, building custom lint heuristics, designing a query workflow that files discoveries back as new pages — is the core operational skill of this vault; track that mastery in [[learning/_index|Learning]]. Improvements and variations on the three operations (automated pre-ingest triage, query templates, new lint heuristics) are idea-worthy before becoming projects; file those in [[ideas/_index|Ideas]].
 
-_← [[concepts/_index|Concepts]]_
+_← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation_
