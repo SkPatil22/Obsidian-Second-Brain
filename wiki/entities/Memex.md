@@ -20,6 +20,6 @@ The modern implementation: [[Obsidian]] for the browsing layer, Claude for the m
 
 Understanding Bush's original design goals — associative trails, the distinction from linear/hierarchical organization, and why the maintenance problem blocked the vision for 80 years — deepens your grasp of the modern implementation; track that background in [[learning/_index|Learning]]. The Memex concept also continues to spark ideas about knowledge architecture and navigation; file those in [[ideas/_index|Ideas]]. The source that introduced the Memex to this vault is archived in [[sources/_index|Sources]].
 
-_← [[entities/_index|Entities]] · [[concepts/_index|Concepts]] — the six PKM concepts in this vault are the modern realization of the ideas Bush sketched here_
+_← [[entities/_index|Entities]] · [[concepts/_index|Concepts]] · [[projects/_index|Projects]] — the vault building out Bush's vision is the main active project_
 
 _Stub._
