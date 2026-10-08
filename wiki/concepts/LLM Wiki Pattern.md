@@ -45,4 +45,4 @@ When a new source arrives, the LLM doesn't just index it for later ([[Wiki vs RA
 ## Lineage
 Spiritual successor to the [[Memex]] (Vannevar Bush, 1945) — the LLM solves Bush's open problem of *who does the maintenance*.
 
-_← [[concepts/_index|Concepts]]_
+_← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation_
