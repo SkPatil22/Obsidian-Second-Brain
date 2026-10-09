@@ -41,4 +41,4 @@ This is the blueprint Sachet's second brain is built on. Every convention in [[m
 ## Contradictions / open questions
 - _None flagged yet (first source)._ [[Andrej Karpathy|Karpathy]] notes the index-file approach works to ~100 sources / hundreds of pages before embedding-based search becomes worthwhile — a future decision point for this vault.
 
-_← [[sources/_index|Sources]]_
+_← [[sources/_index|Sources]] · [[concepts/_index|Concepts]] — produced all 6 current concept pages · [[entities/_index|Entities]] — produced 4 of the 7 current entity pages_
