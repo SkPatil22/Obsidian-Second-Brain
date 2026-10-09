@@ -27,6 +27,6 @@ This vault — see [[Second Brain Roadmap]] for the build plan, [[overview]] for
 
 Studying his methodology — learning to apply the [[LLM Wiki Pattern]], iterating on the ingest loop, and co-evolving the schema — is active skill-building; track that mastery in [[learning/_index|Learning]]. His writing also routinely sparks half-formed ideas about vault features, PKM design variations, and automation; file those in [[ideas/_index|Ideas]]. His foundational essay directly spawned the main active project in this vault — see [[projects/_index|Projects]].
 
-_← [[entities/_index|Entities]]_
+_← [[entities/_index|Entities]] · [[sources/_index|Sources]] — authored the vault's foundational essay · [[concepts/_index|Concepts]] — originated all six current concept pages_
 
 _Stub — extend as more Karpathy sources are ingested._
