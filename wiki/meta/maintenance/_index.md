@@ -10,7 +10,7 @@ tags: [meta, maintenance]
 
 Nightly librarian pass reports — one per day. Each pass implements the [[Ingest Query Lint|Lint]] operation — auditing the vault for missing wikilinks, orphan pages, duplicates, mis-filed notes, and stale claims. Results are summarized here and logged in [[log]].
 
-See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state.
+See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state. These nightly passes are the active execution of the Lint phase in [[Second Brain Roadmap]] — the living ledger that the vault's maintenance loop runs daily.
 
 ## 2026-10
 - [[meta/maintenance/2026-10-09]] — PKM entity/source footers gain missing catalog pointers (Karpathy entity→sources+concepts; Karpathy source→concepts+entities; Obsidian→concepts; qmd→concepts); log header→concepts+entities; concepts/_index+entities/_index→resources/_index bidirectionals close (10 links, 7 files); Index and Log 70+→71+; bake warning → 76 days
