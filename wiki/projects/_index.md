@@ -2,7 +2,7 @@
 type: meta
 title: "Projects — Index"
 created: 2026-06-24
-updated: 2026-10-01
+updated: 2026-10-11
 tags: [meta, index, project]
 ---
 
@@ -13,4 +13,4 @@ Things with an outcome and a finish line. A project closes when its goal is met.
 ## Pages
 - [[Second Brain Roadmap]] — Phase 1 ✅, Phase 1.5 pending GitHub auth, Phases 2+3 ✅ live (Telegram + scheduled routines + media parsing). Phase 4 (retrieval, [[qmd]]) next. ⭐ active
 
-_(Trips live under [[travel/_index|Travel]]. Active skill-building without a finish line belongs in [[learning/_index|Learning]] — not Projects. Projects often graduate from [[ideas/_index|Ideas]] when a spark earns a clear outcome and finish line. Project collaborators and stakeholders accrete in [[people/_index|People]]. Projects often rely on reference material and tools — see [[resources/_index|Resources]]. Source ingestion ([[Ingest Query Lint|ingest]]) can also produce project-related pages directly — see [[sources/_index|Sources]] for the raw material. Projects can also be sparked by concepts the vault has extracted — see [[concepts/_index|Concepts]] for the knowledge layer that generates actionable ideas. Projects often involve specific entities (tools, products, researchers, or places) that are components of the work — see [[entities/_index|Entities]].)_
+_(Trips live under [[travel/_index|Travel]]. Active skill-building without a finish line belongs in [[learning/_index|Learning]] — not Projects. Projects often graduate from [[ideas/_index|Ideas]] when a spark earns a clear outcome and finish line. Project collaborators and stakeholders accrete in [[people/_index|People]]. Projects often rely on reference material and tools — see [[resources/_index|Resources]]. Source ingestion ([[Ingest Query Lint|ingest]]) can also produce project-related pages directly — see [[sources/_index|Sources]] for the raw material. Projects can also be sparked by concepts the vault has extracted — see [[concepts/_index|Concepts]] for the knowledge layer that generates actionable ideas. Projects often involve specific entities (tools, products, researchers, or places) that are components of the work — see [[entities/_index|Entities]]. Recipe development — testing, perfecting, or building a dish toward a defined goal — can earn a project of its own; see [[recipes/_index|Recipes]] for the cooking domain it graduates from.)_

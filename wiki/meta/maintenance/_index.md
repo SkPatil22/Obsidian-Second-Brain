@@ -2,7 +2,7 @@
 type: meta
 title: "Maintenance — Archive"
 created: 2026-06-28
-updated: 2026-10-10
+updated: 2026-10-11
 tags: [meta, maintenance]
 ---
 
@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state. These nightly passes are the active execution of the Lint phase in [[Second Brain Roadmap]] — the living ledger that the vault's maintenance loop runs daily.
 
 ## 2026-10
+- [[meta/maintenance/2026-10-11]] — recipes/_index ↔ projects/_index bidirectional close — last open cross-catalog bidirectional in domain-index graph (2 links, 2 files); Index and Log 72+→73+; bake warning → 78 days
 - [[meta/maintenance/2026-10-10]] — entities/_index → recipes/_index bidirectional close; Memex → resources/_index; maintenance archive → Second Brain Roadmap bidirectional close; Second Brain Roadmap → log; sources/_index → log + Index and Log (6 links, 5 files); Index and Log 71+→72+; bake warning → 77 days
 - [[meta/maintenance/2026-10-09]] — PKM entity/source footers gain missing catalog pointers (Karpathy entity→sources+concepts; Karpathy source→concepts+entities; Obsidian→concepts; qmd→concepts); log header→concepts+entities; concepts/_index+entities/_index→resources/_index bidirectionals close (10 links, 7 files); Index and Log 70+→71+; bake warning → 76 days
 - [[meta/maintenance/2026-10-08]] — concept pages (all 6) + PKM entities (qmd+Obsidian+Memex) → projects/_index; conventions → Andrej Karpathy entity (10 links, 10 files); Index and Log 69+→70+; bake warning → 75 days

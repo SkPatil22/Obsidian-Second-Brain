@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-10-10
+updated: 2026-10-11
 tags: [meta, log]
 ---
 
@@ -10,6 +10,16 @@ tags: [meta, log]
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]]; extracted concepts in [[concepts/_index|Concepts]] and entities in [[entities/_index|Entities]].
+
+## [2026-10-11] librarian | Nightly maintenance pass
+
+- **LINK (2 links, 2 files):** One cluster — last open cross-catalog bidirectional in the domain-index graph. `recipes/_index` ↔ `projects/_index` bidirectional close. `recipes/_index` footer gains `[[projects/_index|Projects]]` (recipes linked every other domain catalog; projects was the last gap — recipe development with a finish line, such as testing/perfecting a recipe or planning a dinner party, graduates naturally to a project; the 78-day untested [[Raspberry Chocolate Cake]] is the concrete exhibit; 1 link; 1 file). `projects/_index` footer gains `[[recipes/_index|Recipes]]` (bidirectional close; projects linked all other domain catalogs but not recipes; cooking with a defined goal is a classic project shape; 1 link; 1 file). Closes the last missing cross-catalog bidirectional between any two domain _index files.
+- **FLAG — stale count corrected (1 file):** `concepts/Index and Log` "72+ nightly passes" → "73+" (today is pass #73).
+- **FLAG — stale date bump + bake warning (2 files):** `Raspberry Chocolate Cake` and `Seattle Trip 2026-07` bake warnings bumped to "as of 2026-10-11 (78 days post-return)". Bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-10-11]]
 
 ## [2026-10-10] librarian | Nightly maintenance pass
 
