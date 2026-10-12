@@ -9,7 +9,17 @@ tags: [meta, log]
 # Log — Operations Record
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
-Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]]; extracted concepts in [[concepts/_index|Concepts]] and entities in [[entities/_index|Entities]].
+Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]]; extracted concepts in [[concepts/_index|Concepts]] and entities in [[entities/_index|Entities]]. The [[Second Brain Roadmap]] is the staged build-out these operations execute, phase by phase.
+
+## [2026-10-12] librarian | Nightly maintenance pass
+
+- **LINK (5 links, 5 files):** One cluster — trip-prep recipe/resource pages close the resources catalog direction; log closes the SBR bidirectional. (1) `recipes/Raspberry Chocolate Cake` → `[[resources/_index|Resources]]` (links [[Running Shoes - Flat Feet]] individually but not the resources catalog; all other domain catalog pointers already present; Running Shoes is the one resource page in the vault that links back to all three recipe pages — the recipe → resource-catalog direction was the missing half; 1 link; 1 file). (2) `recipes/Thin Ribeye Recipes` → `[[resources/_index|Resources]]` (same gap; links Running Shoes directly and notes the trip-prep cluster shared Pike Place day; catalog pointer was absent; 1 link; 1 file). (3) `recipes/Baking - Berries and Moisture` → `[[resources/_index|Resources]]` (same gap in the third trip-prep recipe/technique page; all three recipe pages now link the resources catalog as Running Shoes has always linked back to them; cluster is now fully symmetric; 1 link; 1 file). (4) `resources/Running Shoes - Flat Feet` → `[[recipes/_index|Recipes]]` (links all three individual recipe pages without pointing to the catalog; symmetric gap to (1)–(3); adds the recipes catalog pointer alongside the three individual recipe links, consistent with how Seattle Trip, parks, and market entity pages treat both individual pages and catalogs; 1 link; 1 file). (5) `log.md` header → `[[Second Brain Roadmap]]` (SBR → log was added 2026-10-10; log.md header links overview, conventions, archive, hot, sources/concepts/entities catalogs — SBR as the build-out plan driving these operations was the one missing pointer; closes the log ↔ SBR bidirectional; 1 link; 1 file).
+- **FLAG — stale count corrected (1 file):** `concepts/Index and Log` "73+ nightly passes" → "74+" (today is pass #74).
+- **FLAG — stale date bump + bake warning (2 files):** `Raspberry Chocolate Cake` and `Seattle Trip 2026-07` bake warnings bumped to "as of 2026-10-12 (79 days post-return)". Bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-10-12]]
 
 ## [2026-10-11] librarian | Nightly maintenance pass
 
