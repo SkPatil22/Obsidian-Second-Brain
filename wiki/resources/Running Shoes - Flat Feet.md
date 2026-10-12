@@ -79,6 +79,7 @@ The Metcon 6 wins on boxing feel (forefoot flex, lower price). The Nano X5 Edge 
 - [[ideas/_index|Ideas]] — training program design, alternative gear concepts, and fitness system ideas sparked by this research belong here before becoming projects
 - [[entities/_index|Entities]] — shoe brands (Nike, Reebok, NOBULL, Brooks, Saucony, New Balance) are entities; the vault's entity catalog is the home for brand/product pages if added
 - [[concepts/_index|Concepts]] — biomechanics concepts (flat-foot overpronation mechanics, heel-drop effects, medial-posting principles, cross-training vs. sport-specific trade-offs) are the intellectual framework behind this resource; worth extracting to the vault's concept catalog when a relevant sports-science or biomechanics source is ingested
+- [[recipes/_index|Recipes]] — all three trip-prep cooking pages ([[Thin Ribeye Recipes]], [[Raspberry Chocolate Cake]], [[Baking - Berries and Moisture]]) are cataloged there; the full trip-prep cluster spans footwear through portable meals to post-trip baking, all anchored at the same Tue Jul 21 Pike Place city day
 
 ## Sources
 - RunRepeat: Best Flat Feet Running Shoes 2026
