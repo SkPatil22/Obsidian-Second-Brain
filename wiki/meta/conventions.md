@@ -64,6 +64,8 @@ Use judgment to avoid sprawl:
 4. Cross-reference everything. Flag contradictions in the relevant page and in [[log]].
 5. Update [[index]] counts, append to [[log]], overwrite [[hot]], and record the source in `.raw/.manifest.json`. ([[Index and Log]] is the navigation pattern this step implements.)
 
+This compile-at-ingest contract is what puts the vault on the wiki side of [[Wiki vs RAG]]: knowledge is written once and maintained, not re-derived per query.
+
 ## The filter
 
 When uncertain whether something is worth keeping, **file it conservatively** (e.g. an `ideas/` stub or a flagged source) rather than discarding. Low-confidence or ambiguous items get a `status: needs-review` flag, never a silent drop.
