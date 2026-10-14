@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state. These nightly passes are the active execution of the Lint phase in [[Second Brain Roadmap]] — the living ledger that the vault's maintenance loop runs daily.
 
 ## 2026-10
+- [[meta/maintenance/2026-10-14]] — conventions → [[Wiki vs RAG]] conceptual close; overview gains concrete content links ([[Seattle Trip 2026-07]] + [[Raspberry Chocolate Cake]]); Andrej Karpathy → [[meta/conventions|conventions]] bidirectional close (4 links, 3 files); Index and Log 75+→76+; bake warning → 81 days
 - [[meta/maintenance/2026-10-13]] — domain catalogs (all 8) → [[overview]] bidirectional close; Second Brain Roadmap → [[hot]]; (9 links, 9 files); Index and Log 74+→75+; bake warning → 80 days
 - [[meta/maintenance/2026-10-12]] — recipe/resource cluster closes resources catalog direction (Raspberry Cake+Thin Ribeye+Baking→resources/_index); Running Shoes→recipes/_index; log header→Second Brain Roadmap (5 links, 5 files); Index and Log 73+→74+; bake warning → 79 days
 - [[meta/maintenance/2026-10-11]] — recipes/_index ↔ projects/_index bidirectional close — last open cross-catalog bidirectional in domain-index graph (2 links, 2 files); Index and Log 72+→73+; bake warning → 78 days
