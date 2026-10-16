@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state. These nightly passes are the active execution of the Lint phase in [[Second Brain Roadmap]] — the living ledger that the vault's maintenance loop runs daily.
 
 ## 2026-10
+- [[meta/maintenance/2026-10-16]] — domain catalogs (all 8) → [[meta/conventions|Conventions]] bidirectional close; log → [[Karpathy - LLM Wiki]] (9 links, 9 files); Index and Log 77+→78+; bake warning → 83 days; overview stale count 81→83 days
 - [[meta/maintenance/2026-10-15]] — SBR symmetry close: IQL+WvRAG+IaL each gain `[[Second Brain Roadmap]]` direct link (3 of 6 concept pages were missing it); Karpathy source → `[[log]]` (source ↔ operations-record direction) (4 links, 4 files); Index and Log 76+→77+; bake warning → 82 days
 - [[meta/maintenance/2026-10-14]] — conventions → [[Wiki vs RAG]] conceptual close; overview gains concrete content links ([[Seattle Trip 2026-07]] + [[Raspberry Chocolate Cake]]); Andrej Karpathy → [[meta/conventions|conventions]] bidirectional close (4 links, 3 files); Index and Log 75+→76+; bake warning → 81 days
 - [[meta/maintenance/2026-10-13]] — domain catalogs (all 8) → [[overview]] bidirectional close; Second Brain Roadmap → [[hot]]; (9 links, 9 files); Index and Log 74+→75+; bake warning → 80 days
