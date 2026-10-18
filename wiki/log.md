@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-10-17
+updated: 2026-10-18
 tags: [meta, log]
 ---
 
@@ -10,6 +10,16 @@ tags: [meta, log]
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]] (the vault's first and foundational source is [[Karpathy - LLM Wiki]]); extracted concepts in [[concepts/_index|Concepts]] and entities in [[entities/_index|Entities]]. The [[Second Brain Roadmap]] is the staged build-out these operations execute, phase by phase.
+
+## [2026-10-18] librarian | Nightly maintenance pass
+
+- **LINK (3 links, 3 files):** Memex ↔ maintenance-archive triad. (1) `entities/Andrej Karpathy` → `[[hot]]` — the entity page's "In this vault" enumeration named log, archive, SBR, overview as operational reference files; hot is the missing recent-context companion; added "and [[hot]] for the most recent working context" to the list; closes Karpathy-entity → hot (source → hot closed 2026-10-17; entity → log closed 2026-10-17; entity → hot was the last open edge; 1 link; 1 file). (2) `entities/Memex` → `[[meta/maintenance/_index|Maintenance archive]]` — the "modern implementation" section describes how the LLM solves Bush's open maintenance problem; the archive is the daily proof the LLM runs these passes so the trails don't rot; added alongside SBR and overview; 1 link; 1 file. (3) `meta/maintenance/_index` → `[[Memex]]` — the archive's opening never acknowledged its intellectual lineage; these nightly passes are the concrete realization of Bush's Memex vision; added "the proof that the [[Memex|Memex's open problem of who does the maintenance]] is solved"; closes the archive ↔ Memex bidirectional; 1 link; 1 file.
+- **FLAG — stale count corrected (1 file):** `concepts/Index and Log` "79+ nightly passes" → "80+" (today is pass #80).
+- **FLAG — stale date + callout header correction (3 files):** `Raspberry Chocolate Cake` callout header "as of 2026-10-16" → "as of 2026-10-18"; body "2026-10-17 (84 days)" → "2026-10-18 (85 days)". `Seattle Trip 2026-07` same two-field correction (header had lagged behind body since Oct 17 pass). `overview.md` "pending at 84 days" → "pending at 85 days". Bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-10-18]]
 
 ## [2026-10-17] librarian | Nightly maintenance pass
 
