@@ -22,7 +22,7 @@ The **schema is the key file** — it's what makes the LLM a disciplined wiki ma
 
 The wiki layer's catalogs — [[sources/_index|source summaries]], [[concepts/_index|extracted concepts]], and [[entities/_index|entities]] — are the concrete output of this architecture, built pass by pass through [[Ingest Query Lint|ingestion]].
 
-See [[Ingest Query Lint]] for the operations that move data between layers — each ingest adds to the [[Compounding Knowledge Artifact]] — and [[Karpathy - LLM Wiki]] for the original framing. The wiki layer also holds [[Index and Log]] — the catalog and chronological record that make the wiki navigable as it grows.
+See [[Ingest Query Lint]] for the operations that move data between layers — each ingest adds to the [[Compounding Knowledge Artifact]] — and [[Karpathy - LLM Wiki]] for the original framing. The wiki layer also holds [[Index and Log]] — the catalog and chronological record that make the wiki navigable as it grows. The three-layer design is the structural realization of the [[Memex]] (Vannevar Bush, 1945): raw source layer → maintained wiki trails → schema rules maps to Bush's external documents → associative trails → the maintenance rules that keep them alive — the LLM solves Bush's open problem of who does that maintenance.
 
 ## In this vault
 - **Front-end:** [[Obsidian]] on the Pi (or Windows/phone via sync) — graph view, search, Dataview queries
