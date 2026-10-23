@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state. These nightly passes are the active execution of the Lint phase in [[Second Brain Roadmap]] — the living ledger that the vault's maintenance loop runs daily, and the proof that the [[Memex|Memex's open problem of who does the maintenance]] is solved.
 
 ## 2026-10
+- [[meta/maintenance/2026-10-23]] — domain _index ↔ [[Second Brain Roadmap]] gap close (ideas+learning+recipes+resources+travel → SBR; 5 missing reverse directions closed); place entities → [[sources/_index|Sources]] (Rainier+Olympic+Pike Place; closes PKM/place entity asymmetry) (8 links, 8 files); IaL 84+→85+; bake warning → 90 days
 - [[meta/maintenance/2026-10-22]] — LLM Wiki Pattern ↔ [[log]] bidirectional close; CKA → [[log]]; Obsidian → [[log]]; SBR → [[travel/_index|Travel]] + [[recipes/_index|Recipes]] (6 links, 5 files); IaL 83+→84+; bake warning → 89 days
 - [[meta/maintenance/2026-10-21]] — log → [[Andrej Karpathy]] entity (log had source link, entity direction was open); conventions → [[Obsidian]] + Obsidian → [[meta/conventions]] (bidirectional close — schema↔browsing-tool) (3 links, 3 files); IaL 82+→83+; bake warning → 88 days
 - [[meta/maintenance/2026-10-20]] — Memex → [[qmd]] + qmd → [[Memex]] (bidirectional close — last open edge in PKM entity quadrilateral; all 4 PKM entities now 12/12 cross-linked) (2 links, 2 files); IaL 81+→82+; bake warning → 87 days
