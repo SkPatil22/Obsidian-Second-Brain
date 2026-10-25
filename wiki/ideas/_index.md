@@ -2,7 +2,7 @@
 type: meta
 title: "Ideas — Index"
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-25
 tags: [meta, index, idea]
 ---
 
