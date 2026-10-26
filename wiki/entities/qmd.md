@@ -24,6 +24,6 @@ Crucially, qmd sits *on top of* the [[Compounding Knowledge Artifact]], not inst
 
 When Phase 4 begins, learning qmd's CLI, MCP server integration, and BM25+vector tuning parameters will be active skill-building — track that in [[learning/_index|Learning]]. qmd's capabilities (native MCP tool use, hybrid ranking, on-device search) also spark ideas about vault automation and integration beyond simple retrieval; file those in [[ideas/_index|Ideas]]. Once installed, qmd's setup guide, CLI usage notes, and MCP integration documentation belong in [[resources/_index|Resources]].
 
-_← [[entities/_index|Entities]] · [[concepts/_index|Concepts]] — the synthesized knowledge it retrieves at scale · Phase 4 of the active vault project — see [[projects/_index|Projects]]_
+_← [[entities/_index|Entities]] · [[concepts/_index|Concepts]] — the synthesized knowledge it retrieves at scale · Phase 4 of the active vault project — see [[projects/_index|Projects]] · [[log]] — the raw chronological record of vault operations it will search at scale · [[hot]] — the most recent working context_
 
 _Stub — candidate for the future retrieval layer (Stage 4 of the larger plan)._
