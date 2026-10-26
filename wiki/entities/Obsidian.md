@@ -5,7 +5,7 @@ title: "Obsidian"
 status: stub
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-10-22
+updated: 2026-10-26
 tags: [entity, tool]
 ---
 
