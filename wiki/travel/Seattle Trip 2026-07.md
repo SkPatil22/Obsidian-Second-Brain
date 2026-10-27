@@ -61,4 +61,4 @@ See [[Mount Rainier National Park]]. Base day at **Paradise**: the **Skyline Tra
 > [!warning] Post-trip bake pending (as of 2026-10-26)
 > Fresh Washington raspberries were sourced at [[Pike Place Market]] (Tue Jul 21). The [[Raspberry Chocolate Cake]] post-trip bake was planned after the Jul 25 return. Status: `untested` as of 2026-10-26 (93 days post-return) — update the recipe page when the bake happens.
 
-_Pre-trip action items resolved (trip complete). ← [[travel/_index|Travel]] catalog · [[entities/_index|Entities]] — destination pages_
+_Pre-trip action items resolved (trip complete). ← [[travel/_index|Travel]] catalog · [[entities/_index|Entities]] — destination pages · [[hot]] — the most recent working context_
