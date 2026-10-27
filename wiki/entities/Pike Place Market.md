@@ -39,4 +39,4 @@ Seattle's landmark public market downtown — 75+ food stalls, fishmongers, flow
 - [[recipes/_index|Recipes]] — ingredients for all three trip-prep recipes (Raspberry Cake, Thin Ribeye, Baking techniques) sourced here; broader cooking catalog
 - [[entities/_index|Entities]] — catalog of all entity pages; [[sources/_index|Sources]] — raw-to-wiki audit trail for this entity's origin source; [[travel/_index|Travel]] — trip and destination catalog; [[resources/_index|Resources]] — broader gear and reference catalog ([[Running Shoes - Flat Feet]] is part of this collection); [[people/_index|People]] — restaurant reservations (Sushi Kashiba, The Pink Door) and dining companions from this trip connect here
 
-_Stub._
+_Stub. · [[hot]] — the most recent working context_
