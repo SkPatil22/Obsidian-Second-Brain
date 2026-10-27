@@ -41,4 +41,4 @@ Glaciated 14,411 ft stratovolcano ~2–2.5 hr SE of Seattle. Famous for subalpin
 - [[concepts/_index|Concepts]] — alpine ecology, wildflower phenology, volcanic geology, and wilderness-navigation frameworks encountered on park visits are worth extracting to the concepts catalog when a relevant source is ingested; [[travel/_index|Travel]] and [[Seattle Trip 2026-07]] already route this direction at catalog/trip level
 - [[entities/_index|Entities]] — catalog of all entity pages; [[sources/_index|Sources]] — raw-to-wiki audit trail for this entity's origin source; [[travel/_index|Travel]] — trip and destination catalog; [[resources/_index|Resources]] — broader gear and reference catalog ([[Running Shoes - Flat Feet]] is part of this collection); [[people/_index|People]] — travel companions and trip contacts for the Rainier day trip connect here
 
-_Stub — visited Jul 22, 2026 (Paradise / Skyline Trail). Extend with trail notes and photos from the visit._
+_Stub — visited Jul 22, 2026 (Paradise / Skyline Trail). Extend with trail notes and photos from the visit. · [[hot]] — the most recent working context_
