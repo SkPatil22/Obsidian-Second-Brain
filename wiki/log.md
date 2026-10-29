@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault — the [[LLM Wiki Pattern]] in practice. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]] (the vault's first and foundational source is [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]); extracted concepts in [[concepts/_index|Concepts]] and entities in [[entities/_index|Entities]]. The [[Second Brain Roadmap]] is the staged build-out these operations execute, phase by phase.
 
+## [2026-10-29] librarian | Nightly maintenance pass
+
+- **LINK (1 link, 1 file):** Source page footer-strip hot closure. `sources/Karpathy - LLM Wiki` footer strip gains `[[hot]]`. Rationale: Oct 17 pass added [[hot]] to the *body* of the source page; footer was never updated. Same pattern as IaL concept (Oct 28) and Karpathy entity (Oct 28) where body had hot but footer strip didn't. All concept page footers (Oct 27-28), all entity page footers (Oct 27-28), and now all source page footers carry [[hot]] uniformly. Total: 1 link, 1 file.
+- **FLAG — stale count corrected (1 file):** `concepts/Index and Log` "90+ nightly passes" → "91+" (today is pass #91).
+- **FLAG — stale date bump + bake warning (3 files):** `Raspberry Chocolate Cake` callout: "(as of 2026-10-28)" → "(as of 2026-10-29)"; "95 days post-return" → "96 days post-return". `Seattle Trip 2026-07` same correction. `overview.md` "pending at 95 days" → "pending at 96 days". Bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-10-29]]
+
 ## [2026-10-28] librarian | Nightly maintenance pass
 
 - **LINK (2 links, 2 files):** Two footer-strip symmetry closures. (1) `concepts/Index and Log` footer → [[hot]]: the Oct 17 pass added [[hot]] to the IaL body text ("The third navigation companion alongside these two files is [[hot]]"); the footer nav strip was never updated to match; the Oct 27 pass added [[hot]] to the footer strips of the other 5 concept pages and declared "all 6 concept pages now carry [[hot]]" — true at body level, but the footer strip was the last gap; IaL footer strip now matches the other 5 concept pages uniformly; 1 link; 1 file. (2) `entities/Andrej Karpathy` footer → [[hot]]: the Oct 18 pass added [[hot]] to the Karpathy entity body text; the footer strip was not updated; the Oct 26 pass added it to Obsidian/qmd/Memex footer strips; the Oct 27 pass added it to all 3 place entity footer strips and declared "all 7 entity pages now carry [[hot]]" — again true at body level but the Karpathy footer strip was the last gap; now all 7 entity page footer strips uniformly carry [[hot]]; 1 link; 1 file. Total: 2 links, 2 files.
