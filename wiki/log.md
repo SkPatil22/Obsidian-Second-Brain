@@ -11,6 +11,16 @@ tags: [meta, log]
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault — the [[LLM Wiki Pattern]] in practice. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]] (the vault's first and foundational source is [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]); extracted concepts in [[concepts/_index|Concepts]] and entities in [[entities/_index|Entities]]. The [[Second Brain Roadmap]] is the staged build-out these operations execute, phase by phase.
 
+## [2026-10-30] librarian | Nightly maintenance pass
+
+- **LINK (1 link, 1 file):** Sources catalog author attribution gap. `sources/_index` listing gains `by [[Andrej Karpathy]]`. Every other reference to the vault's foundational source names the author (log.md, concepts/_index, entities/_index footers); the sources catalog listing was the one remaining context without explicit author attribution. Total: 1 link, 1 file.
+- **FLAG — stale count corrected (1 file):** `concepts/Index and Log` "91+ nightly passes" → "92+" (today is pass #92).
+- **FLAG — stale date bump + bake warning (3 files):** `Raspberry Chocolate Cake` callout: "(as of 2026-10-29)" → "(as of 2026-10-30)"; "96 days post-return" → "97 days post-return". `Seattle Trip 2026-07` same correction. `overview.md` "pending at 96 days" → "pending at 97 days". Bake still `untested`.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-10-30]]
+
 ## [2026-10-29] librarian | Nightly maintenance pass
 
 - **LINK (1 link, 1 file):** Source page footer-strip hot closure. `sources/Karpathy - LLM Wiki` footer strip gains `[[hot]]`. Rationale: Oct 17 pass added [[hot]] to the *body* of the source page; footer was never updated. Same pattern as IaL concept (Oct 28) and Karpathy entity (Oct 28) where body had hot but footer strip didn't. All concept page footers (Oct 27-28), all entity page footers (Oct 27-28), and now all source page footers carry [[hot]] uniformly. Total: 1 link, 1 file.
