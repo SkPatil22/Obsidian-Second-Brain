@@ -1,14 +1,14 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-10-29T00:00:00
+updated: 2026-10-30T00:00:00
 tags: [meta, hot-cache]
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-10-29. Nightly librarian pass — **1 new link across 1 file.** Theme: source page footer-strip hot closure. `sources/Karpathy - LLM Wiki` footer strip → [[hot]]: the Oct 17 pass added [[hot]] to the source page body ("The recent working context (what the vault is currently focused on) is in [[hot]]"); the footer nav strip was never updated; the Oct 27-28 passes completed footer-strip hot coverage for all concept pages (all 6) and all entity pages (all 7); the source page footer was the last remaining gap in the PKM-layer page footer triad; now source/concept/entity page footers all uniformly carry [[hot]]. **FLAG:** IaL 90+→91+; bake warning → 96 days.
+2026-10-30. Nightly librarian pass — **1 new link across 1 file.** Theme: sources catalog author attribution. `sources/_index` listing gains "by [[Andrej Karpathy]]": the sources catalog is the one context in the vault that referenced [[Karpathy - LLM Wiki]] without naming the author inline — `log.md`, `concepts/_index`, and `entities/_index` all say "by [[Andrej Karpathy]]" when referencing the source; the listing line in the sources catalog was the last gap. Now uniform: every citation of the vault's foundational source names its author. **FLAG:** IaL 91+→92+; bake warning → 97 days.
 
 ## Key Recent Facts
 - The **`/brain` skill** exists (`~/.claude/skills/brain/`): "research X and file it into the second brain, auto-sorted, cross-linked, no review." Works as `/brain <topic>` or natural language.
@@ -19,13 +19,13 @@ tags: [meta, hot-cache]
 - Vault on the Pi at `~/claude-obsidian`, transport `filesystem`. Standing rule: **full automation, never review, never touch Obsidian manually.** Current vault state: [[overview]].
 
 ## Recent Changes
+- 2026-10-30: Librarian pass — LINK: 1 new wikilink (`sources/_index` listing → [[Andrej Karpathy]]; author attribution gap — every other citation named the author; sources catalog listing was the last remaining context). FLAG: IaL 91+→92+; bake warning → 97 days. See [[log]] and [[meta/maintenance/2026-10-30]].
 - 2026-10-29: Librarian pass — LINK: 1 new wikilink (source page footer → [[hot]]; last footer-strip gap in PKM-layer pages; all source/concept/entity footers now uniform). FLAG: IaL 90+→91+; bake warning → 96 days. See [[log]] and [[meta/maintenance/2026-10-29]].
 - 2026-10-28: Librarian pass — LINK: 2 new wikilinks across 2 files (IaL concept footer + Karpathy entity footer → [[hot]]; last footer-strip symmetry gaps; all 6 concept footers + all 7 entity footers now uniform). FLAG: IaL 89+→90+; callout header dates synced (Oct 26 lag → Oct 28); bake warning → 95 days. See [[log]] and [[meta/maintenance/2026-10-28]].
-- 2026-10-27: Librarian pass — LINK: 14 new wikilinks across 14 files (5 concept pages + 3 place entities + 5 domain content pages + conventions → [[hot]]; full vault [[hot]]-coverage achieved). FLAG: IaL 88+→89+; bake warning → 94 days. See [[log]] and [[meta/maintenance/2026-10-27]].
 - See [[index]] for counts (1 [[sources/_index|source]] · 6 [[concepts/_index|concepts]] · 7 [[entities/_index|entities]] · 6 domain pages). Full maintenance history in [[meta/maintenance/_index|Maintenance archive]].
 
 ## Active Threads
 - **✅ Seattle trip — complete** (Jul 21–25, 2026, returned Sat Jul 25). All 5 days done: [[Pike Place Market]] city day → Rainier (Paradise/Skyline) → Olympic (Hurricane Ridge + Lake Crescent + Sol Duc Falls + Port Angeles) → Olympic (Hoh Rainforest + Ruby Beach) → Seattle depart. See [[Seattle Trip 2026-07]] + [[Olympic National Park]] + [[Mount Rainier National Park]].
-- **🍰 Post-trip bake — pending:** Fresh Washington raspberries sourced at [[Pike Place Market]] (Tue Jul 21). [[Raspberry Chocolate Cake]] status: `untested` as of 2026-10-29 (96 days post-return). Update the recipe page when done.
+- **🍰 Post-trip bake — pending:** Fresh Washington raspberries sourced at [[Pike Place Market]] (Tue Jul 21). [[Raspberry Chocolate Cake]] status: `untested` as of 2026-10-30 (97 days post-return). Update the recipe page when done.
 - **Phase 4 — Retrieval** ([[qmd]]) is the next infrastructure phase (see [[Second Brain Roadmap]]), once the wiki outgrows the index (~100 sources).
 - **Phase 1.5 — Sync** (GitHub auth) is still pending; see [[Second Brain Roadmap]] → `~/brain-infra/README.md` → `activate-sync.sh`.
