@@ -27,7 +27,7 @@ The core distinction that motivates the [[LLM Wiki Pattern]].
 
 > Note: RAG isn't wrong, just different. [[Andrej Karpathy|Karpathy]] notes the [[Index and Log|index-file approach]] scales to ~100 sources before embedding-based retrieval becomes worth adding — at which point a search layer ([[qmd]]) can sit *on top of* the wiki, not replace it.
 
-The wiki-compile-once approach has historical precedent in the [[Memex]] (Vannevar Bush, 1945) — squarely on the wiki side of this spectrum; see [[LLM Wiki Pattern]] for the lineage.
+The wiki-compile-once approach has historical precedent in the [[Memex]] ([[Vannevar Bush]], 1945) — squarely on the wiki side of this spectrum; see [[LLM Wiki Pattern]] for the lineage.
 
 See [[Karpathy - LLM Wiki]]. The sources that feed the wiki side of this spectrum are cataloged in [[sources/_index|Sources]]; the distilled outputs each ingest compiles — extracted [[concepts/_index|concepts]] and [[entities/_index|entities]] — are the other half of the wiki side. The vault built on the wiki side of this spectrum — compile-once, not re-derive — is documented phase by phase in [[Second Brain Roadmap]]. The daily evidence that the wiki approach works — Lint results confirming compiled knowledge hasn't gone stale — is archived in [[meta/maintenance/_index|Maintenance archive]]. The raw chronological record of every ingest, query, and lint operation — the live ledger that accumulates this evidence — is in [[log]].
 
