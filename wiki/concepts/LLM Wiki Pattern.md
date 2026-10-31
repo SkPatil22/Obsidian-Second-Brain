@@ -44,6 +44,6 @@ When a new source arrives, the LLM doesn't just index it for later ([[Wiki vs RA
 - [[ideas/_index|Ideas]] — where half-formed improvements and variations on the pattern are filed before becoming projects
 
 ## Lineage
-Spiritual successor to the [[Memex]] (Vannevar Bush, 1945) — the LLM solves Bush's open problem of *who does the maintenance*.
+Spiritual successor to the [[Memex]] ([[Vannevar Bush]], 1945) — the LLM solves Bush's open problem of *who does the maintenance*.
 
 _← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation · [[hot]] — the most recent working context_
