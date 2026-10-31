@@ -50,7 +50,7 @@ _Updated on each [[Ingest Query Lint|ingest]]._
 
 - [[sources/_index|Sources]]: 1
 - [[concepts/_index|Concepts]]: 6
-- [[entities/_index|Entities]]: 7
+- [[entities/_index|Entities]]: 8
 - Domain pages: 6 (recipes 3 · travel 1 · projects 1 · resources 1)
 
 ## Recently ingested
