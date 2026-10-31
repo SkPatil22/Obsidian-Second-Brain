@@ -12,9 +12,10 @@ People, organizations, products, repos, and places referenced across the vault. 
 
 ## Pages
 - [[Andrej Karpathy]] — author of the foundational essay (person)
+- [[Vannevar Bush]] — conceived the [[Memex]]; the intellectual ancestor of this vault's design philosophy (person)
 - [[Obsidian]] — the Markdown front-end (tool)
 - [[qmd]] — local Markdown search engine, for later scale (tool)
-- [[Memex]] — Vannevar Bush's 1945 ancestor of the idea (history)
+- [[Memex]] — Bush's 1945 vision of a personal, associative knowledge store (history)
 - [[Mount Rainier National Park]] — WA, ~2.5h SE of Seattle (place)
 - [[Olympic National Park]] — WA Olympic Peninsula (place)
 - [[Pike Place Market]] — downtown Seattle landmark market (place)
