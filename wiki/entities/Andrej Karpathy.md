@@ -18,7 +18,7 @@ Author of [[Karpathy - LLM Wiki]] — the "idea file" that defines the [[LLM Wik
 
 ## Facts
 - Publishes ideas as copy-pasteable agent prompts meant to be co-developed with your LLM.
-- Positions the pattern as a successor to the [[Memex]].
+- Positions the pattern as a successor to the [[Memex]] ([[Vannevar Bush]], 1945).
 - Recommends [[Obsidian]] as the front-end ("the IDE") and [[qmd]] as the retrieval layer at scale.
 - Originated the [[Three-Layer Architecture]] (raw / wiki / schema), the [[Ingest Query Lint]] workflow, the [[Compounding Knowledge Artifact]] concept, the [[Wiki vs RAG]] distinction, and the [[Index and Log]] navigation pattern — these five, plus [[LLM Wiki Pattern]] itself, form the vault's [[concepts/_index|Concepts]] catalog.
 
