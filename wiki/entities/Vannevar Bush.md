@@ -31,4 +31,4 @@ The vault is a direct realization of Bush's design goals:
 
 _Stub — extend when "As We May Think" is ingested as a source._
 
-_← [[entities/_index|Entities]] · [[Memex]] — the artifact he conceived · [[Andrej Karpathy]] — carries the lineage forward · [[concepts/_index|Concepts]] — his vision grounds all six PKM concepts in this vault · [[sources/_index|Sources]] — "As We May Think" (1945) is a primary source to ingest when available · [[resources/_index|Resources]] — it belongs in the resources catalog too · [[hot]] — the most recent working context_
+_← [[entities/_index|Entities]] · [[Memex]] — the artifact he conceived · [[Andrej Karpathy]] — carries the lineage forward · [[concepts/_index|Concepts]] — his vision grounds all six PKM concepts in this vault · [[projects/_index|Projects]] · [[Second Brain Roadmap]] — the staged build-out realizing his design goals · [[sources/_index|Sources]] — "As We May Think" (1945) is a primary source to ingest when available · [[resources/_index|Resources]] — it belongs in the resources catalog too · [[hot]] — the most recent working context_
