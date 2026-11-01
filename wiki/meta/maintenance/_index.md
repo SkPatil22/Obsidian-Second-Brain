@@ -12,6 +12,9 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state. These nightly passes are the active execution of the Lint phase in [[Second Brain Roadmap]] — the living ledger that the vault's maintenance loop runs daily, and the proof that the [[Memex|Memex's open problem of who does the maintenance]] is solved.
 
+## 2026-11
+- [[meta/maintenance/2026-11-01]] — IQL → [[Vannevar Bush]] + [[Memex]] (IQL was the last concept page missing the Bush/maintenance-problem framing; Lint is where that problem is solved); SBR → [[Vannevar Bush]] (last bare [[Memex]] reference in vault missing the Bush suffix); Vannevar Bush → [[Second Brain Roadmap]] + [[projects/_index\|Projects]] (stub lacked link to the project realizing his vision) (5 links, 3 files); IaL 93+→94+; Karpathy source entity count 7→8 corrected; bake warning → 99 days
+
 ## 2026-10
 - [[meta/maintenance/2026-10-31]] — Vannevar Bush entity created and linked across vault (10 occurrences of "Vannevar Bush, 1945" in concept/entity/source/overview pages now linked; entities count 7→8) (10 links, 10 files); IaL 92+→93+; bake warning → 98 days
 - [[meta/maintenance/2026-10-30]] — sources/_index listing → [[Andrej Karpathy]] (author attribution gap: every other reference to the foundational source named the author; the sources catalog listing was the last remaining context without it) (1 link, 1 file); IaL 91+→92+; bake warning → 97 days
