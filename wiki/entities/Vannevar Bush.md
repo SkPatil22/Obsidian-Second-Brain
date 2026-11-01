@@ -22,6 +22,7 @@ The vault is a direct realization of Bush's design goals:
 - **[[Compounding Knowledge Artifact]]** → the ever-growing store Bush imagined
 - **[[Index and Log]]** → the navigation layer that keeps the trails findable as they grow
 - **[[Obsidian]]** for browsing · Claude for maintenance · [[qmd]] for retrieval at scale — the modern tooling his vision called for
+- **[[Second Brain Roadmap]]** — the staged build-out executing his vision, phase by phase
 
 ## Facts
 - Directed the U.S. Office of Scientific Research and Development (OSRD) during WWII; organized large-scale scientific R&D.
