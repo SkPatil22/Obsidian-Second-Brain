@@ -23,6 +23,7 @@ The vault is a direct realization of Bush's design goals:
 - **[[Index and Log]]** → the navigation layer that keeps the trails findable as they grow
 - **[[Obsidian]]** for browsing · Claude for maintenance · [[qmd]] for retrieval at scale — the modern tooling his vision called for
 - **[[Second Brain Roadmap]]** — the staged build-out executing his vision, phase by phase
+- **[[meta/maintenance/_index|Maintenance archive]]** → the daily proof his open question — *who does the maintenance?* — is answered; the LLM runs these passes so the trails don't rot
 
 ## Facts
 - Directed the U.S. Office of Scientific Research and Development (OSRD) during WWII; organized large-scale scientific R&D.
