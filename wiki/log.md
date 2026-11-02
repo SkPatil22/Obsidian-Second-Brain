@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-11-01
+updated: 2026-11-02
 tags: [meta, log]
 ---
 
@@ -10,6 +10,17 @@ tags: [meta, log]
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault — the [[LLM Wiki Pattern]] in practice. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]] (the vault's first and foundational source is [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]); extracted concepts in [[concepts/_index|Concepts]] and entities in [[entities/_index|Entities]]. The [[Second Brain Roadmap]] is the staged build-out these operations execute, phase by phase.
+
+## [2026-11-02] librarian | Nightly maintenance pass
+
+- **LINK (5 links, 4 files):** Two clusters. (1) PKM entity footer log symmetry — `entities/Andrej Karpathy` footer → `[[log]]`: body has log since the Oct 17 pass; all other PKM entity footers (Obsidian, qmd, Memex) carry log; Karpathy's footer was the last gap; follows the body/footer asymmetry pattern established by the Oct 28 hot-footer sweep; 1 link; 1 file. (2) Vannevar Bush entity — archive + log closure: `entities/Vannevar Bush` body → `[[meta/maintenance/_index|Maintenance archive]]` (new bullet in "direct realization" list: "the daily proof his open question — *who does the maintenance?* — is answered; the LLM runs these passes so the trails don't rot") + footer → `[[meta/maintenance/_index|Maintenance archive]]` + `[[log]]`; the Memex entity (Bush's artifact) already linked both — Bush himself didn't; 3 links; 1 file. (3) `meta/maintenance/_index` → `[[Vannevar Bush]]`: archive intro credited Memex for the maintenance-problem framing but never named its author; added "posed by [[Vannevar Bush]] in 1945" inline; closes the archive ↔ Bush bidirectional; 1 link; 1 file. Total: 5 links, 4 files.
+- **FLAG — missed correction re-applied (1 file):** `sources/Karpathy - LLM Wiki` footer still read "4 of the **7** current entity pages" — the 2026-11-01 pass logged this 7→8 correction but the file was never actually changed; corrected today.
+- **FLAG — stale count corrected (1 file):** `concepts/Index and Log` "94+ nightly passes" → "95+" (today is pass #95).
+- **FLAG — stale date bump + bake milestone (3 files):** `Raspberry Chocolate Cake` + `Seattle Trip 2026-07` + `overview.md`: 99 days → **100 days** post-return (2026-07-25 → 2026-11-02). Bake still `untested` at the 100-day mark.
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-11-02]]
 
 ## [2026-11-01] librarian | Nightly maintenance pass
 
