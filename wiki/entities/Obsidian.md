@@ -25,7 +25,7 @@ The **front-end** for this second brain — "the IDE" in [[Andrej Karpathy|Karpa
 ## In *this* setup
 The canonical vault lives on the Raspberry Pi; see [[overview]] for the current vault state. Obsidian on Windows/phone will be a git-synced client (Phase 1.5 — sync, see [[Second Brain Roadmap]]). This Pi also has a desktop, so Obsidian can open the vault locally too.
 
-When the wiki scales past ~100 sources, [[qmd]] adds hybrid BM25+vector search on top — Obsidian for browsing, qmd for retrieval. The two are complementary, not competing.
+When the wiki scales past ~100 sources, [[qmd]] adds hybrid BM25+vector search on top — Obsidian for browsing, qmd for retrieval. The two are complementary, not competing. Nightly Lint passes produce the [[meta/maintenance/_index|Maintenance archive]] — the structured daily reports that prove the wiki is staying healthy; Obsidian is where you read them.
 
 Obsidian's graph view and wikilink trails are the modern realization of what the [[Memex]] called "associative trails" — the connective tissue between documents that [[Vannevar Bush|Bush]] argued was as valuable as the documents themselves.
 
