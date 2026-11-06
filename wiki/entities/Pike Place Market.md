@@ -38,5 +38,6 @@ Seattle's landmark public market downtown — 75+ food stalls, fishmongers, flow
 - [[concepts/_index|Concepts]] — PNW food geography, seasonal produce sourcing frameworks, and food-systems concepts surfaced by a deeper source on Pike Place or PNW food culture connect here
 - [[recipes/_index|Recipes]] — ingredients for all three trip-prep recipes (Raspberry Cake, Thin Ribeye, Baking techniques) sourced here; broader cooking catalog
 - [[entities/_index|Entities]] — catalog of all entity pages; [[sources/_index|Sources]] — raw-to-wiki audit trail for this entity's origin source; [[travel/_index|Travel]] — trip and destination catalog; [[resources/_index|Resources]] — broader gear and reference catalog ([[Running Shoes - Flat Feet]] is part of this collection); [[people/_index|People]] — restaurant reservations (Sushi Kashiba, The Pink Door) and dining companions from this trip connect here
+- [[overview]] — the current state of the vault this visit is part of; [[log]] — the operations record where the original research ingest that produced this page is recorded
 
 _Stub. · [[hot]] — the most recent working context_
