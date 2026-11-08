@@ -42,6 +42,7 @@ When a new source arrives, the LLM doesn't just index it for later ([[Wiki vs RA
 - [[log]] — raw chronological record of every ingest · query · lint operation; the live ledger these bullets track
 - [[learning/_index|Learning]] — where skill-building around the pattern (PKM workflow design, ingest loop engineering, schema co-evolution) is tracked
 - [[ideas/_index|Ideas]] — where half-formed improvements and variations on the pattern are filed before becoming projects
+- [[resources/_index|Resources]] — setup guides and documentation for the tools this pattern depends on (Obsidian, qmd, the Claude CLI) live there
 
 ## Lineage
 Spiritual successor to the [[Memex]] ([[Vannevar Bush]], 1945) — the LLM solves Bush's open problem of *who does the maintenance*.
