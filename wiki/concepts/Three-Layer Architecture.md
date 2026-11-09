@@ -33,4 +33,4 @@ See [[Ingest Query Lint]] for the operations that move data between layers — e
 
 Understanding how the three layers interact — how schema changes propagate into wiki behavior, how raw-layer immutability protects sources, how to co-evolve the schema as new domains appear — is active architectural learning; track that mastery in [[learning/_index|Learning]]. Variations and extensions (domain-specific schema rules, alternative transport configurations, multi-vault setups) are idea-worthy sparks; file those in [[ideas/_index|Ideas]]. Setup guides and documentation for the tools in this stack — [[Obsidian]] (front-end), [[qmd]] (retrieval layer), and the LLM layer — belong in [[resources/_index|Resources]].
 
-_← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation · [[hot]] — the most recent working context_
+_← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation · [[overview]] — the vault these concepts build · [[hot]] — the most recent working context_
