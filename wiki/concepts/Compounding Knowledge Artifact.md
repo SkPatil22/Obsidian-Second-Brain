@@ -29,4 +29,4 @@ The concept echoes [[Memex]] ([[Vannevar Bush]], 1945) — a private store where
 
 Understanding and maximizing the compounding dynamics — when to file a query answer back as a page, how to amplify cross-linking, how synthesis builds with each ingest — is active skill-building; track that mastery in [[learning/_index|Learning]]. New approaches to compounding knowledge (filing strategies, synthesis-first ingestion, automated cross-referencing) are worth exploring as sparks in [[ideas/_index|Ideas]]. Tools that build and surface the artifact — the ingestion stack, [[Obsidian]] for browsing, [[qmd]] for retrieval — have setup guides in [[resources/_index|Resources]].
 
-_← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation · [[hot]] — the most recent working context_
+_← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation · [[overview]] — the vault these concepts build · [[hot]] — the most recent working context_
