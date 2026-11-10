@@ -2,7 +2,7 @@
 type: meta
 title: "Maintenance — Archive"
 created: 2026-06-28
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [meta, maintenance]
 ---
 
@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state. These nightly passes are the active execution of the Lint phase in [[Second Brain Roadmap]] — the living ledger that the vault's maintenance loop runs daily, and the proof that the [[Memex|Memex's open problem of who does the maintenance]] — posed by [[Vannevar Bush]] in 1945 — is solved.
 
 ## 2026-11
+- [[meta/maintenance/2026-11-10]] — domain content pages (Raspberry Cake+Thin Ribeye+Baking+Running Shoes) → [[overview]] (4 links, 4 files); Seattle Trip footer → [[overview]] (1 link); SBR footer → [[overview]] (1 link); index.md "Recently ingested" "6 concepts, 4 entities" → wikilinks to [[concepts/_index|Concepts]] + [[entities/_index|Entities]] (2 links); IaL 102+→103+; bake warning → 108 days (8 links, 7 files)
 - [[meta/maintenance/2026-11-09]] — all 6 concept page footers → [[overview]] (body had it; concept cluster was the last footer-strip absence after catalog/_index/place-entity/PKM-entity sweeps; 6 links); 4 PKM entity footers (Karpathy+Obsidian+qmd+Memex) → [[overview]] (same body-to-footer gap; Vannevar Bush + place entities already had it; 4 links); qmd+Memex entity footers → [[meta/maintenance/_index|Maintenance archive]] (bodies had it since Nov 05 pass; Karpathy/Obsidian/Bush footers had it; qmd and Memex were the last two PKM entity footers without it; 2 links); Karpathy source footer → [[overview]] (1 link); IaL 101+→102+; bake warning → 107 days (13 links, 11 files)
 - [[meta/maintenance/2026-11-08]] — Obsidian+qmd entity footers → [[resources/_index|Resources]] (body had it; Karpathy/Memex/Bush footers had it; last two PKM tool entity footers without it; 2 links); all 6 concept pages → [[resources/_index|Resources]] (systematic gap: downstream pointer sequence learning+ideas lacked resources; each concept references tools with setup docs; 6 links); IaL 100+→101+; bake warning → 106 days (8 links, 8 files)
 - [[meta/maintenance/2026-11-07]] — Karpathy entity footer → [[meta/maintenance/_index|Maintenance archive]] (body had it; Obsidian/Bush footers had it; last PKM entity footer gap; 1 link); Karpathy source footer → [[log]] (body had it since Oct 15; Oct 29 sweep added hot but missed log; last source footer gap; 1 link); qmd entity footer → [[sources/_index|Sources]] (body has it; Karpathy/Obsidian footers have it; qmd footer sparse; 1 link) (3 links, 3 files); IaL 99+→100+ (pass #100); bake warning → 105 days
