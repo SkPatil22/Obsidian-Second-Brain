@@ -2,7 +2,7 @@
 type: meta
 title: "Maintenance — Archive"
 created: 2026-06-28
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [meta, maintenance]
 ---
 
@@ -13,6 +13,7 @@ Nightly librarian pass reports — one per day. Each pass implements the [[Inges
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state. These nightly passes are the active execution of the Lint phase in [[Second Brain Roadmap]] — the living ledger that the vault's maintenance loop runs daily, and the proof that the [[Memex|Memex's open problem of who does the maintenance]] — posed by [[Vannevar Bush]] in 1945 — is solved.
 
 ## 2026-11
+- [[meta/maintenance/2026-11-13]] — all 6 concept pages → [[areas/_index|Areas]] (systematic gap: learning+ideas+resources downstream pointers existed since passes #101–#103; areas was last missing domain catalog; bidirectional complete with areas→concepts/_index); stale frontmatter corrected: conventions.md (2026-10-27→2026-11-13) + index.md (2026-11-04→2026-11-13); IaL 105+→106+; bake warning → 111 days (6 links, 6 files)
 - [[meta/maintenance/2026-11-12]] — entity + source footer → [[learning/_index|Learning]] + [[ideas/_index|Ideas]] for all 5 PKM entities (Karpathy entity, Bush entity body+footer, Obsidian, qmd, Memex) + Karpathy source footer; Bush body paragraph added (only PKM entity without learning/ideas in body); IaL 104+→105+; bake warning → 110 days (14 links, 6 files)
 - [[meta/maintenance/2026-11-11]] — log.md header → [[Memex]] + [[Vannevar Bush]] (2 links; last major navigation-layer page without Bush/Memex lineage; closes the loop from maintenance archive to log); concepts/_index → [[Andrej Karpathy]] author attribution (1 link; last catalog page without it; consistent with sources/_index Oct 30 + index.md Nov 4); learning/_index → [[LLM Wiki Pattern]] + [[Ingest Query Lint]] (2 links; learning named concepts as a whole but never the core pattern being built); IaL 103+→104+; bake warning → 109 days (5 links, 3 files)
 - [[meta/maintenance/2026-11-10]] — domain content pages (Raspberry Cake+Thin Ribeye+Baking+Running Shoes) → [[overview]] (4 links, 4 files); Seattle Trip footer → [[overview]] (1 link); SBR footer → [[overview]] (1 link); index.md "Recently ingested" "6 concepts, 4 entities" → wikilinks to [[concepts/_index|Concepts]] + [[entities/_index|Entities]] (2 links); IaL 102+→103+; bake warning → 108 days (8 links, 7 files)

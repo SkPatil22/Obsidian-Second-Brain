@@ -4,7 +4,7 @@ title: "Three-Layer Architecture"
 status: synthesized
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-11-09
+updated: 2026-11-13
 tags: [concept, pkm, architecture]
 ---
 
@@ -31,6 +31,6 @@ See [[Ingest Query Lint]] for the operations that move data between layers — e
 - **Daily health:** Nightly Lint passes audit the wiki layer for missing links, stale claims, and orphans — archived in [[meta/maintenance/_index|Maintenance archive]]
 - **Operations log:** Every ingest, query, and lint operation that builds and maintains the wiki layer is recorded in [[log]] — the chronological companion to the archive
 
-Understanding how the three layers interact — how schema changes propagate into wiki behavior, how raw-layer immutability protects sources, how to co-evolve the schema as new domains appear — is active architectural learning; track that mastery in [[learning/_index|Learning]]. Variations and extensions (domain-specific schema rules, alternative transport configurations, multi-vault setups) are idea-worthy sparks; file those in [[ideas/_index|Ideas]]. Setup guides and documentation for the tools in this stack — [[Obsidian]] (front-end), [[qmd]] (retrieval layer), and the LLM layer — belong in [[resources/_index|Resources]].
+Understanding how the three layers interact — how schema changes propagate into wiki behavior, how raw-layer immutability protects sources, how to co-evolve the schema as new domains appear — is active architectural learning; track that mastery in [[learning/_index|Learning]]. Variations and extensions (domain-specific schema rules, alternative transport configurations, multi-vault setups) are idea-worthy sparks; file those in [[ideas/_index|Ideas]]. Setup guides and documentation for the tools in this stack — [[Obsidian]] (front-end), [[qmd]] (retrieval layer), and the LLM layer — belong in [[resources/_index|Resources]]. The wiki layer also accumulates all of Sachet's ongoing life domain pages — health, finance, career, home; as area-specific sources flow through the raw layer and get distilled upward, their synthesis lands in [[areas/_index|Areas]].
 
 _← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation · [[overview]] — the vault these concepts build · [[hot]] — the most recent working context_

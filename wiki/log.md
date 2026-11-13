@@ -2,7 +2,7 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [meta, log]
 ---
 
@@ -10,6 +10,17 @@ tags: [meta, log]
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault — the [[LLM Wiki Pattern]] in practice. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
 Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]] (the vault's first and foundational source is [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]); extracted concepts in [[concepts/_index|Concepts]] and entities in [[entities/_index|Entities]]. The [[Second Brain Roadmap]] is the staged build-out these operations execute, phase by phase. The cumulative record here — every Lint pass, ingest, and query since vault creation — is the living proof that the [[Memex]] maintenance problem ([[Vannevar Bush]], 1945) is solved; the LLM runs these passes so the associative trails don't rot.
+
+## [2026-11-13] librarian | Nightly maintenance pass
+
+- **LINK (6 links, 6 files):** Systematic concept-pages → [[areas/_index|Areas]] close. All 6 PKM concept pages (`Compounding Knowledge Artifact`, `Index and Log`, `Ingest Query Lint`, `LLM Wiki Pattern`, `Three-Layer Architecture`, `Wiki vs RAG`) had `[[learning/_index|Learning]]`, `[[ideas/_index|Ideas]]`, and `[[resources/_index|Resources]]` downstream pointers in their body prose (from passes #101–#103) but were missing `[[areas/_index|Areas]]`. The PKM concepts exist to organize all of Sachet's ongoing life domains; `areas/_index` already links to `concepts/_index` ("Concepts extracted from sources often inform how you think about life domains"); the reverse direction from each individual concept page was the remaining systematic gap. Each page received a natural sentence connecting the concept's scope to the life-domain catalog — e.g. CKA: "The artifact ultimately encompasses all of Sachet's ongoing life domains — health, finance, career, home; as area-specific sources are ingested their synthesis accretes into [[areas/_index|Areas]]." Total: 6 links, 6 files.
+- **FLAG — stale count corrected (1 file):** `concepts/Index and Log` — "105+ nightly passes" → "106+" (today is pass #106).
+- **FLAG — stale date bump + bake tracking (3 files):** `Raspberry Chocolate Cake` callout "(as of 2026-11-12)" → "(as of 2026-11-13)"; "110 days post-return" → "111 days post-return". `Seattle Trip 2026-07` same two-field correction. `overview.md` "pending at 110 days" → "pending at 111 days". Bake still `untested`.
+- **FLAG — stale frontmatter dates corrected (2 files):** `wiki/meta/conventions.md` `updated: 2026-10-27` → `2026-11-13` (last content edit was 2026-11-03; not updated at that time). `wiki/index.md` `updated: 2026-11-04` → `2026-11-13` (last content edit was 2026-11-10 by pass #103; not updated at that time).
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-11-13]]
 
 ## [2026-11-12] librarian | Nightly maintenance pass
 

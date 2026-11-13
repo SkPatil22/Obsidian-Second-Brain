@@ -4,7 +4,7 @@ title: "Wiki vs RAG"
 status: synthesized
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-11-09
+updated: 2026-11-13
 tags: [concept, pkm, comparison]
 ---
 
@@ -31,6 +31,6 @@ The wiki-compile-once approach has historical precedent in the [[Memex]] ([[Vann
 
 See [[Karpathy - LLM Wiki]]. The sources that feed the wiki side of this spectrum are cataloged in [[sources/_index|Sources]]; the distilled outputs each ingest compiles — extracted [[concepts/_index|concepts]] and [[entities/_index|entities]] — are the other half of the wiki side. The vault built on the wiki side of this spectrum — compile-once, not re-derive — is documented phase by phase in [[Second Brain Roadmap]]. The daily evidence that the wiki approach works — Lint results confirming compiled knowledge hasn't gone stale — is archived in [[meta/maintenance/_index|Maintenance archive]]. The raw chronological record of every ingest, query, and lint operation — the live ledger that accumulates this evidence — is in [[log]].
 
-Understanding your position on the wiki–RAG spectrum — making intentional design choices about where knowledge gets compiled vs. re-derived — is active architectural learning; track that mastery in [[learning/_index|Learning]]. Approaches that combine wiki and RAG benefits, or techniques that push the design further toward the wiki end (query-answer filing, synthesis-first ingestion), are worth developing as sparks in [[ideas/_index|Ideas]]. Setup guides and documentation for the wiki-side tools — [[Obsidian]] and [[qmd]] — live in [[resources/_index|Resources]].
+Understanding your position on the wiki–RAG spectrum — making intentional design choices about where knowledge gets compiled vs. re-derived — is active architectural learning; track that mastery in [[learning/_index|Learning]]. Approaches that combine wiki and RAG benefits, or techniques that push the design further toward the wiki end (query-answer filing, synthesis-first ingestion), are worth developing as sparks in [[ideas/_index|Ideas]]. Setup guides and documentation for the wiki-side tools — [[Obsidian]] and [[qmd]] — live in [[resources/_index|Resources]]. The wiki approach is what enables Sachet's ongoing life domains (health, finance, career, home) to compound in a single knowledge base rather than be re-derived on each query — those domain pages live in [[areas/_index|Areas]].
 
 _← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation · [[overview]] — the vault these concepts build · [[hot]] — the most recent working context_

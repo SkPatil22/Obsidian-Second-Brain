@@ -4,7 +4,7 @@ title: "Compounding Knowledge Artifact"
 status: synthesized
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-11-09
+updated: 2026-11-13
 tags: [concept, pkm]
 ---
 
@@ -27,6 +27,6 @@ When the wiki scales past ~100 sources, [[qmd]] adds a retrieval layer on top �
 
 The concept echoes [[Memex]] ([[Vannevar Bush]], 1945) — a private store where connections between documents are as valuable as the documents themselves. Bush's unsolved problem was who does the maintenance. [[Andrej Karpathy]] frames the LLM as the answer: the compounding artifact is the Memex, finally realizable — and [[overview|this vault]] is that artifact, growing session by session. The staged build-out is in [[Second Brain Roadmap]]; the daily health ledger in [[meta/maintenance/_index|Maintenance archive]] and the raw operational record in [[log]]. The raw material that feeds the artifact — every source that has been ingested — is cataloged in [[sources/_index|Sources]]; the extracted people, tools, and places each ingest produces are in [[entities/_index|Entities]].
 
-Understanding and maximizing the compounding dynamics — when to file a query answer back as a page, how to amplify cross-linking, how synthesis builds with each ingest — is active skill-building; track that mastery in [[learning/_index|Learning]]. New approaches to compounding knowledge (filing strategies, synthesis-first ingestion, automated cross-referencing) are worth exploring as sparks in [[ideas/_index|Ideas]]. Tools that build and surface the artifact — the ingestion stack, [[Obsidian]] for browsing, [[qmd]] for retrieval — have setup guides in [[resources/_index|Resources]].
+Understanding and maximizing the compounding dynamics — when to file a query answer back as a page, how to amplify cross-linking, how synthesis builds with each ingest — is active skill-building; track that mastery in [[learning/_index|Learning]]. New approaches to compounding knowledge (filing strategies, synthesis-first ingestion, automated cross-referencing) are worth exploring as sparks in [[ideas/_index|Ideas]]. Tools that build and surface the artifact — the ingestion stack, [[Obsidian]] for browsing, [[qmd]] for retrieval — have setup guides in [[resources/_index|Resources]]. The artifact ultimately encompasses all of Sachet's ongoing life domains — health, finance, career, home; as area-specific sources are ingested their synthesis accretes into [[areas/_index|Areas]].
 
 _← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation · [[overview]] — the vault these concepts build · [[hot]] — the most recent working context_

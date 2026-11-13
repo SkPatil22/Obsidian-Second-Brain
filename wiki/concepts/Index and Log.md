@@ -4,7 +4,7 @@ title: "Index and Log"
 status: synthesized
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [concept, pkm, navigation]
 ---
 
@@ -23,8 +23,8 @@ Append-only record of what happened and when (ingests, queries, lints). Tip: con
 ```
 → `grep "^## \[" log.md | tail -5` gives the last 5 operations. → [[log]]
 
-Together they substitute for search infrastructure at small/medium scale; a dedicated engine ([[qmd]]) is added only when the wiki outgrows them. The vault they navigate is [[overview]]. The third navigation companion alongside these two files is [[hot]] — the recent-context cache overwritten on every operation, answering "where were we?" It completes the navigation layer: index for the map, log for the timeline, hot for the current thread. See [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]. The rules governing how both files are updated on each ingest — format, required fields, commit message — live in [[meta/conventions]]. The daily running Lint record — the concrete implementation of the log.md concept across 105+ nightly passes — is archived in [[meta/maintenance/_index|Maintenance archive]]. The staged build-out that implements the Index and Log navigation layer — phase by phase — is [[Second Brain Roadmap]].
+Together they substitute for search infrastructure at small/medium scale; a dedicated engine ([[qmd]]) is added only when the wiki outgrows them. The vault they navigate is [[overview]]. The third navigation companion alongside these two files is [[hot]] — the recent-context cache overwritten on every operation, answering "where were we?" It completes the navigation layer: index for the map, log for the timeline, hot for the current thread. See [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]. The rules governing how both files are updated on each ingest — format, required fields, commit message — live in [[meta/conventions]]. The daily running Lint record — the concrete implementation of the log.md concept across 106+ nightly passes — is archived in [[meta/maintenance/_index|Maintenance archive]]. The staged build-out that implements the Index and Log navigation layer — phase by phase — is [[Second Brain Roadmap]].
 
-Developing fluency with the Index and Log pattern — building clean indexes, maintaining grep-able log formats, extending with Dataview queries as the vault grows — is an active learnable skill; track that mastery in [[learning/_index|Learning]]. New navigation approaches and catalog variations (progressive disclosure, graph-backed index, filter layers) are idea-worthy sparks; file those in [[ideas/_index|Ideas]]. Reference material and documentation for extending the Index and Log pattern — [[Obsidian]] Dataview query guides, grep-format specs — belong in [[resources/_index|Resources]].
+Developing fluency with the Index and Log pattern — building clean indexes, maintaining grep-able log formats, extending with Dataview queries as the vault grows — is an active learnable skill; track that mastery in [[learning/_index|Learning]]. New navigation approaches and catalog variations (progressive disclosure, graph-backed index, filter layers) are idea-worthy sparks; file those in [[ideas/_index|Ideas]]. Reference material and documentation for extending the Index and Log pattern — [[Obsidian]] Dataview query guides, grep-format specs — belong in [[resources/_index|Resources]]. As the wiki grows to include ongoing life area pages, the Index and Log pattern keeps them navigable alongside everything else — the catalog of those pages lives in [[areas/_index|Areas]].
 
 _← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation · [[overview]] — the vault these concepts build · [[hot]] — the most recent working context_

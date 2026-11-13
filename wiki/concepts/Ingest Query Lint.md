@@ -4,7 +4,7 @@ title: "Ingest Query Lint"
 status: synthesized
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-11-09
+updated: 2026-11-13
 tags: [concept, pkm, workflow]
 ---
 
@@ -23,6 +23,6 @@ Periodic health check. Look for: contradictions between pages, stale claims newe
 
 Run lint every ~10–15 ingests. Operations are recorded in [[Index and Log]] — and each is appended as a raw entry to [[log]], the vault's chronological record of every ingest, query, and lint this loop produces. See [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]. The vault-specific implementation of the ingest contract (steps 1–5, manifest check, page-writing rules) lives in [[meta/conventions]]. The vault these three operations build is [[overview]]. Lint results for this vault are archived as daily structured reports in [[meta/maintenance/_index|Maintenance archive]]. The staged build-out executing these three operations phase by phase is [[Second Brain Roadmap]].
 
-Developing fluency with the Ingest · Query · Lint loop — timing each ingest step, building custom lint heuristics, designing a query workflow that files discoveries back as new pages — is the core operational skill of this vault; track that mastery in [[learning/_index|Learning]]. Improvements and variations on the three operations (automated pre-ingest triage, query templates, new lint heuristics) are idea-worthy before becoming projects; file those in [[ideas/_index|Ideas]]. Setup guides and documentation for tools in the loop — [[Obsidian]] Web Clipper, the Claude CLI, media-extraction scripts — belong in [[resources/_index|Resources]].
+Developing fluency with the Ingest · Query · Lint loop — timing each ingest step, building custom lint heuristics, designing a query workflow that files discoveries back as new pages — is the core operational skill of this vault; track that mastery in [[learning/_index|Learning]]. Improvements and variations on the three operations (automated pre-ingest triage, query templates, new lint heuristics) are idea-worthy before becoming projects; file those in [[ideas/_index|Ideas]]. Setup guides and documentation for tools in the loop — [[Obsidian]] Web Clipper, the Claude CLI, media-extraction scripts — belong in [[resources/_index|Resources]]. The loop also processes area-specific sources — health research, finance insights, career notes, home projects — producing pages that accrete into [[areas/_index|Areas]] over time.
 
 _← [[concepts/_index|Concepts]] · see [[projects/_index|Projects]] for the active implementation · [[overview]] — the vault these concepts build · [[hot]] — the most recent working context_
