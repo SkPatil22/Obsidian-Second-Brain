@@ -4,7 +4,7 @@ entity_type: person
 title: "Vannevar Bush"
 status: stub
 created: 2026-10-31
-updated: 2026-11-12
+updated: 2026-11-19
 tags: [entity, person, history, pkm]
 ---
 
