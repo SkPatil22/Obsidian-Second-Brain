@@ -25,6 +25,7 @@ The vault is a direct realization of Bush's design goals:
 - **[[Second Brain Roadmap]]** — the staged build-out executing his vision, phase by phase
 - **[[meta/maintenance/_index|Maintenance archive]]** → the daily proof his open question — *who does the maintenance?* — is answered; the LLM runs these passes so the trails don't rot
 - **[[overview]]** → the current state of the vault his vision inspired
+- **[[meta/conventions|Conventions]]** → the schema rules governing how every note in this vault follows the design principles his vision articulated
 
 ## Facts
 - Directed the U.S. Office of Scientific Research and Development (OSRD) during WWII; organized large-scale scientific R&D.
