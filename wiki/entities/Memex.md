@@ -5,7 +5,7 @@ title: "Memex"
 status: stub
 sources: ["[[Karpathy - LLM Wiki]]"]
 created: 2026-06-24
-updated: 2026-11-19
+updated: 2026-11-20
 tags: [entity, history, pkm]
 ---
 
