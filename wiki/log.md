@@ -2,14 +2,24 @@
 type: meta
 title: "Log"
 created: 2026-06-24
-updated: 2026-11-20
+updated: 2026-11-21
 tags: [meta, log]
 ---
 
 # Log — Operations Record
 
 Chronological record of every [[Ingest Query Lint|Ingest · Query · Lint]] operation against this vault — the [[LLM Wiki Pattern]] in practice. Newest first. The chronological half of the [[Index and Log]] navigation pattern — [[index]] is the catalog half. The vault these operations build is at [[overview]]. Operations follow the format and mandate in [[meta/conventions]].
-Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]] (the vault's first and foundational source is [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]); extracted concepts in [[concepts/_index|Concepts]] and entities in [[entities/_index|Entities]]. The [[Second Brain Roadmap]] is the staged build-out these operations execute, phase by phase. The cumulative record here — every Lint pass, ingest, and query since vault creation — is the living proof that the [[Memex]] maintenance problem ([[Vannevar Bush]], 1945) is solved; the LLM runs these passes so the associative trails don't rot.
+Entries use a grep-able prefix: `grep "^## \[" log.md | tail -5` → recent ops. Full maintenance summaries (structured, one per day) in [[meta/maintenance/_index|Maintenance archive]]. The recent-context companion (what are we working on right now?) is [[hot]]. Ingested sources cataloged in [[sources/_index|Sources]] (the vault's first and foundational source is [[Karpathy - LLM Wiki]] by [[Andrej Karpathy]]); extracted concepts in [[concepts/_index|Concepts]] and entities in [[entities/_index|Entities]]; domain pages produced in those same ingest passes are cataloged in [[recipes/_index|Recipes]], [[travel/_index|Travel]], and [[resources/_index|Resources]]. The [[Second Brain Roadmap]] is the staged build-out these operations execute, phase by phase. The cumulative record here — every Lint pass, ingest, and query since vault creation — is the living proof that the [[Memex]] maintenance problem ([[Vannevar Bush]], 1945) is solved; the LLM runs these passes so the associative trails don't rot.
+
+## [2026-11-21] librarian | Nightly maintenance pass
+
+- **LINK (5 links, 3 files):** Knowledge-layer catalog → log symmetry gap closed. (1) `concepts/_index` → [[log]]: sources/_index has "The chronological record of when each source was ingested lives in [[log]]"; concepts/_index was the only knowledge-layer catalog without this link; added "The chronological record of when each concept page was produced — the ingest operations that created them — lives in [[log]]." before [[hot]]; 1 link, 1 file. (2) `entities/_index` → [[log]]: same gap; added matching sentence; 1 link, 1 file. (3) `log.md` header → [[recipes/_index|Recipes]] + [[travel/_index|Travel]] + [[resources/_index|Resources]]: header named the three knowledge-layer catalogs (sources, concepts, entities) produced by ingest but not the domain-layer catalogs produced in those same passes; extended the existing "Ingested sources..." sentence to add domain catalog references; 3 links, 1 file. Total: 5 links, 3 files.
+- **FLAG — stale count corrected (1 file):** `concepts/Index and Log` — "108+ nightly passes" → "109+" (this is pass #109).
+- **FLAG — stale date bump + bake tracking (3 files):** `recipes/Raspberry Chocolate Cake` callout "(as of 2026-11-20)" → "(as of 2026-11-21)"; "118 days post-return" → "119 days post-return". `travel/Seattle Trip 2026-07` same two-field correction. `wiki/overview.md` "pending at 118 days" → "pending at 119 days". Bake still `untested` (119 days since Jul 25 return).
+- **ORPHANS:** none; all pages maintain ≥1 inbound content link.
+- **DEDUP:** no duplicates found.
+- **STRUCTURE:** no moves; all correctly filed. No new categories warranted.
+- **Report:** [[meta/maintenance/2026-11-21]]
 
 ## [2026-11-20] librarian | Nightly maintenance pass
 
