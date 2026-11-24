@@ -8,7 +8,7 @@ tags: [meta, maintenance]
 
 # Maintenance Archive
 
-Nightly librarian pass reports — one per day. Each pass implements the [[Ingest Query Lint|Lint]] operation — the third step of the [[LLM Wiki Pattern]] — auditing the vault for missing wikilinks, orphan pages, duplicates, mis-filed notes, and stale claims. Results are summarized here and logged in [[log]].
+Nightly librarian pass reports — one per day. Each pass implements the [[Ingest Query Lint|Lint]] operation — the third step of the [[LLM Wiki Pattern]] coined by [[Andrej Karpathy]] — auditing the vault for missing wikilinks, orphan pages, duplicates, mis-filed notes, and stale claims. Results are summarized here and logged in [[log]].
 
 See [[meta/conventions]] for the librarian mandate (linking policy, ingestion contract). Browse [[overview]] for current vault state. These nightly passes are the active execution of the Lint phase in [[Second Brain Roadmap]] — the living ledger that the vault's maintenance loop runs daily, and the proof that the [[Memex|Memex's open problem of who does the maintenance]] — posed by [[Vannevar Bush]] in 1945 — is solved.
 
