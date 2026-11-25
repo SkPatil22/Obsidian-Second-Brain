@@ -107,5 +107,7 @@ Nutrition baseline (6 oz ribeye, no sauce): ~400 cal · 42g protein · 24g fat �
 - [[entities/_index|Entities]] — the place entities linked above (Pike Place Market, Rainier, Olympic) are cataloged there; browse the full entity catalog for connections across the vault
 - [[concepts/_index|Concepts]] — meal-prep science concepts (fat rendering, protein chemistry, acid-based sauce stability in transit, resting-meat physics) and technique frameworks surfaced by this research are concept-worthy; file those in the vault's concept catalog when a relevant culinary or food-science source is ingested
 - [[resources/_index|Resources]] — meal-prep tools, kitchen equipment, and ingredient guides relevant to portable cooking belong in the resources catalog when ready; the same catalog holds [[Running Shoes - Flat Feet]], the trip-prep footwear for the same Seattle park days these bowls are packed for
+- [[log]] — the chronological operations record; this recipe's ingest pass is recorded there
+- [[sources/_index|Sources]] — the raw-to-wiki audit trail; source material behind this recipe came via the ingest loop
 - [[overview]] — the vault this recipe belongs to
 - [[hot]] — the most recent working context; see what's currently in focus in the vault
