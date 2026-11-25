@@ -80,6 +80,8 @@ The Metcon 6 wins on boxing feel (forefoot flex, lower price). The Nano X5 Edge 
 - [[entities/_index|Entities]] — shoe brands (Nike, Reebok, NOBULL, Brooks, Saucony, New Balance) are entities; the vault's entity catalog is the home for brand/product pages if added
 - [[concepts/_index|Concepts]] — biomechanics concepts (flat-foot overpronation mechanics, heel-drop effects, medial-posting principles, cross-training vs. sport-specific trade-offs) are the intellectual framework behind this resource; worth extracting to the vault's concept catalog when a relevant sports-science or biomechanics source is ingested
 - [[recipes/_index|Recipes]] — all three trip-prep cooking pages ([[Thin Ribeye Recipes]], [[Raspberry Chocolate Cake]], [[Baking - Berries and Moisture]]) are cataloged there; the full trip-prep cluster spans footwear through portable meals to post-trip baking, all anchored at the same Tue Jul 21 Pike Place city day
+- [[log]] — the chronological operations record; this guide's ingest pass is recorded there
+- [[sources/_index|Sources]] — the raw-to-wiki audit trail; source material behind this guide came via the ingest loop
 - [[overview]] — the vault this guide belongs to
 - [[hot]] — the most recent working context; see what's currently in focus in the vault
 
